@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+pandas
+numpy
+beautifulsoup4
+requests
+scrapy
+python-dotenv
