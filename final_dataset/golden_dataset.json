@@ -1078,5 +1078,1085 @@
     "subject": "CS - Computer Organization and Architecture",
     "topic": "Machine Instructions and Addressing Modes",
     "sub_topic": "Instruction Execution Cycle and Program Tracing"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 1,
+    "marks": 1,
+    "question_text": "Gauri said that she can play the keyboard __________ her sister.",
+    "options": [
+      "A) as well as",
+      "B) as better as",
+      "C) as nicest as",
+      "D) as worse as"
+    ],
+    "answer_key": "A",
+    "subject": "General Aptitude",
+    "topic": "Verbal Ability",
+    "sub_topic": "Grammar and Sentence Structure"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 2,
+    "marks": 1,
+    "question_text": "A transparent square sheet shown above is folded along the dotted line. The folded sheet will look like",
+    "options": [
+      "A) Option A",
+      "B) Option B",
+      "C) Option C",
+      "D) Option D"
+    ],
+    "answer_key": "B",
+    "subject": "General Aptitude",
+    "topic": "Numerical Ability",
+    "sub_topic": "Spatial Aptitude"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 3,
+    "marks": 1,
+    "question_text": "If θ is the angle, in degrees, between the longest diagonal of the cube and any one of the edges of the cube, then, cos θ =",
+    "options": [
+      "A) 1/2",
+      "B) 1/√3",
+      "C) 1/√2",
+      "D) √3/2"
+    ],
+    "answer_key": "B",
+    "subject": "General Aptitude",
+    "topic": "Numerical Ability",
+    "sub_topic": "Mensuration and Geometry"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 4,
+    "marks": 1,
+    "question_text": "If (x - 1/2)² - (x - 3/2)² = x + 2, then the value of x is:",
+    "options": [
+      "A) 2",
+      "B) 4",
+      "C) 6",
+      "D) 8"
+    ],
+    "answer_key": "B",
+    "subject": "General Aptitude",
+    "topic": "Numerical Ability",
+    "sub_topic": "Algebra"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 5,
+    "marks": 1,
+    "question_text": "Pen : Write :: Knife : __________\nWhich one of the following options maintains a similar logical relation in the above?",
+    "options": [
+      "A) Vegetables",
+      "B) Sharp",
+      "C) Cut",
+      "D) Blunt"
+    ],
+    "answer_key": "C",
+    "subject": "General Aptitude",
+    "topic": "Verbal Ability",
+    "sub_topic": "Verbal Analogies"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 6,
+    "marks": 2,
+    "question_text": "Listening to music during exercise improves exercise performance and reduces discomfort. Scientists researched whether listening to music while studying can help students learn better and the results were inconclusive. Students who needed external stimulation for studying fared worse while students who did not need any external stimulation benefited from music.\nWhich one of the following statements is the CORRECT inference of the above passage?",
+    "options": [
+      "A) Listening to music has no effect on learning and a positive effect on physical exercise.",
+      "B) Listening to music has a clear positive effect both on physical exercise and on learning.",
+      "C) Listening to music has a clear positive effect on physical exercise. Music has a positive effect on learning only in some students.",
+      "D) Listening to music has a clear positive effect on learning in all students. Music has a positive effect only in some students who exercise."
+    ],
+    "answer_key": "C",
+    "subject": "General Aptitude",
+    "topic": "Verbal Ability",
+    "sub_topic": "Reading Comprehension"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 7,
+    "marks": 2,
+    "question_text": "A jigsaw puzzle has 2 pieces. One of the pieces is shown above. Which one of the given options for the missing piece when assembled will form a rectangle? The piece can be moved, rotated or flipped to assemble with the above piece.",
+    "options": [
+      "A) Option A",
+      "B) Option B",
+      "C) Option C",
+      "D) Option D"
+    ],
+    "answer_key": "A",
+    "subject": "General Aptitude",
+    "topic": "Numerical Ability",
+    "sub_topic": "Spatial Aptitude"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 8,
+    "marks": 2,
+    "question_text": "The number of students in three classes is in the ratio 3:13:6. If 18 students are added to each class, the ratio changes to 15:35:21.\nThe total number of students in all the three classes in the beginning was:",
+    "options": [
+      "A) 22",
+      "B) 66",
+      "C) 88",
+      "D) 110"
+    ],
+    "answer_key": "C",
+    "subject": "General Aptitude",
+    "topic": "Numerical Ability",
+    "sub_topic": "Ratio and Proportion"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 9,
+    "marks": 2,
+    "question_text": "The number of units of a product sold in three different years and the respective net profits are presented in the figure above. The cost/unit in Year 3 was `1, which was half the cost/unit in Year 2. The cost/unit in Year 3 was one-third of the cost/unit in Year 1. Taxes were paid on the selling price at 10%, 13% and 15% respectively for the three years. Net profit is calculated as the difference between the selling price and the sum of cost and taxes paid in that year.\nThe ratio of the selling price in Year 2 to the selling price in Year 3 is __________",
+    "options": [
+      "A) 4:3",
+      "B) 1:1",
+      "C) 3:4",
+      "D) 1:2"
+    ],
+    "answer_key": "A",
+    "subject": "General Aptitude",
+    "topic": "Numerical Ability",
+    "sub_topic": "Data Interpretation and Percentage"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 10,
+    "marks": 2,
+    "question_text": "Six students P, Q, R, S, T and U, with distinct heights, compare their heights and make the following observations.\nObservation I: S is taller than R.\nObservation II: Q is the shortest of all.\nObservation III: U is taller than only one student.\nObservation IV: T is taller than S but is not the tallest.\nThe number of students that are taller than R is the same as the number of students shorter than __________",
+    "options": [
+      "A) T",
+      "B) R",
+      "C) S",
+      "D) P"
+    ],
+    "answer_key": "C",
+    "subject": "General Aptitude",
+    "topic": "Verbal Ability",
+    "sub_topic": "Logical Deduction"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 1,
+    "marks": 1,
+    "question_text": "Let G be a connected undirected weighted graph. Consider the following two statements.\nS1: There exists a minimum weight edge in G which is present in every minimum spanning tree of G.\nS2: If every edge in G has distinct weight, then G has a unique minimum spanning tree.\nWhich one of the following options is correct?",
+    "options": [
+      "A) Both S₁ and S₂ are true.",
+      "B) S₁ is true and S₂ is false.",
+      "C) S₁ is false and S₂ is true.",
+      "D) Both S₁ and S₂ are false."
+    ],
+    "answer_key": "C",
+    "subject": "CS - Algorithms",
+    "topic": "Graph Algorithms",
+    "sub_topic": "Minimum Spanning Tree (MST) Properties"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 2,
+    "marks": 1,
+    "question_text": "Let H be a binary min-heap consisting of n elements implemented as an array. What is the worst case time complexity of an optimal algorithm to find the maximum element in H?",
+    "options": [
+      "A) Θ(1)",
+      "B) Θ(log n)",
+      "C) Θ(n)",
+      "D) Θ(n log n)"
+    ],
+    "answer_key": "C",
+    "subject": "CS - Programming and Data Structures",
+    "topic": "Heaps",
+    "sub_topic": "Properties of Min-Heaps"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 3,
+    "marks": 1,
+    "question_text": "Consider the following ANSI C program:\nint main() {\n  Integer x;\n  return 0;\n}\nWhich one of the following phases in a seven-phase C compiler will throw an error?",
+    "options": [
+      "A) Lexical analyzer",
+      "B) Syntax analyzer",
+      "C) Semantic analyzer",
+      "D) Machine dependent optimizer"
+    ],
+    "answer_key": "C",
+    "subject": "CS - Compiler Design",
+    "topic": "Phases of a Compiler",
+    "sub_topic": "Semantic Analysis and Type Checking"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 4,
+    "marks": 1,
+    "question_text": "The format of the single-precision floating-point representation of a real number as per the IEEE 754 standard is as follows: [sign | exponent | mantissa]. Which one of the following choices is correct with respect to the smallest normalized positive number represented using the standard?",
+    "options": [
+      "A) exponent = 00000000 and mantissa = 00000000000000000000000",
+      "B) exponent = 00000000 and mantissa = 00000000000000000000001",
+      "C) exponent = 00000001 and mantissa = 00000000000000000000000",
+      "D) exponent = 00000001 and mantissa = 00000000000000000000001"
+    ],
+    "answer_key": "C",
+    "subject": "CS - Digital Logic",
+    "topic": "Number Systems and Representations",
+    "sub_topic": "IEEE 754 Floating-Point Representation (Normalized Numbers)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 5,
+    "marks": 1,
+    "question_text": "Which one of the following circuits implements the Boolean function given below? f(x, y, z) = m₀ + m₁ + m₃ + m₄ + m₅ + m₆, where mᵢ is the iᵗʰ minterm.",
+    "options": [
+      "A) Circuit A",
+      "B) Circuit B",
+      "C) Circuit C",
+      "D) Circuit D"
+    ],
+    "answer_key": "A",
+    "subject": "CS - Digital Logic",
+    "topic": "Combinational Circuits",
+    "sub_topic": "Implementing Boolean Functions using Multiplexers (MUX)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 6,
+    "marks": 1,
+    "question_text": "Consider the following statements S1 and S2 about the relational data model:\nS1: A relation scheme can have at most one foreign key.\nS2: A foreign key in a relation scheme R cannot be used to refer to tuples of R.\nWhich one of the following choices is correct?",
+    "options": [
+      "A) Both S1 and S2 are true.",
+      "B) S1 is true and S2 is false.",
+      "C) S1 is false and S2 is true.",
+      "D) Both S1 and S2 are false."
+    ],
+    "answer_key": "D",
+    "subject": "CS - Databases",
+    "topic": "Relational Model",
+    "sub_topic": "Integrity Constraints (Foreign Key)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 7,
+    "marks": 1,
+    "question_text": "Consider the three-way handshake mechanism followed during TCP connection establishment between hosts P and Q. Let X and Y be two random 32-bit starting sequence numbers chosen by P and Q respectively. Suppose P sends a TCP connection request message to Q with a TCP segment having SYN bit = 1, SEQ number = X, and ACK bit = 0. Suppose Q accepts the connection request. Which one of the following choices represents the information present in the TCP segment header that is sent by Q to P?",
+    "options": [
+      "A) SYN bit = 1, SEQ number = X+1, ACK bit = 0, ACK number = Y, FIN bit = 0",
+      "B) SYN bit = 0, SEQ number = X+1, ACK bit = 0, ACK number = Y, FIN bit = 1",
+      "C) SYN bit = 1, SEQ number = Y, ACK bit = 1, ACK number = X+1, FIN bit = 0",
+      "D) SYN bit = 1, SEQ number = Y, ACK bit = 1, ACK number = X, FIN bit = 0"
+    ],
+    "answer_key": "C",
+    "subject": "CS - Computer Networks",
+    "topic": "Transport Layer",
+    "sub_topic": "TCP Connection Establishment (Three-Way Handshake)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 8,
+    "marks": 1,
+    "question_text": "What is the worst-case number of arithmetic operations performed by recursive binary search on a sorted array of size n?",
+    "options": [
+      "A) Θ(√n)",
+      "B) Θ(log₂(n))",
+      "C) Θ(n²)",
+      "D) Θ(n)"
+    ],
+    "answer_key": "B",
+    "subject": "CS - Algorithms",
+    "topic": "Algorithm Analysis",
+    "sub_topic": "Time Complexity of Binary Search"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 9,
+    "marks": 1,
+    "question_text": "Let L ⊆ {0, 1}* be an arbitrary regular language accepted by a minimal DFA with k states. Which one of the following languages must necessarily be accepted by a minimal DFA with k states?",
+    "options": [
+      "A) L - {01}",
+      "B) L ∪ {01}",
+      "C) {0, 1}* - L",
+      "D) L ⋅ L"
+    ],
+    "answer_key": "C",
+    "subject": "CS - Theory of Computation",
+    "topic": "Regular Expressions and Finite Automata",
+    "sub_topic": "Closure Properties of Regular Languages and Minimal DFA"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 10,
+    "marks": 1,
+    "question_text": "Consider the following ANSI C program.\n#include <stdio.h>\nint main() {\n  int arr[4][5];\n  int i, j;\n  for (i=0; i<4; i++){\n    for (j=0; j<5; j++){\n      arr[i][j] = 10*i + j;\n    }\n  }\n  printf(\"%d\", *(arr[1] + 9));\n  return 0;\n}\nWhat is the output of the above program?",
+    "options": [
+      "A) 14",
+      "B) 20",
+      "C) 24",
+      "D) 30"
+    ],
+    "answer_key": "C",
+    "subject": "CS - Programming and Data Structures",
+    "topic": "Programming in C",
+    "sub_topic": "Pointers and 2D Arrays"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 11,
+    "marks": 1,
+    "question_text": "Consider the following sets, where n ≥ 2:\nS₁: Set of all n x n matrices with entries from the set {a, b, c}\nS₂: Set of all functions from the set {0, 1, 2, ..., n² - 1} to the set {0, 1, 2}\nWhich of the following choice(s) is/are correct?",
+    "options": [
+      "A) There does not exist a bijection from S₁ to S₂.",
+      "B) There exists a surjection from S₁ to S₂.",
+      "C) There exists a bijection from S₁ to S₂.",
+      "D) There does not exist an injection from S₁ to S₂."
+    ],
+    "answer_key": "B; C",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Discrete Mathematics",
+    "sub_topic": "Set Theory, Cardinality, and Functions (Injections, Surjections, Bijections)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 12,
+    "marks": 1,
+    "question_text": "Let L₁ be a regular language and L₂ be a context-free language. Which of the following languages is/are context-free?",
+    "options": [
+      "A) L₁ ∩ L₂ᶜ",
+      "B) L₁ᶜ ∪ L₂",
+      "C) L₁ ∪ (L₂ ∪ L₂ᶜ)",
+      "D) (L₁ ∩ L₂) ∪ (L₁ᶜ ∩ L₂)"
+    ],
+    "answer_key": "B; C; D",
+    "subject": "CS - Theory of Computation",
+    "topic": "Regular and Context-Free Languages",
+    "sub_topic": "Closure Properties of Language Classes"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 13,
+    "marks": 1,
+    "question_text": "In the context of compilers, which of the following is/are NOT an intermediate representation of the source program?",
+    "options": [
+      "A) Three address code",
+      "B) Abstract Syntax Tree (AST)",
+      "C) Control Flow Graph (CFG)",
+      "D) Symbol table"
+    ],
+    "answer_key": "D",
+    "subject": "CS - Compiler Design",
+    "topic": "Intermediate Code Generation",
+    "sub_topic": "Types of Intermediate Representations"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 14,
+    "marks": 1,
+    "question_text": "Which of the following statement(s) is/are correct in the context of CPU scheduling?",
+    "options": [
+      "A) Turnaround time includes waiting time.",
+      "B) The goal is to only maximize CPU utilization and minimize throughput.",
+      "C) Round-robin policy can be used even when the CPU time required by each of the processes is not known apriori.",
+      "D) Implementing preemptive scheduling needs hardware support."
+    ],
+    "answer_key": "A; C; D",
+    "subject": "CS - Operating System",
+    "topic": "CPU Scheduling",
+    "sub_topic": "Scheduling Metrics and Algorithms (Round Robin)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 15,
+    "marks": 1,
+    "question_text": "Choose the correct choice(s) regarding the following propositional logic assertion S:\nS: ((P ∧ Q) → R) → ((P ∧ Q) → (Q → R))",
+    "options": [
+      "A) S is neither a tautology nor a contradiction.",
+      "B) S is a tautology.",
+      "C) S is a contradiction.",
+      "D) The antecedent of S is logically equivalent to the consequent of S."
+    ],
+    "answer_key": "B; D",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Discrete Mathematics",
+    "sub_topic": "Propositional Logic and Logical Equivalence"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 16,
+    "marks": 1,
+    "question_text": "Consider a complete binary tree with 7 nodes. Let A denote the set of first 3 elements obtained by performing Breadth-First Search (BFS) starting from the root. Let B denote the set of first 3 elements obtained by performing Depth-First Search (DFS) starting from the root. The value of |A - B| is __________.",
+    "options": [],
+    "answer_key": "1 to 1",
+    "subject": "CS - Programming and Data Structures",
+    "topic": "Trees",
+    "sub_topic": "Graph Traversal (BFS and DFS) on Trees"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 17,
+    "marks": 1,
+    "question_text": "Consider the given deterministic finite automaton (DFA). The number of strings of length 8 accepted by the above automaton is __________.",
+    "options": [],
+    "answer_key": "256 to 256",
+    "subject": "CS - Theory of Computation",
+    "topic": "Regular Expressions and Finite Automata",
+    "sub_topic": "Counting Strings Accepted by a DFA"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 18,
+    "marks": 1,
+    "question_text": "If x and y are two decimal digits and (0.1101)₂ = (0.8xy5)₁₀, the decimal value of x + y is __________.",
+    "options": [],
+    "answer_key": "3 to 3",
+    "subject": "CS - Digital Logic",
+    "topic": "Number Systems and Representations",
+    "sub_topic": "Number Base Conversion"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 19,
+    "marks": 1,
+    "question_text": "Consider a set-associative cache of size 2KB (1KB = 2¹⁰ bytes) with cache block size of 64 bytes. Assume that the cache is byte-addressable and a 32-bit address is used for accessing the cache. If the width of the tag field is 22 bits, the associativity of the cache is __________.",
+    "options": [],
+    "answer_key": "2 to 2",
+    "subject": "CS - Computer Organization and Architecture",
+    "topic": "Memory Hierarchy",
+    "sub_topic": "Set-Associative Cache Address Translation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 20,
+    "marks": 1,
+    "question_text": "Consider a computer system with DMA support. The DMA module is transferring one 8-bit character in one CPU cycle from a device to memory through cycle stealing at regular intervals. Consider a 2 MHz processor. If 0.5% processor cycles are used for DMA, the data transfer rate of the device is __________ bits per second.",
+    "options": [],
+    "answer_key": "80000 to 80000",
+    "subject": "CS - Computer Organization and Architecture",
+    "topic": "I/O Organization",
+    "sub_topic": "Direct Memory Access (DMA) and Cycle Stealing"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 21,
+    "marks": 1,
+    "question_text": "A data file consisting of 1,50,000 student-records is stored on a hard disk with block size of 4096 bytes. The data file is sorted on the primary key RollNo. The size of a record pointer for this disk is 7 bytes. Each student-record has a candidate key attribute called ANum of size 12 bytes. Suppose an index file with records consisting of two fields, ANum value and the record pointer to the corresponding student record, is built and stored on the same disk. Assume that the records of data file and index file are not split across disk blocks. The number of blocks in the index file is __________.",
+    "options": [],
+    "answer_key": "698 to 698",
+    "subject": "CS - Databases",
+    "topic": "File Structures and Indexing",
+    "sub_topic": "Index File Size Calculation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 22,
+    "marks": 1,
+    "question_text": "For a given biased coin, the probability that the outcome of a toss is a head is 0.4. This coin is tossed 1,000 times. Let X denote the random variable whose value is the number of times that head appeared in these 1,000 tosses. The standard deviation of X (rounded to 2 decimal places) is __________.",
+    "options": [],
+    "answer_key": "15.00 to 16.00",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Probability and Statistics",
+    "sub_topic": "Binomial Distribution (Mean and Variance)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 23,
+    "marks": 1,
+    "question_text": "Consider the following ANSI C function:\nint SomeFunction(int x, int y) {\n  if ((x == 1) || (y == 1)) return 1;\n  if (x == y) return x;\n  if (x > y) return SomeFunction(x - y, y);\n  if (y > x) return SomeFunction(x, y - x);\n}\nThe value returned by SomeFunction(15, 255) is __________.",
+    "options": [],
+    "answer_key": "15 to 15",
+    "subject": "CS - Algorithms",
+    "topic": "Number Theoretic Algorithms",
+    "sub_topic": "Euclidean Algorithm for GCD (Recursive)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 24,
+    "marks": 1,
+    "question_text": "Suppose that P is a 4 x 5 matrix such that every solution of the equation Px = 0 is a scalar multiple of [2 5 4 3 1]ᵀ. The rank of P is __________.",
+    "options": [],
+    "answer_key": "4 to 4",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "sub_topic": "Rank-Nullity Theorem"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 25,
+    "marks": 1,
+    "question_text": "Suppose that f: R → R is a continuous function on the interval [-3, 3] and a differentiable function in the interval (-3, 3) such that for every x in the interval, f'(x) ≤ 2. If f(-3) = 7, then f(3) is at most __________.",
+    "options": [],
+    "answer_key": "19 to 19",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Calculus",
+    "sub_topic": "Mean Value Theorem"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 26,
+    "marks": 2,
+    "question_text": "Consider the string abbccddeee. Each letter must be assigned a binary code satisfying: 1. It must be a prefix code. 2. For letters of the same frequency, the one earlier in dictionary order gets a code of length less than or equal to the other. Among all such binary code assignments, what is the minimum length of the encoded string?",
+    "options": [
+      "A) 21",
+      "B) 23",
+      "C) 25",
+      "D) 30"
+    ],
+    "answer_key": "B",
+    "subject": "CS - Algorithms",
+    "topic": "Greedy Algorithms",
+    "sub_topic": "Huffman Coding"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 27,
+    "marks": 2,
+    "question_text": "Assume a two-level inclusive cache hierarchy, L1 and L2, where L2 is larger. Consider the statements.\nS1: Read misses in a write through L1 cache do not result in writebacks of dirty lines to the L2.\nS2: Write allocate policy must be used with write through caches and no-write allocate policy is used with writeback caches.\nWhich statement is correct?",
+    "options": [
+      "A) S₁ is true and S₂ is false",
+      "B) S₁ is false and S₂ is true",
+      "C) S₁ is true and S₂ is true",
+      "D) S₁ is false and S₂ is false"
+    ],
+    "answer_key": "A",
+    "subject": "CS - Computer Organization and Architecture",
+    "topic": "Memory Hierarchy",
+    "sub_topic": "Cache Policies (Write-Through, Write-Back, Write-Allocate)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 28,
+    "marks": 2,
+    "question_text": "Design a synchronous circuit that processes 0s and 1s, replacing the first 1 in any subsequence of consecutive 1s with a 0. The circuit can be a two-state Mealy machine. Let s be the current state, t the next state, b the input bit, and y the output bit. Assume initial state is 0. What are the Boolean expressions for t and y in terms of s and b?",
+    "options": [
+      "A) t = s + b, y = s b",
+      "B) t = b, y = s' b",
+      "C) t = b, y = s b",
+      "D) t = s + b, y = s' b"
+    ],
+    "answer_key": "B",
+    "subject": "CS - Digital Logic",
+    "topic": "Sequential Circuits",
+    "sub_topic": "Finite State Machine Design (Mealy Machine)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 29,
+    "marks": 2,
+    "question_text": "In an exam, a student chooses the order to attempt QuesA and QuesB. Rules apply for scoring. The table shows probabilities of correct answers and marks for each. To maximize expected marks, in which order should she attempt the questions and what is the expected marks?\n| question | probability | marks |\n|---|---|---|\n| QuesA | 0.8 | 10 |\n| QuesB | 0.5 | 20 |",
+    "options": [
+      "A) First QuesA and then QuesB. Expected marks 14.",
+      "B) First QuesB and then QuesA. Expected marks 14.",
+      "C) First QuesB and then QuesA. Expected marks 22.",
+      "D) First QuesA and then QuesB. Expected marks 16."
+    ],
+    "answer_key": "D",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Probability and Statistics",
+    "sub_topic": "Expected Value Calculation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 30,
+    "marks": 2,
+    "question_text": "Consider the ANSI C code segment. Assume y points to a struct on the heap, and variables x, y, z, p, q, i are in registers. Common sub-expression elimination (CSE) is applied. What are the number of addition and dereference operations in the optimized code, respectively?\n`z = x + 3 + y->f1 + y->f2; for (i = 0; i < 200; i = i + 2){ if (z > i) { p = p + x + 3; q = q + y->f1; } else { p = p + y->f2; q = q + x + 3; } }`",
+    "options": [
+      "A) 403 and 102",
+      "B) 203 and 2",
+      "C) 303 and 102",
+      "D) 303 and 2"
+    ],
+    "answer_key": "D",
+    "subject": "CS - Compiler Design",
+    "topic": "Code Optimization",
+    "sub_topic": "Common Sub-expression Elimination (CSE)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 31,
+    "marks": 2,
+    "question_text": "The relation emp(empId, name, gender, salary, deptId) is given. Consider the SQL query: `select deptId, count(*) from emp where gender = \"female\" and salary > (select avg(salary) from emp) group by deptId;`. The query gives, for each department, the number of female employees whose salary is greater than the average salary of",
+    "options": [
+      "A) employees in the department.",
+      "B) employees in the company.",
+      "C) female employees in the department.",
+      "D) female employees in the company."
+    ],
+    "answer_key": "B",
+    "subject": "CS - Databases",
+    "topic": "SQL",
+    "sub_topic": "SQL Queries with Subqueries and Aggregation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 32,
+    "marks": 2,
+    "question_text": "Let S be the schedule of operations of three transactions T1, T2, T3: R₂(Y), R₁(X), R₃(Z), R₁(Y), W₁(X), R₂(Z), W₂(Y), R₃(X), W₃(Z). Consider statements P and Q:\nP: S is conflict-serializable.\nQ: If T₃ commits before T₁ finishes, then S is recoverable.\nWhich one of the following choices is correct?",
+    "options": [
+      "A) Both P and Q are true.",
+      "B) P is true and Q is false.",
+      "C) P is false and Q is true.",
+      "D) Both P and Q are false."
+    ],
+    "answer_key": "B",
+    "subject": "CS - Databases",
+    "topic": "Transactions and Concurrency Control",
+    "sub_topic": "Conflict Serializability and Recoverability of Schedules"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 33,
+    "marks": 2,
+    "question_text": "A bag has r red balls and b black balls. In a trial, a ball is drawn, its colour noted, and it is placed back with another ball of the same colour. A sequence of four such trials is conducted. What is the probability of drawing a red ball in the fourth trial?",
+    "options": [
+      "A) r / (r+b)",
+      "B) r / (r+b+3)",
+      "C) (r+3) / (r+b+3)",
+      "D) (r/(r+b)) * ((r+1)/(r+b+1)) * ((r+2)/(r+b+2)) * ((r+3)/(r+b+3))"
+    ],
+    "answer_key": "A",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Probability and Statistics",
+    "sub_topic": "Conditional Probability (Pólya's Urn Scheme)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 34,
+    "marks": 2,
+    "question_text": "Consider the CRC scheme with generator polynomial X³+X+1. The message m₄m₃m₂m₁m₀ = 11000 is to be transmitted. Check bits c₂c₁c₀ are appended. The value of the checkbit sequence c₂c₁c₀ is",
+    "options": [
+      "A) 101",
+      "B) 110",
+      "C) 100",
+      "D) 111"
+    ],
+    "answer_key": "C",
+    "subject": "CS - Computer Networks",
+    "topic": "Data Link Layer",
+    "sub_topic": "Error Detection (Cyclic Redundancy Check)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 35,
+    "marks": 2,
+    "question_text": "Consider the given ANSI C program that manipulates a linked list. Which one of the statements below is correct about the program?",
+    "options": [
+      "A) Upon execution, the program creates a linked-list of five nodes.",
+      "B) Upon execution, the program goes into an infinite loop.",
+      "C) It has a missing return which will be reported as an error by the compiler.",
+      "D) It dereferences an uninitialized pointer that may result in a run-time error."
+    ],
+    "answer_key": "D",
+    "subject": "CS - Programming and Data Structures",
+    "topic": "Programming in C",
+    "sub_topic": "Linked Lists, Pointers, and Dynamic Memory Allocation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 36,
+    "marks": 2,
+    "question_text": "Consider the following two statements about regular languages:\nS₁: Every infinite regular language contains an undecidable language as a subset.\nS₂: Every finite language is regular.\nWhich one of the following choices is correct?",
+    "options": [
+      "A) Only S₁ is true.",
+      "B) Only S₂ is true.",
+      "C) Both S₁ and S₂ are true.",
+      "D) Neither S₁ nor S₂ is true."
+    ],
+    "answer_key": "C",
+    "subject": "CS - Theory of Computation",
+    "topic": "Regular Expressions and Finite Automata",
+    "sub_topic": "Properties of Regular and Undecidable Languages"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 37,
+    "marks": 2,
+    "question_text": "For two n-dimensional real vectors P and Q, the operation s(P,Q) is defined as s(P,Q) = Σ(P[i]·Q[i]) from i=1 to n. Let L be a set of 10-dimensional non-zero real vectors such that for every pair of distinct vectors P, Q ∈ L, s(P,Q) = 0. What is the maximum cardinality possible for the set L?",
+    "options": [
+      "A) 9",
+      "B) 10",
+      "C) 11",
+      "D) 100"
+    ],
+    "answer_key": "B",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "sub_topic": "Vector Spaces and Orthogonality"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 38,
+    "marks": 2,
+    "question_text": "For a statement S in a program, in the context of liveness analysis, USE(S), IN(S), and OUT(S) are defined. Consider a basic block with statement S₁ followed by S₂. Which one of the following statements is correct?",
+    "options": [
+      "A) OUT(S₁) = IN(S₂)",
+      "B) OUT(S₁) = IN(S₁) ∪ USE(S₁)",
+      "C) OUT(S₁) = IN(S₂) ∪ OUT(S₂)",
+      "D) OUT(S₁) = USE(S₁) ∪ IN(S₂)"
+    ],
+    "answer_key": "A",
+    "subject": "CS - Compiler Design",
+    "topic": "Code Optimization",
+    "sub_topic": "Data Flow Analysis (Liveness Analysis)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 39,
+    "marks": 2,
+    "question_text": "For constants a ≥ 1 and b > 1, consider the recurrence T(n) = a·T(n/b) + f(n). Which one of the following options is correct about the recurrence T(n)?",
+    "options": [
+      "A) If f(n) is n log₂(n), then T(n) is Θ(n log₂(n)).",
+      "B) If f(n) is n / log₂(n), then T(n) is Θ(log₂(n)).",
+      "C) If f(n) is O(n^(log_b(a)-ε)) for some ε > 0, then T(n) is Θ(n^(log_b(a))).",
+      "D) If f(n) is Θ(n^(log_b(a))), then T(n) is Θ(n^(log_b(a)))."
+    ],
+    "answer_key": "C",
+    "subject": "CS - Algorithms",
+    "topic": "Asymptotic Analysis",
+    "sub_topic": "Solving Recurrence Relations (Master Theorem)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 40,
+    "marks": 2,
+    "question_text": "Suppose the following functional dependencies hold on a relation U with attributes P, Q, R, S, and T:\nP → QR\nRS → T\nWhich of the following functional dependencies can be inferred from the above functional dependencies?",
+    "options": [
+      "A) PS → T",
+      "B) R → T",
+      "C) P → R",
+      "D) PS → Q"
+    ],
+    "answer_key": "A; C; D",
+    "subject": "CS - Databases",
+    "topic": "Database Design and Normalization",
+    "sub_topic": "Functional Dependencies and Armstrong's Axioms"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 41,
+    "marks": 2,
+    "question_text": "For a string w, we define wᴿ to be the reverse of w. Which of the following languages is/are context-free?",
+    "options": [
+      "A) {wxwᴿxᴿ | w, x ∈ {0,1}*}",
+      "B) {wwᴿxxᴿ | w, x ∈ {0,1}*}",
+      "C) {wxwᴿ | w, x ∈ {0,1}*}",
+      "D) {wxxᴿwᴿ | w, x ∈ {0,1}*}"
+    ],
+    "answer_key": "B; C; D",
+    "subject": "CS - Theory of Computation",
+    "topic": "Context-Free Grammars and Push-Down Automata",
+    "sub_topic": "Properties of Context-Free Languages"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 42,
+    "marks": 2,
+    "question_text": "Consider the multi-threaded code segment invoked by two processes P1 and P2, where each spawns two threads T1 and T2 to execute foo(). Which statement(s) is/are correct?\n`int x = 0; Lock L1; main() { create_thread(foo); create_thread(foo); wait(); print(x); } foo() { int y = 0; Acquire L1; x = x + 1; y = y + 1; Release L1; print(y); }`",
+    "options": [
+      "A) Both P1 and P2 will print the value of x as 2.",
+      "B) At least one of P1 and P2 will print the value of x as 4.",
+      "C) At least one of the threads will print the value of y as 2.",
+      "D) Both T1 and T2, in both the processes, will print the value of y as 1."
+    ],
+    "answer_key": "A; D",
+    "subject": "CS - Operating System",
+    "topic": "Concurrency and Synchronization",
+    "sub_topic": "Race Conditions, Locks, and Shared vs Local Variables"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 43,
+    "marks": 2,
+    "question_text": "Consider a system with multiple shared resource types (one instance each). A scheme `OWNRESOURCE(R)` is used to acquire resources. Which choice(s) about the scheme is/are correct?",
+    "options": [
+      "A) The scheme ensures that deadlocks will not occur.",
+      "B) The scheme may lead to live-lock.",
+      "C) The scheme may lead to starvation.",
+      "D) The scheme violates the mutual exclusion property."
+    ],
+    "answer_key": "A; B; C",
+    "subject": "CS - Operating System",
+    "topic": "Deadlock",
+    "sub_topic": "Deadlock, Livelock, and Starvation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 44,
+    "marks": 2,
+    "question_text": "If the numerical value of a 2-byte unsigned integer on a little endian computer is 255 more than that on a big endian computer, which of the following choices represent(s) the unsigned integer on a little endian computer?",
+    "options": [
+      "A) 0x6665",
+      "B) 0x0001",
+      "C) 0x4243",
+      "D) 0x0100"
+    ],
+    "answer_key": "A; D",
+    "subject": "CS - Computer Organization and Architecture",
+    "topic": "Data Representation",
+    "sub_topic": "Endianness (Little vs. Big Endian)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 45,
+    "marks": 2,
+    "question_text": "Consider a network using the distance vector routing algorithm. Router R has neighbors X, Y, Z. Distances R-X, R-Y, R-Z are 3, 2, 5. R gets routing vectors from its neighbors with distances to P and Q. Which statement(s) is/are correct for R's new routing table?",
+    "options": [
+      "A) The distance from R to P will be stored as 10.",
+      "B) The distance from R to Q will be stored as 7.",
+      "C) The next hop router for a packet from R to P is Y.",
+      "D) The next hop router for a packet from R to Q is Z."
+    ],
+    "answer_key": "B; C",
+    "subject": "CS - Computer Networks",
+    "topic": "Network Layer",
+    "sub_topic": "Distance Vector Routing Algorithm"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 46,
+    "marks": 2,
+    "question_text": "Consider the given directed graph. Which of the following is/are correct about the graph?",
+    "options": [
+      "A) The graph does not have a topological order.",
+      "B) A depth-first traversal starting at vertex S classifies three directed edges as back edges.",
+      "C) The graph does not have a strongly connected component.",
+      "D) For each pair of vertices u and v, there is a directed path from u to v."
+    ],
+    "answer_key": "A; B",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Discrete Mathematics",
+    "sub_topic": "Graph Theory (Topological Sort, DFS, SCC, Cycles)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 47,
+    "marks": 2,
+    "question_text": "Which of the following regular expressions represent(s) the set of all binary numbers that are divisible by three? Assume that the string ε is divisible by three.",
+    "options": [
+      "A) (0 + 1(01*0)*1)*",
+      "B) (0 + 11 + 10(1+00)*01)*",
+      "C) (0*(1(01*0)*1)*)*",
+      "D) (0 + 11 + 11(1+00)*00)*"
+    ],
+    "answer_key": "A; B; C",
+    "subject": "CS - Theory of Computation",
+    "topic": "Regular Expressions and Finite Automata",
+    "sub_topic": "Regular Expressions for Number Properties"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 48,
+    "marks": 2,
+    "question_text": "Consider a three-level page table to translate a 39-bit virtual address. Page size is 4KB and page table entry size is 8 bytes. A process P is using 2GB of virtual memory. The minimum amount of memory required for the page table of P across all levels is __________ KB.",
+    "options": [],
+    "answer_key": "4108 to 4108",
+    "subject": "CS - Operating System",
+    "topic": "Memory Management",
+    "sub_topic": "Multi-level Paging and Page Table Size Calculation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 49,
+    "marks": 2,
+    "question_text": "Consider the following ANSI C program.\n`#include <stdio.h>\nint foo(int x, int y, int q) { ... }\nint main() { int r = foo(15,15,10); printf(\"%d\", r); return 0; }\n` The output of the program upon execution is __________.",
+    "options": [],
+    "answer_key": "60 to 60",
+    "subject": "CS - Algorithms",
+    "topic": "Recursion",
+    "sub_topic": "Analysis of Recursive Functions"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 50,
+    "marks": 2,
+    "question_text": "Let S be a set consisting of 10 elements. The number of tuples of the form (A, B) such that A and B are subsets of S, and A ⊆ B is __________.",
+    "options": [],
+    "answer_key": "59049 to 59049",
+    "subject": "CS - Engineering Mathematics",
+    "topic": "Discrete Mathematics",
+    "sub_topic": "Combinatorics and Set Theory"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 51,
+    "marks": 2,
+    "question_text": "Consider the given augmented grammar. Let I₀ = CLOSURE({S' → •S}). The number of items in the set GOTO(GOTO(I₀, <), <) is __________.",
+    "options": [],
+    "answer_key": "8 to 8",
+    "subject": "CS - Compiler Design",
+    "topic": "Parsing",
+    "sub_topic": "Construction of LR(0) or SLR(1) Parsing Automaton (CLOSURE and GOTO)"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 52,
+    "marks": 2,
+    "question_text": "Consider a Boolean function f(w, x, y, z) such that f(w,0,0,z) = 1; f(1,x,1,z) = x+z; f(w,1,y,z) = wz+y. The number of literals in the minimal sum-of-products expression of f is __________.",
+    "options": [],
+    "answer_key": "6 to 6",
+    "subject": "CS - Digital Logic",
+    "topic": "Boolean Algebra and Logic Gates",
+    "sub_topic": "Boolean Function Minimization using K-Maps or Algebraic Manipulation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 53,
+    "marks": 2,
+    "question_text": "Consider a 5-stage pipelined processor. EX stage takes 1 cycle for ADD, 2 for MUL. Consider the sequence: ADD, MUL, ADD, MUL, ... (8 instructions total). Assume data dependencies between consecutive instructions. The Speedup achieved in executing the sequence on the pipelined processor (rounded to 2 decimal places) is __________.",
+    "options": [],
+    "answer_key": "1.87 to 1.88",
+    "subject": "CS - Computer Organization and Architecture",
+    "topic": "Instruction Pipelining",
+    "sub_topic": "Pipeline Performance with Data Hazards and Speedup Calculation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 54,
+    "marks": 2,
+    "question_text": "Consider a network using the pure ALOHA protocol. Each frame is 1,000 bits. Channel rate is 1 Mbps. The aggregate number of transmissions is a Poisson process with a rate of 1,000 frames/sec. The throughput of the network (rounded to the nearest integer) is __________.",
+    "options": [],
+    "answer_key": "130 to 140",
+    "subject": "CS - Computer Networks",
+    "topic": "Medium Access Control",
+    "sub_topic": "Pure ALOHA Throughput Calculation"
+  },
+  {
+    "paper_year": 2021,
+    "paper_subject": "CS",
+    "paper_set": 2,
+    "question_number": 55,
+    "marks": 2,
+    "question_text": "In a directed acyclic graph with source s, the quality-score of a path is the product of edge weights. The quality-score of a vertex v is the maximum quality-score of all paths from s to v. The quality-score of s is 1. The sum of the quality-scores of all the vertices in the graph shown is __________.",
+    "options": [],
+    "answer_key": "929 to 929",
+    "subject": "CS - Algorithms",
+    "topic": "Graph Algorithms",
+    "sub_topic": "Shortest/Longest Path on a Directed Acyclic Graph (DAG)"
   }
 ]
