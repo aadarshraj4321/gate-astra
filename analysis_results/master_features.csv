@@ -1,0 +1,1145 @@
+topic_id,subject,topic_name,monte_carlo_prob,nptel_heat_score,prof_bias_score
+1,CS - Computer Organization and Architecture,Memory Hierarchy - Cache Performance and CPI,0.07298604924561768,0,0.0
+2,CS - Operating Systems,Process Synchronization - Deadlock Avoidance,0.04582733690366641,0,0.0
+3,CS - Algorithms,Graph Algorithms - Shortest Path Properties (Johnson's Algorithm),0.056817630978816445,0,0.0
+4,CS - Algorithms,Algorithm Analysis - Solving Recurrence Relations,0.056817630978816445,1,0.0
+5,CS - Databases,Database Design and Normalization - Lossless Join Decomposition,0.06487775641365104,0,0.0
+6,CS - Theory of Computation,Recursive and Recursively Enumerable Languages - Properties and Closure,0.07299755658574755,0,0.0
+7,CS - Computer Organization and Architecture,Memory Hierarchy - Disk Storage,0.07298604924561768,0,0.0
+8,CS - Compiler Design,Syntax Analysis - LL(1) Parsing Table Construction,0.03243828900977912,0,0.0
+9,CS - Operating Systems,Deadlocks - Conditions for Deadlock,0.04582733690366641,0,0.0
+10,CS - Algorithms,Graph Algorithms - Minimum Spanning Trees (MST),0.056817630978816445,0,0.0
+11,GA - Analytical Aptitude,Logical Reasoning - Graph Theory and Connectivity,0.017616999084000946,0,0.0
+12,CS - Databases,File Structures - B+ Tree Properties,0.06487775641365104,0,0.0
+13,CS - Operating System,"Concurrency and Synchronization - Semaphores, Race Conditions, and Deadlock",0.08113754992326849,0,0.0
+14,CS - Programming and Data Structures,"Data Structures - Queues, Linked Lists, Time Complexity",0.10545683565696502,3,0.0
+15,CS - Engineering Mathematics,Discrete Mathematics - Predicate Logic,0.1054223297135872,10,0.0
+16,CS - Engineering Mathematics,Calculus - Definite Integrals,0.1054223297135872,0,0.0
+17,CS - Theory of Computation,Regular Expressions - Solving Recurrence Relations for Regular Grammars,0.07299755658574755,0,0.0
+18,DA - Algorithms,Graph Algorithms - Shortest Path Properties,0.0035214591728229662,0,0.0
+19,GA - Analytical Aptitude,Puzzles - Spatial Reasoning,0.017616999084000946,0,0.0
+20,DA - Algorithms,Stacks - Pseudocode Tracing,0.0035214591728229662,0,0.0
+21,GA - Quantitative Aptitude,Algebra - Linear Equations,0.03920341122283779,0,0.0
+22,CS - Engineering Mathematics,Graph Theory - Graph Coloring and Four Color Theorem,0.1054223297135872,0,0.0
+23,CS - Engineering Mathematics,Discrete Mathematics - Relations and Their Properties,0.1054223297135872,0,0.0
+24,CS - Programming and Data Structures,Programming in C - Pointers and Call by Reference/Value,0.10545683565696502,0,0.0
+25,CS - Databases,Indexing - B+ Tree Search,0.06487775641365104,0,0.0
+26,CS - Programming and Data Structures,Heaps - Min-Heap Properties,0.10545683565696502,0,0.0
+27,DA - Databases,Relational Database Design - Candidate Keys and BCNF,0.0026465337442448454,0,0.0
+28,CS - Compiler Design,Syntax Analysis - Control Flow Paths,0.03243828900977912,0,0.0
+29,CS - Digital Logic,Data Representation - 2's Complement and Sign-Magnitude,0.04861885724656857,0,0.0
+30,CS - Compiler Design,Code Optimization - Basic Blocks and Control Flow Graphs,0.03243828900977912,0,0.0
+31,DA - Probability and Statistics,Limit Theorems - Central Limit Theorem,0.008368046624628868,0,0.0
+32,CS - Operating Systems,Interrupts - Interrupt Handling,0.04582733690366641,0,0.0
+33,CS - Engineering Mathematics,Discrete Mathematics - Group Theory,0.1054223297135872,1,0.0
+34,General Aptitude,Quantitative Aptitude - Sequences and Series,0.12170366001303264,0,0.0
+35,CS - Databases,Relational Model - Terminology (Degree/Arity),0.06487775641365104,0,0.0
+36,DA - Algorithms,Searching Algorithms - Binary Search,0.0035214591728229662,0,0.0
+37,CS - Engineering Mathematics,Linear Algebra - Eigenvalues and Eigenvectors,0.1054223297135872,0,0.0
+38,GA - Quantitative Aptitude,Data Interpretation - Pie Charts and Tables,0.03920341122283779,0,0.0
+39,CS - Programming and Data Structures,Programming in C - Functions and Call by Value,0.10545683565696502,0,0.0
+40,CS - Programming and Data Structures,Programming in C - Pointers and 2D Arrays,0.10545683565696502,0,0.0
+41,CS - Computer Organization and Architecture,Memory Hierarchy - Cache Mapping,0.07298604924561768,0,0.0
+42,CS - Algorithms,Analysis of Algorithms - Amortized Analysis (Queue Operations),0.056817630978816445,0,0.0
+43,CS - Programming and Data Structures,Trees - Properties of Binary Search Trees (BST),0.10545683565696502,0,0.0
+44,CS - Computer Organization and Architecture,Interrupts - Interrupt Handling Sequence,0.07298604924561768,0,0.0
+45,CS - Engineering Mathematics,Discrete Mathematics - Relations and Probability,0.1054223297135872,0,0.0
+46,CS - Programming and Data Structures,Heaps - Complexity of Heap Operations,0.10545683565696502,0,0.0
+47,CS - Databases,Database Design and Normalization - Third Normal Form (3NF) and Boyce-Codd Normal Form (BCNF),0.06487775641365104,0,0.0
+48,CS - Theory of Computation,Regular and Context-Free Languages - Closure Properties of Language Classes,0.07299755658574755,0,0.0
+49,CS - Computer Organization and Architecture,CPU Design - RISC vs CISC Architecture,0.07298604924561768,0,0.0
+50,DA - Data Structures,Queues - Deque Operations,0.0022064146551626714,0,0.0
+51,CS - Operating Systems,Memory Management - Paging and Address Translation,0.04582733690366641,0,0.0
+52,General Aptitude,Numerical Ability - Data Interpretation and Percentage,0.12170366001303264,0,0.0
+53,CS - Operating System,CPU Scheduling - Shortest Remaining Time First (SRTF) Scheduling,0.08113754992326849,0,0.0
+54,CS - Theory of Computation,Context-Free Languages - Identifying CFLs,0.07299755658574755,0,0.0
+55,GA - Verbal Ability,Reading Comprehension - Paragraph Jumbles,0.02685821019834579,0,0.0
+56,DA - Machine Learning,Supervised Learning - Naive Bayes Classifier,0.0066121157200683895,0,0.0
+57,DA - Machine Learning,Unsupervised Learning - Hierarchical Clustering,0.0066121157200683895,0,0.0
+58,CS - Programming and Data Structures,"Programming in C - Pass by Reference/Value, Recursion",0.10545683565696502,0,0.0
+59,CS - Programming and Data Structures,Data Structures - Queues (Circular Array Implementation),0.10545683565696502,0,0.0
+60,DA - Machine Learning,Unsupervised Learning - Hierarchical Clustering (Single Linkage),0.0066121157200683895,0,0.0
+61,DA - Linear Algebra,Matrices - Properties of Matrices,0.004406859254495474,0,0.0
+62,CS - Computer Organization and Architecture,Memory Hierarchy - Disk I/O Performance,0.07298604924561768,0,0.0
+63,CS - Engineering Mathematics,Numerical Methods - Trapezoidal Rule,0.1054223297135872,0,0.0
+64,CS - Computer Networks,Data Link Layer - Transmission and Propagation Delay,0.048629636577785254,0,0.0
+65,CS - Compiler Design,Intermediate Code Generation and Optimization - Directed Acyclic Graphs (DAG) for Common Subexpression Elimination,0.03243828900977912,0,0.0
+66,GA - Verbal Ability,English Grammar - Adverbs and Word Order,0.02685821019834579,0,0.0
+67,GA - Verbal Ability,Analogy - Word Relationships,0.02685821019834579,0,0.0
+68,CS - Algorithms,Graph Algorithms - Breadth First Search (BFS) Orderings,0.056817630978816445,0,0.0
+69,GA - Quantitative Aptitude,Mensuration - Percentage Change,0.03920341122283779,0,0.0
+70,CS - Compiler Design,Intermediate Code Generation - Static Single Assignment (SSA),0.03243828900977912,0,0.0
+71,CS - Computer Organization and Architecture,Instruction Set Architecture - Instruction Format,0.07298604924561768,0,0.0
+72,CS - Engineering Mathematics,Mathematical Logic - Logical Implication,0.1054223297135872,0,0.0
+73,CS - Programming and Data Structures,Programming in C - Pointer Arithmetic,0.10545683565696502,11,0.0
+74,CS - Computer Organization and Architecture,Pipelining - Data Hazards,0.07298604924561768,0,0.0
+75,CS - Digital Logic,Sequential Circuits - State Diagram Analysis (Johnson Counter),0.04861885724656857,0,0.0
+155,CS - Engineering Mathematics,Linear Algebra - Properties of Trace of a Matrix,0.1054223297135872,0,0.0
+76,CS - Theory of Computation,Turing Machines and Undecidability - Countability of Languages and Programs,0.07299755658574755,0,0.0
+77,GA - Verbal Ability,Grammar - Tenses,0.02685821019834579,0,0.0
+78,DA - Calculus,Differential Calculus - Extrema on an Interval,0.00352253587875968,0,0.0
+79,GA - Verbal Ability,Reading Comprehension - Inference,0.02685821019834579,0,0.0
+80,GA - Analytical Aptitude,Logical Reasoning - Blood Relations,0.017616999084000946,0,0.0
+81,CS - Computer Networks,Application and Network Layer - Address Resolution Protocols,0.048629636577785254,0,0.0
+82,CS - Theory of Computation,Regular Languages - Closure Properties,0.07299755658574755,0,0.0
+83,GA - Analytical Aptitude,Number Series - Pattern Recognition,0.017616999084000946,0,0.0
+84,CS - Digital Logic,Data Representation - 2's Complement,0.04861885724656857,0,0.0
+85,CS - Compiler Design,Syntax Directed Translation - SDTS and Parsers,0.03243828900977912,0,0.0
+86,CS - Theory of Computation,Formal Languages - Regular Languages,0.07299755658574755,0,0.0
+87,CS - Theory of Computation,Finite Automata - NFA to DFA Conversion and State Complexity,0.07299755658574755,0,0.0
+88,CS - Operating Systems,Memory Management - Page Replacement Algorithms,0.04582733690366641,0,0.0
+89,CS - Engineering Mathematics,Calculus - Limits (L'Hopital's Rule),0.1054223297135872,0,0.0
+90,DA - Machine Learning,Supervised Learning - Nearest Centroid Classifier,0.0066121157200683895,0,0.0
+91,CS - Engineering Mathematics,Graph Theory - Properties of Trees,0.1054223297135872,0,0.0
+92,GA - Spatial Aptitude,Paper Folding and Cutting - Unfolding Patterns,0.008808261396316252,0,0.0
+93,CS - Operating Systems,CPU Scheduling - Preemptive Priority Scheduling,0.04582733690366641,0,0.0
+94,CS - Databases,"Relational Model - Relational Algebra (Self Join, Projection, and Selection)",0.06487775641365104,0,0.0
+95,CS - Programming and Data Structures,Programming in C - Bitwise Operators and Character Encoding,0.10545683565696502,0,0.0
+96,DA - Linear Algebra,Matrices - Determinants and Cayley-Hamilton Theorem,0.004406859254495474,0,0.0
+97,CS - Databases,SQL - Correlated Subqueries and Set Operations,0.06487775641365104,0,0.0
+98,CS - Algorithms,Graph Algorithms - Breadth First Search (BFS),0.056817630978816445,0,0.0
+99,CS - Digital Logic,Combinational Circuits - Boolean Function Simplification,0.04861885724656857,0,0.0
+100,CS - Digital Logic,Boolean Algebra - K-Maps and Prime Implicants,0.04861885724656857,0,0.0
+101,GA - Quantitative Aptitude,Functions - Maxima and Minima,0.03920341122283779,0,0.0
+102,CS - Theory of Computation,Finite Automata - Language Accepted by DFA,0.07299755658574755,0,0.0
+103,CS - Operating Systems,File Systems - Linked Allocation and Internal Fragmentation,0.04582733690366641,0,0.0
+104,CS - Operating Systems,Threads - Thread Context Switching,0.04582733690366641,0,0.0
+105,GA - Verbal Ability,Grammar - Prepositions and Phrasal Verbs,0.02685821019834579,0,0.0
+106,CS - Computer Organization and Architecture,Instruction Set Architecture - Addressing Modes,0.07298604924561768,0,0.0
+107,CS - Databases,Relational Algebra - Outer Join,0.06487775641365104,0,0.0
+108,CS - Databases,Concurrency Control - Two-Phase Locking (2PL),0.06487775641365104,0,0.0
+109,CS - Computer Networks,"Protocol Headers - TCP, UDP, IPv6, Ethernet",0.048629636577785254,0,0.0
+110,CS - Software Engineering,Software Project Management - Function Point Metric,0.0070455287321587266,0,0.0
+111,CS - Engineering Mathematics,Linear Algebra - Eigenvalues and Properties of Matrices,0.1054223297135872,0,0.0
+112,CS - Theory of Computation,Pushdown Automata - Language accepted by PDA,0.07299755658574755,0,0.0
+113,CS - Algorithms,Number Theory - Modular Exponentiation,0.056817630978816445,0,0.0
+114,GA - Quantitative Aptitude,Probability - Basic Probability,0.03920341122283779,0,0.0
+115,CS - Compiler Design,Syntax Analysis - LR(0) Parsing,0.03243828900977912,0,0.0
+116,DA - Linear Algebra,Eigenvalues and Eigenvectors - Calculating Eigenvalues,0.004406859254495474,0,0.0
+117,GA - Quantitative Aptitude,Ratio and Proportion - Percentages,0.03920341122283779,0,0.0
+118,CS - Computer Networks,Media Access Control - CSMA/CD and Minimum Frame Size,0.048629636577785254,0,0.0
+119,DA - Probability and Statistics,Continuous Random Variables - CDF and Median,0.008368046624628868,0,0.0
+120,CS - Theory of Computation,Undecidability - Reducibility and Closure Properties,0.07299755658574755,1,0.0
+121,CS - Digital Logic,Boolean Algebra and Logic Gates - Logic Gate Implementation,0.04861885724656857,0,0.0
+122,CS - Theory of Computation,Context-Free Languages - Pumping Lemma for CFLs,0.07299755658574755,0,0.0
+123,CS - Computer Networks,Transport Layer - TCP/UDP Applications,0.048629636577785254,0,0.0
+124,CS - Computer Organization and Architecture,Datapath Design - ALU Operations,0.07298604924561768,0,0.0
+125,GA - Analytical Aptitude,Arrangement - Linear Arrangement,0.017616999084000946,0,0.0
+126,CS - Engineering Mathematics,Probability - Continuous Probability Distributions,0.1054223297135872,0,0.0
+127,CS - Databases,ER Model - Weak Entity Sets,0.06487775641365104,0,0.0
+128,GA - Spatial Aptitude,Visual Reasoning - Problem Solving,0.008808261396316252,0,0.0
+129,CS - Databases,SQL - Correlated Subqueries and Joins,0.06487775641365104,0,0.0
+130,CS - Compiler Design,Syntax Analysis - Bottom-up Parsing,0.03243828900977912,0,0.0
+131,CS - Databases,Functional Dependencies - Candidate Keys,0.06487775641365104,0,0.0
+132,CS - Engineering Mathematics,Numerical Methods - Simpson's 1/3 Rule,0.1054223297135872,0,0.0
+133,DA - Databases,SQL - Joins and Filtering,0.0026465337442448454,0,0.0
+134,GA - Verbal Ability,English Grammar - Homophones,0.02685821019834579,0,0.0
+135,GA - Quantitative Aptitude,Algebra - Factor Theorem,0.03920341122283779,0,0.0
+136,General Aptitude,Verbal Ability - Grammar,0.12170366001303264,0,0.0
+137,General Aptitude,"Numerical Ability - Speed, Time, and Distance (Relative Speed)",0.12170366001303264,0,0.0
+138,CS - Algorithms,Graph Algorithms - Minimum Spanning Tree (Prim's/Kruskal's Algorithm),0.056817630978816445,0,0.0
+139,CS - Theory of Computation,Regular Expressions and Finite Automata - DFA Design (Cross-Product Construction),0.07299755658574755,0,0.0
+140,CS - Compiler Design,"Syntax Analysis - LR Parsers (SLR, LALR, CLR)",0.03243828900977912,0,0.0
+141,CS - Programming and Data Structures,"Programming in C - Control Flow (for loop), Operator Precedence, and Short-Circuit Evaluation",0.10545683565696502,1,0.0
+142,CS - Digital Logic,Boolean Algebra and Logic Gates - Boolean Function Manipulation with Minterms,0.04861885724656857,0,0.0
+143,CS - Databases,Relational Database Design - Candidate Keys and Superkeys,0.06487775641365104,0,0.0
+144,CS - Computer Networks,Application Layer - HTTP and DNS Performance,0.048629636577785254,0,0.0
+145,DA - Linear Algebra,Systems of Linear Equations - Existence and Uniqueness of Solutions,0.004406859254495474,0,0.0
+146,CS - Programming and Data Structures,Programming in C - Function Call Mechanism,0.10545683565696502,0,0.0
+147,CS - Engineering Mathematics,Probability and Statistics - Poisson Distribution,0.1054223297135872,0,0.0
+148,CS - Compiler Design,Syntax Directed Translation - Attribute Grammars,0.03243828900977912,0,0.0
+149,CS - Databases,Indexing and Hashing - Primary Indexing,0.06487775641365104,0,0.0
+150,CS - Engineering Mathematics,"Probability - Conditional Probability, Bayes' Theorem",0.1054223297135872,0,0.0
+151,CS - Algorithms,Analysis of Algorithms - Asymptotic Analysis (Loops),0.056817630978816445,0,0.0
+152,CS - Computer Organization and Architecture,Input/Output (I/O) Systems - Polling vs. Interrupts,0.07298604924561768,0,0.0
+153,CS - Compiler Design,Intermediate Code Generation - Control Flow Graph,0.03243828900977912,0,0.0
+154,CS - Computer Networks,Network Security - Digital Signatures,0.048629636577785254,0,0.0
+156,CS - Databases,"SQL - SQL Queries with Joins, Subqueries and Aggregation",0.06487775641365104,0,0.0
+157,CS - Digital Logic,Boolean Algebra - K-Maps (POS form),0.04861885724656857,0,0.0
+158,CS - Theory of Computation,Regular Expressions - Language Description,0.07299755658574755,1,0.0
+159,CS - Algorithms,Graph Algorithms - Breadth First Search (BFS) on Trees,0.056817630978816445,0,0.0
+160,CS - Computer Networks,Network Protocols - ARP and TCP,0.048629636577785254,0,0.0
+161,CS - Computer Organization and Architecture,Performance Evaluation - CPI and Clock Cycle Time,0.07298604924561768,0,0.0
+162,CS - Theory of Computation,Turing Machines - Decidability and Closure Properties,0.07299755658574755,0,0.0
+163,CS - Digital Logic,Boolean Algebra and Logic Gates - Boolean Identities and XOR Properties,0.04861885724656857,0,0.0
+164,CS - Algorithms,Data Structures - Heaps (Heapify),0.056817630978816445,0,0.0
+165,GA - Analytical Aptitude,Logical Reasoning - Contradictory Statements,0.017616999084000946,0,0.0
+166,CS - Digital Logic,Sequential Circuits - Latches and Flip-Flops,0.04861885724656857,0,0.0
+167,CS - Computer Networks,TCP - Window Size and RTT,0.048629636577785254,0,0.0
+168,CS - Programming and Data Structures,Programming in C - Pointers and Strings,0.10545683565696502,0,0.0
+169,CS - Algorithms,Asymptotic Analysis - Analysis of Algorithms,0.056817630978816445,0,0.0
+170,GA - Spatial Aptitude,Geometry - Area and Composition of Shapes,0.008808261396316252,0,0.0
+171,CS - Digital Logic,Boolean Algebra - Properties of Boolean Operators,0.04861885724656857,0,0.0
+172,General Aptitude,Numerical Ability - Geometry,0.12170366001303264,0,0.0
+173,CS - Operating Systems,Disk Scheduling - C-LOOK Algorithm,0.04582733690366641,0,0.0
+174,CS - Algorithms,Graph Algorithms - Minimum Spanning Tree (Cut Property),0.056817630978816445,0,0.0
+175,General Aptitude,Numerical Ability - Set Theory and Venn Diagrams,0.12170366001303264,0,0.0
+176,CS - Operating System,"Concurrency and Synchronization - Race Conditions, Locks, and Shared vs Local Variables",0.08113754992326849,0,0.0
+177,DA - Algorithms,Graph Algorithms - Depth-First Search,0.0035214591728229662,0,0.0
+178,General Aptitude,Verbal Ability - Logical Deduction (Truth-tellers and Liars),0.12170366001303264,0,0.0
+179,CS - Computer Networks,Application Layer - Stateful vs Stateless Protocols,0.048629636577785254,0,0.0
+180,CS - Digital Logic,Data Representation - 2's Complement and Sign Extension,0.04861885724656857,0,0.0
+181,General Aptitude,Verbal Ability - Vocabulary and Context,0.12170366001303264,0,0.0
+182,CS - Theory of Computation,Finite Automata - Minimal DFA,0.07299755658574755,0,0.0
+183,General Aptitude,Numerical Ability - Shortest Path Problem,0.12170366001303264,0,0.0
+184,CS - Digital Logic,Sequential Circuits - Finite State Machine Design (Mealy Machine),0.04861885724656857,0,0.0
+185,CS - Theory of Computation,Complexity Theory - NP-Completeness and Reducibility,0.07299755658574755,0,0.0
+186,CS - Algorithms,Recurrence Relations - Solving Recurrences,0.056817630978816445,1,0.0
+187,DA - Discrete Mathematics,Predicate Logic - Logical Equivalence and Representation,0.0013240876940712615,0,0.0
+188,CS - Compiler Design,Parsing - Bottom-up Parsing (Shift-Reduce),0.03243828900977912,0,0.0
+189,CS - Databases,SQL - Referential Integrity and Cascading Actions,0.06487775641365104,0,0.0
+190,CS - Algorithms,Array Problems - Sliding Window,0.056817630978816445,0,0.0
+191,GA - Spatial Aptitude,Geometry - Properties of Surfaces,0.008808261396316252,0,0.0
+192,CS - Computer Organization and Architecture,Pipelining - Performance and Speedup,0.07298604924561768,0,0.0
+193,CS - Operating Systems,Memory Management - Paging / Page Table Structure,0.04582733690366641,0,0.0
+194,CS - Engineering Mathematics,Mathematical Logic - Propositional Logic Translation,0.1054223297135872,0,0.0
+195,CS - Data Structures,Advanced Data Structures - Meld Operation Complexity,0.004849599702058917,0,0.0
+196,DA - Databases,Indexing - Query Optimization,0.0026465337442448454,0,0.0
+197,CS - Algorithms,Algorithm Analysis - Asymptotic Complexity,0.056817630978816445,0,0.0
+198,CS - Software Engineering,Software Testing - Flaw Detection,0.0070455287321587266,0,0.0
+199,DA - Probability and Statistics,Descriptive Statistics - Mean Calculation,0.008368046624628868,0,0.0
+200,DA - Machine Learning,"Classification of ML Models - PCA, Naive Bayes, Logistic Regression",0.0066121157200683895,0,0.0
+201,CS - Computer Organization and Architecture,Memory Hierarchy - Average Memory Access Time (AMAT),0.07298604924561768,0,0.0
+202,CS - Theory of Computation,Turing Machines and Computability - Closure Properties of Recursive and RE Languages,0.07299755658574755,0,0.0
+203,CS - Programming and Data Structures,Linked Lists - List Reversal Algorithm Analysis,0.10545683565696502,0,0.0
+204,CS - Databases,Transactions - ACID Properties,0.06487775641365104,0,0.0
+205,CS - Engineering Mathematics,Discrete Mathematics - Graph Properties (Handshaking Lemma),0.1054223297135872,0,0.0
+206,CS - Digital Logic,Sequential Circuits - Flip-Flops and State Analysis,0.04861885724656857,0,0.0
+207,GA - Verbal Ability,English Grammar - Sentence Correction,0.02685821019834579,0,0.0
+208,CS - Programming and Data Structures,Trees - Binary Search Tree and Complete Binary Tree Properties,0.10545683565696502,0,0.0
+209,CS - Databases,Relational Model - Integrity Constraints (Foreign Key),0.06487775641365104,0,0.0
+210,CS - Theory of Computation,Context-Free Languages - Closure Properties of CFLs,0.07299755658574755,0,0.0
+211,DA - Artificial Intelligence,Search Algorithms - Admissible Heuristics,0.0017576184229337092,0,0.0
+212,CS - Engineering Mathematics,Linear Algebra - Eigenvectors and Eigenvalues,0.1054223297135872,0,0.0
+213,CS - Databases,Concurrency Control - Conflict Serializability and Precedence Graph,0.06487775641365104,0,0.0
+214,CS - Algorithms,Algorithm Analysis - Time Complexity of Standard Algorithms,0.056817630978816445,0,0.0
+215,CS - Theory of Computation,Context-Free Languages - Language Generated by a Grammar,0.07299755658574755,0,0.0
+216,GA - Spatial Aptitude,Symmetry - Visual Reasoning,0.008808261396316252,0,0.0
+217,GA - Quantitative Aptitude,Geometry - Similar Triangles and Area Ratios,0.03920341122283779,0,0.0
+218,CS - Computer Networks,"Application Layer - Email Protocols (SMTP, POP3, IMAP)",0.048629636577785254,0,0.0
+219,CS - Databases,"Relational Model - SQL, Relational Algebra, Tuple Relational Calculus",0.06487775641365104,0,0.0
+220,CS - Engineering Mathematics,Probability - Conditional Probability and Geometric Series,0.1054223297135872,0,0.0
+221,DA - Probability and Statistics,Probability Theory - Bayes' Theorem,0.008368046624628868,0,0.0
+222,CS - Algorithms,Sorting Algorithms - Bubble Sort Analysis,0.056817630978816445,0,0.0
+223,CS - Programming and Data Structures,Programming in C - Algorithm Analysis and Number Manipulation,0.10545683565696502,102,0.0
+224,CS - Theory of Computation,Regular Expressions and Finite Automata - Closure Properties of Regular Languages and Minimal DFA,0.07299755658574755,0,0.0
+225,CS - Digital Logic,Number Systems and Representations - IEEE 754 Floating-Point Representation,0.04861885724656857,0,0.0
+226,General Aptitude,"Numerical Ability - Percentage, Profit, and Loss",0.12170366001303264,0,0.0
+227,CS - Digital Logic,Data Representation - Fixed-Point Representation,0.04861885724656857,0,0.0
+228,CS - Operating Systems,Memory Management - Page Replacement Algorithms (LIFO vs OPT),0.04582733690366641,0,0.0
+229,GA - Quantitative Aptitude,Calculus - Intermediate Value Theorem,0.03920341122283779,0,0.0
+230,CS - Engineering Mathematics,Probability - Random Variables and Distributions,0.1054223297135872,0,0.0
+231,CS - Algorithms,Graph Algorithms - MST Properties (Cut and Cycle properties),0.056817630978816445,0,0.0
+232,CS - Compiler Design,Syntax Analysis - LL(1) and LR(1) Grammars,0.03243828900977912,0,0.0
+233,CS - Computer Networks,Network Layer - Distance Vector Routing Algorithm,0.048629636577785254,0,0.0
+234,DA - Databases,Relational Database Design - Functional Dependencies and Closure,0.0026465337442448454,0,0.0
+235,CS - Compiler Design,Phases of a Compiler - Outputs of Phases,0.03243828900977912,0,0.0
+236,CS - Computer Organization and Architecture,Input/Output (I/O) Systems - DMA and Interrupts,0.07298604924561768,0,0.0
+237,CS - Computer Organization and Architecture,Instruction Pipelining - Pipeline Performance and Speedup Calculation with Stalls,0.07298604924561768,0,0.0
+238,CS - Compiler Design,Syntax Directed Translation - S-Attributed and L-Attributed Definitions,0.03243828900977912,0,0.0
+239,CS - Databases,ER to Relational Mapping - Mapping Rules for Relationships,0.06487775641365104,0,0.0
+240,CS - Engineering Mathematics,Discrete Mathematics - Group Theory (Lagrange's Theorem),0.1054223297135872,0,0.0
+241,CS - Theory of Computation,Context-Free Languages - Properties of Generated Strings,0.07299755658574755,0,0.0
+242,CS - Compiler Design,Parsing - Construction of LR(0) or SLR(1) Parsing Automaton (CLOSURE and GOTO),0.03243828900977912,0,0.0
+243,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory and Euler's Formula for Planar Graphs,0.1054223297135872,0,0.0
+244,CS - Programming and Data Structures,"Programming in C - Pointers, Call by Value vs Call by Reference",0.10545683565696502,0,0.0
+245,CS - Algorithms,Graph Algorithms - Minimum Spanning Tree (MST) Update,0.056817630978816445,0,0.0
+246,GA - Analytical Aptitude,Geometry - Angle Properties of Polygons,0.017616999084000946,0,0.0
+247,CS - Algorithms,Dynamic Programming - Matrix Chain Multiplication,0.056817630978816445,0,0.0
+248,CS - Theory of Computation,"Formal Languages - Regular Languages, Language Operations",0.07299755658574755,0,0.9857229590415955
+249,CS - Algorithms,Searching - Binary Search,0.056817630978816445,0,0.0
+250,DA - Algorithms,Graph Algorithms - Topological Sorting,0.0035214591728229662,0,0.0
+251,CS - Engineering Mathematics,Calculus - Continuity and Differentiability,0.1054223297135872,0,0.0
+252,CS - Databases,"ER Model - Relationships, Cardinality, and Participation",0.06487775641365104,0,0.0
+253,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics (Stars and Bars),0.1054223297135872,0,0.0
+254,CS - Software Engineering,Software Testing - Capture-Recapture Method,0.0070455287321587266,0,0.0
+255,CS - Databases,Relational Model - Relational Algebra (Division),0.06487775641365104,0,0.0
+256,DA - Calculus,Differential Calculus - Continuity and Differentiability,0.00352253587875968,0,0.0
+257,CS - Theory of Computation,Regular Expressions and Finite Automata - Counting Strings Accepted by a DFA,0.07299755658574755,0,0.0
+258,CS - Compiler Design,Syntax Analysis - Left Recursion Elimination,0.03243828900977912,0,0.0
+259,CS - Programming and Data Structures,Programming Languages - Parameter Passing and Scoping,0.10545683565696502,0,0.0
+260,CS - Digital Logic,Combinational Circuits - Multiplexers (MUX),0.04861885724656857,0,0.0
+261,CS - Algorithms,Greedy Algorithms - Huffman Coding,0.056817630978816445,0,0.0
+262,CS - Programming and Data Structures,Hashing - Hash Functions,0.10545683565696502,1,0.0
+263,CS - Operating Systems,CPU Scheduling - SRTF Algorithm,0.04582733690366641,0,0.0
+264,GA - Analytical Aptitude,Functions - Function Evaluation,0.017616999084000946,0,0.0
+265,CS - Engineering Mathematics,Probability - Conditional Probability,0.1054223297135872,0,0.0
+266,CS - Engineering Mathematics,Discrete Mathematics - Group Theory / Algebraic Structures,0.1054223297135872,0,0.0
+267,CS - Operating Systems,Process Synchronization - Race Conditions / Semaphores,0.04582733690366641,0,0.0
+268,DA - Programming,Python - Set Operations and Loop Analysis,0.0008777208061861666,0,0.0
+269,CS - Databases,"Transactions and Concurrency Control - 2PL, Timestamp Ordering, and Serializability",0.06487775641365104,0,0.0
+270,CS - Computer Organization and Architecture,Memory Hierarchy - Memory Bandwidth Calculation,0.07298604924561768,0,0.0
+271,CS - Computer Networks,Network Layer - Subnetting and Classless Inter-Domain Routing (CIDR),0.048629636577785254,0,0.0
+272,CS - Computer Organization and Architecture,Pipelining - Data Hazards (Anti-dependence),0.07298604924561768,0,0.0
+273,GA - Quantitative Aptitude,Permutations and Combinations - Number Formation and Divisibility Rules,0.03920341122283779,0,0.0
+274,CS - Compiler Design,Symbol Table Management - Properties and Lifecycle,0.03243828900977912,0,0.0
+275,CS - Programming and Data Structures,"Algorithm Analysis - Loop Analysis, Logarithms",0.10545683565696502,0,0.0
+276,CS - Theory of Computation,Turing Machines and Computability - Computable Functions and Recursive Languages,0.07299755658574755,0,0.0
+277,CS - Databases,Relational Model - Relational Algebra and Query Result Size Estimation,0.06487775641365104,0,0.0
+278,CS - Computer Networks,Flow Control - Stop-and-Wait ARQ Throughput,0.048629636577785254,0,0.0
+279,CS - Operating Systems,Deadlocks - Deadlock Conditions,0.04582733690366641,0,0.0
+280,CS - Digital Logic,Sequential Circuits - Flip-Flop Excitation Tables and Circuit Design,0.04861885724656857,1,0.0
+281,CS - Engineering Mathematics,Linear Algebra - Rank-Nullity Theorem,0.1054223297135872,0,0.0
+282,GA - Verbal Ability,Critical Reasoning - Inference,0.02685821019834579,0,0.0
+283,CS - Computer Organization and Architecture,Instruction Set Architecture - Instruction Encoding and Memory Alignment,0.07298604924561768,0,0.0
+284,CS - Computer Organization and Architecture,Memory Hierarchy - Set-Associative Cache Address Translation,0.07298604924561768,1,0.0
+285,CS - Databases,Transactions and Concurrency Control - Conflict Serializability and Recoverability of Schedules,0.06487775641365104,0,0.0
+286,GA - Verbal Ability,Vocabulary - Synonyms and Antonyms,0.02685821019834579,0,0.0
+287,CS - Algorithms,Asymptotic Analysis - Recurrence Relations from Flowcharts,0.056817630978816445,0,0.0
+288,CS - Theory of Computation,Undecidability - Undecidable Problems,0.07299755658574755,0,0.0
+289,DA - Linear Algebra,Vector Spaces - Subspace Identification,0.004406859254495474,0,0.0
+290,CS - Engineering Mathematics,Calculus - Integration by Parts,0.1054223297135872,0,0.0
+291,GA - Analytical Aptitude,Data Sufficiency - Quantitative Reasoning,0.017616999084000946,0,0.0
+292,CS - Computer Organization and Architecture,CPU Datapath and Control - Instruction Execution Cycle,0.07298604924561768,0,0.0
+293,CS - Algorithms,Algorithm Analysis - Time Complexity of Binary Search,0.056817630978816445,0,0.0
+294,General Aptitude,Numerical Ability - Number Series (Geometric Progression),0.12170366001303264,0,0.0
+295,DA - Probability and Statistics,Random Variables - Covariance,0.008368046624628868,0,0.0
+296,DA - Calculus,Differential Calculus - Rules of Differentiation,0.00352253587875968,0,0.0
+297,CS - Databases,"Normalization - Normal Forms (1NF, 2NF, 3NF)",0.06487775641365104,0,0.0
+298,CS - Computer Networks,Data Link Layer - CSMA/CD,0.048629636577785254,0,0.0
+299,DA - Programming,Recursion - Tree Traversal using Recursion,0.0008777208061861666,0,0.0
+300,DA - Data Structures,Hashing - Linear Probing,0.0022064146551626714,0,0.0
+301,CS - Compiler Design,Syntax Analysis - FIRST and FOLLOW sets,0.03243828900977912,0,0.0
+302,CS - Programming and Data Structures,Programming in C - Pointer Arithmetic and Array Indexing,0.10545683565696502,38,0.0
+303,GA - Quantitative Aptitude,Number Systems - Perfect Cubes and Prime Factorization,0.03920341122283779,0,0.0
+304,CS - Programming and Data Structures,Hashing - Load Factor,0.10545683565696502,0,0.0
+305,CS - Theory of Computation,Context-Free Languages - Closure Properties,0.07299755658574755,0,0.0
+306,CS - Computer Networks,Network Layer - Longest Prefix Match,0.048629636577785254,0,0.0
+307,CS - Computer Networks,Data Link Layer - Error Detection (Cyclic Redundancy Check),0.048629636577785254,0,0.0
+308,CS - Theory of Computation,Finite Automata and Regular Languages - Regular Expression to NFA Conversion,0.07299755658574755,0,0.0
+309,CS - Operating Systems,Process Synchronization - Race Condition,0.04582733690366641,0,0.0
+310,GA - Verbal Ability,Vocabulary - Analogy,0.02685821019834579,0,0.0
+311,CS - Engineering Mathematics,Discrete Mathematics - Number Theory,0.1054223297135872,1,0.0
+312,CS - Algorithms,Asymptotic Analysis - Asymptotic Notations,0.056817630978816445,0,0.0
+313,DA - Databases,Data Warehousing and Mining - OLAP and CUBE operator,0.0026465337442448454,0,0.0
+314,CS - Programming and Data Structures,Linked Lists - Complexity of Insertion into a Sorted Linked List,0.10545683565696502,0,0.0
+315,GA - Quantitative Aptitude,Mensuration - Surface Area of Cubes,0.03920341122283779,0,0.0
+316,CS - Engineering Mathematics,"Mathematical Logic - First-Order Logic, Models",0.1054223297135872,0,0.0
+317,GA - Quantitative Aptitude,Sequences and Series - Arithmetic Progression,0.03920341122283779,0,0.0
+318,DA - Calculus,Limits - L'Hôpital's Rule,0.00352253587875968,0,0.0
+319,CS - Computer Organization and Architecture,Memory Hierarchy - RAM Chip Organization,0.07298604924561768,0,0.0
+320,CS - Programming and Data Structures,Programming in C - Recursion,0.10545683565696502,0,0.0
+321,DA - Machine Learning,Deep Learning - Activation Functions,0.0066121157200683895,0,0.0
+322,CS - Engineering Mathematics,Discrete Mathematics - Partial Orders (Topological Sort),0.1054223297135872,0,0.0
+323,CS - Programming and Data Structures,Trees - Range Queries in Balanced Binary Search Trees,0.10545683565696502,0,0.0
+324,DA - Databases,Relational Algebra - Set Operations and Relational Integrity,0.0026465337442448454,0,0.0
+325,CS - Programming and Data Structures,Programming in C - Static Variables and for loop execution sequence,0.10545683565696502,0,0.0
+326,CS - Engineering Mathematics,"Discrete Mathematics - Graph Theory (Topological Sort, DFS, SCC, Cycles)",0.1054223297135872,0,0.0
+327,CS - Engineering Mathematics,Calculus - Limits and L'Hôpital's Rule,0.1054223297135872,0,0.0
+328,General Aptitude,Verbal Ability - Reading Comprehension,0.12170366001303264,0,0.0
+329,CS - Operating Systems,Memory Management - Paging and Translation Lookaside Buffer (TLB),0.04582733690366641,0,0.0
+330,CS - Algorithms,Asymptotic Analysis - Solving Recurrence Relations (Akra-Bazzi method or Recursion Tree),0.056817630978816445,0,0.0
+331,CS - Compiler Design,Syntax Analysis - SLR Parsing,0.03243828900977912,0,0.0
+332,CS - Data Structures,Trees - Binary Search Tree Insertion Complexity,0.004849599702058917,0,0.0
+333,CS - Computer Networks,Network Layer - IP Header,0.048629636577785254,0,0.0
+334,CS - Digital Logic,Boolean Algebra and Logic Gates - Boolean Expression Simplification and Complementation (De Morgan's Law),0.04861885724656857,0,0.0
+335,CS - Theory of Computation,Finite Automata and Regular Languages - DFA to Regular Expression Conversion,0.07299755658574755,0,0.0
+336,CS - Programming and Data Structures,"Data Structures - Heaps, Combinatorics",0.10545683565696502,0,0.0
+337,CS - Computer Networks,Flow Control - Stop-and-Wait Protocol Efficiency,0.048629636577785254,0,0.0
+338,CS - Databases,Transactions and Concurrency Control - Conflict Equivalence and Serializability,0.06487775641365104,0,0.0
+339,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics and Binomial Identities,0.1054223297135872,1,0.0
+340,CS - Engineering Mathematics,Mathematical Logic - First-Order Logic and Quantifiers,0.1054223297135872,0,0.0
+341,CS - Programming and Data Structures,Data Structures - Stacks and Queues,0.10545683565696502,0,0.0
+342,GA - Spatial Aptitude,Transformations - Rotation and Reflection,0.008808261396316252,0,0.0
+343,CS - Theory of Computation,Context-Free Languages - Pushdown Automata,0.07299755658574755,0,0.0
+344,CS - Data Structures,Trees - Properties of Full Binary Trees,0.004849599702058917,0,0.0
+345,CS - Operating System,Memory Management - Effective Memory Access Time with Paging and TLB,0.08113754992326849,0,0.0
+346,CS - Digital Logic,Computer Arithmetic - 2's Complement and Overflow,0.04861885724656857,8,0.0
+347,DA - Machine Learning,Probabilistic Graphical Models - Inference Algorithms in Bayesian Networks,0.0066121157200683895,0,0.0
+348,CS - Engineering Mathematics,Calculus - Properties of Definite Integrals,0.1054223297135872,0,0.0
+349,CS - Engineering Mathematics,Probability - Bayes' Theorem,0.1054223297135872,0,0.0
+350,CS - Compiler Design,Syntax Analysis - Operator Precedence and Associativity,0.03243828900977912,0,0.0
+351,CS - Databases,Relational Model - Tuple Relational Calculus,0.06487775641365104,0,0.0
+352,CS - Theory of Computation,Regular Expressions and Finite Automata - Regular Expressions for Number Properties,0.07299755658574755,0,0.0
+353,CS - Computer Organization and Architecture,CPU Design - Micro-operations / Interrupts,0.07298604924561768,0,0.0
+354,CS - Operating Systems,Process Synchronization - Lamport's Bakery Algorithm,0.04582733690366641,0,0.0
+355,CS - Algorithms,Algorithm Design Techniques - Maximum Subarray Sum (Kadane's Algorithm),0.056817630978816445,0,0.0
+356,CS - Algorithms,Searching Algorithms - Search in a Bitonic Array,0.056817630978816445,0,0.0
+357,GA - Quantitative Aptitude,Data Interpretation - Bar Charts and Percentage Change,0.03920341122283779,0,0.0
+358,CS - Engineering Mathematics,Probability and Statistics - Expected Value on Trees,0.1054223297135872,0,0.0
+359,CS - Programming and Data Structures,Heaps - Properties of Min-Heaps,0.10545683565696502,0,0.0
+360,CS - Digital Logic,Combinational Circuits - Adders and Propagation Delay,0.04861885724656857,0,0.0
+361,DA - Probability and Statistics,Probabilistic Graphical Models - Bayesian Networks and Conditional Independence,0.008368046624628868,0,0.0
+362,DA - Databases,Relational Algebra - Division Operator,0.0026465337442448454,0,0.0
+363,CS - Compiler Design,"Syntax Analysis - Parse Trees, Operator Precedence and Associativity",0.03243828900977912,0,0.0
+364,CS - Operating Systems,Process Synchronization - Critical Section Problem,0.04582733690366641,0,0.0
+365,GA - Quantitative Aptitude,Probability - Set Theory and Probability,0.03920341122283779,0,0.0
+366,CS - Operating Systems,CPU Scheduling - Scheduling Algorithms Comparison,0.04582733690366641,0,0.0
+367,DA - Algorithms,Recurrence Relations - Binary Search,0.0035214591728229662,0,0.0
+368,CS - Databases,"SQL - Joins (Inner, Outer)",0.06487775641365104,0,0.0
+369,CS - Digital Logic,Boolean Algebra - Canonical Forms (SOP and POS),0.04861885724656857,0,0.0
+370,DA - Calculus,Limits - Limits at Infinity,0.00352253587875968,0,0.0
+371,DA - Probability and Statistics,Probability Theory - Complementary Events,0.008368046624628868,0,0.0
+372,CS - Engineering Mathematics,Graph Theory - Self-Complementary Graphs,0.1054223297135872,0,0.0
+373,DA - Algorithms,Sorting Algorithms - Analysis of Sorting Passes,0.0035214591728229662,0,0.0
+374,CS - Theory of Computation,Regular and Context-Free Languages - Language Classification (Chomsky Hierarchy),0.07299755658574755,0,0.0
+375,CS - Operating Systems,Deadlocks - Resource Allocation Graph,0.04582733690366641,0,0.0
+376,CS - Compiler Design,Intermediate Code Generation - Three-Address Code,0.03243828900977912,0,0.0
+377,CS - Engineering Mathematics,Probability - Conditional Probability and Random Variables,0.1054223297135872,0,0.0
+378,CS - Operating Systems,Deadlocks - Deadlock Prevention,0.04582733690366641,0,0.0
+379,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Adjacency Matrix),0.1054223297135872,0,0.0
+456,CS - Operating System,"Deadlock - Deadlock, Livelock, and Starvation",0.08113754992326849,0,0.0
+380,CS - Engineering Mathematics,Linear Algebra - Vector Spaces over Finite Fields and Probability,0.1054223297135872,0,0.0
+381,DA - Probability and Statistics,Data Preprocessing - Z-score Normalization,0.008368046624628868,0,0.0
+382,CS - Databases,SQL and Relational Algebra - Equivalence of Operators,0.06487775641365104,0,0.0
+383,CS - Digital Logic,Boolean Algebra - Properties of Boolean Functions (Majority Function),0.04861885724656857,0,0.0
+384,GA - Quantitative Aptitude,Percentages - Data Interpretation,0.03920341122283779,0,0.0
+385,CS - Software Engineering,Software Testing - Code Inspection and Walkthrough,0.0070455287321587266,0,0.0
+386,CS - Computer Networks,Error Detection and Correction - Cyclic Redundancy Check (CRC),0.048629636577785254,0,0.0
+387,CS - Computer Organization and Architecture,Memory System - Address Bus Calculation,0.07298604924561768,0,0.0
+388,CS - Databases,SQL - SQL Queries with Subqueries and Aggregation,0.06487775641365104,0,0.0
+389,CS - Digital Logic,Number Systems and Representations - 2's Complement Representation,0.04861885724656857,0,0.0
+390,CS - Algorithms,Asymptotic Analysis - Growth Rates of Functions,0.056817630978816445,0,0.0
+391,CS - Computer Organization and Architecture,Memory Hierarchy - Address Decoding,0.07298604924561768,0,0.0
+392,CS - Operating Systems,Memory Management - Memory Management Unit (MMU),0.04582733690366641,0,0.0
+393,CS - Operating Systems,File Systems - Caching and Performance,0.04582733690366641,0,0.0
+394,GA - Verbal Ability,Vocabulary - Synonyms,0.02685821019834579,0,0.0
+395,DA - Programming and Algorithms,Algorithm Analysis - Pseudocode Tracing,0.0017651122503230532,0,0.0
+396,CS - Engineering Mathematics,Probability - Independent Events,0.1054223297135872,0,0.0
+397,CS - Compiler Design,"Phases of a Compiler - Symbol Table, Runtime Environments, and Semantic Analysis",0.03243828900977912,0,0.0
+398,CS - Operating Systems,Process Management - Process State Transitions,0.04582733690366641,0,0.0
+399,CS - Operating Systems,Process Synchronization - Semaphores and Deadlock,0.04582733690366641,0,0.0
+400,CS - Data Structures,Hashing - Double Hashing,0.004849599702058917,0,0.0
+401,CS - Databases,SQL - SELECT Query,0.06487775641365104,0,0.0
+402,CS - Theory of Computation,Regular Expressions and Finite Automata - Properties of Regular and Undecidable Languages,0.07299755658574755,0,0.0
+403,CS - Algorithms,Sorting - Heap Sort Time Complexity Analysis,0.056817630978816445,0,0.0
+404,DA - Data Structures and Algorithms,Hashing - Open Addressing Performance,0.0008108299451162656,0,0.0
+405,CS - Computer Networks,Web Technologies - Service Oriented Architecture,0.048629636577785254,0,0.0
+406,CS - Computer Organization and Architecture,Memory Hierarchy - Cache Coloring / Synonyms,0.07298604924561768,0,0.0
+407,CS - Theory of Computation,Finite Automata - Distinguishable States,0.07299755658574755,0,0.0
+408,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Directed Spanning Trees),0.1054223297135872,0,0.0
+409,CS - Programming and Data Structures,Programming in C - Data Types and Implicit Conversion,0.10545683565696502,0,0.0
+410,CS - Computer Organization and Architecture,Memory Hierarchy - Memory Interfacing and Address Decoding,0.07298604924561768,0,0.0
+411,GA - Verbal Ability,English Grammar - Fill in the Blanks,0.02685821019834579,0,0.0
+412,CS - Digital Logic,Boolean Algebra - Boolean Operators,0.04861885724656857,0,0.0
+413,CS - Computer Organization and Architecture,Instruction Set Architecture - Instruction Encoding,0.07298604924561768,0,0.0
+414,CS - Programming and Data Structures,Programming in C - Static Variables and Scope,0.10545683565696502,0,0.0
+415,CS - Engineering Mathematics,Mathematical Logic - Predicate Calculus and Validity,0.1054223297135872,0,0.0
+416,CS - Algorithms,Asymptotic Analysis - Solving Recurrence Relations,0.056817630978816445,0,0.0
+417,CS - Computer Networks,Flow Control - Selective Repeat ARQ and Utilization,0.048629636577785254,0,0.0
+418,DA - Machine Learning,Supervised Learning - Linear Regression,0.0066121157200683895,0,0.0
+419,CS - Computer Networks,Application Layer - Domain Name System (DNS),0.048629636577785254,0,0.0
+420,CS - Software Engineering,Software Testing - Cyclomatic Complexity,0.0070455287321587266,0,0.0
+421,CS - Digital Logic,Boolean Algebra - K-Maps (Karnaugh Maps),0.04861885724656857,0,0.0
+422,CS - Digital Logic,Boolean Algebra - Boolean Identities and Simplification,0.04861885724656857,0,0.0
+423,CS - Computer Organization and Architecture,Pipelining - Pipeline Throughput,0.07298604924561768,0,0.0
+424,CS - Theory of Computation,Finite Automata - NFA to DFA Conversion,0.07299755658574755,0,0.0
+425,CS - Theory of Computation,Turing Machines and Undecidability - Undecidable Problems and Rice's Theorem,0.07299755658574755,0,0.0
+426,GA - Verbal Ability,English Grammar - Articles,0.02685821019834579,0,0.0
+427,CS - Engineering Mathematics,Discrete Mathematics - Coding Theory and Hamming Distance,0.1054223297135872,5,0.0
+428,CS - Operating Systems,Processes and Threads - Thread Memory Model,0.04582733690366641,0,0.0
+429,GA - Quantitative Aptitude,Data Interpretation - Matrix Reading,0.03920341122283779,0,0.0
+430,CS - Programming and Data Structures,Programming in C - Recursion (Infinite Recursion),0.10545683565696502,0,0.0
+431,CS - Engineering Mathematics,Linear Algebra - System of Linear Equations,0.1054223297135872,0,0.0
+432,CS - Digital Logic,Combinational Circuits - Multiplexers,0.04861885724656857,0,0.0
+433,CS - Computer Networks,Routing Algorithms - Distance Vector vs Link State,0.048629636577785254,0,0.0
+434,DA - Machine Learning,Deep Learning - Neural Network Equivalence,0.0066121157200683895,0,0.0
+435,GA - Verbal Ability,English Grammar - Tenses and Adverbs,0.02685821019834579,0,0.0
+436,CS - Programming and Data Structures,Programming in C - Multi-dimensional Arrays,0.10545683565696502,0,0.0
+437,CS - Operating System,CPU Scheduling - Comparison of SJF and Round Robin Scheduling,0.08113754992326849,0,0.0
+438,DA - Calculus,Differential Calculus - Local Extrema,0.00352253587875968,0,0.0
+439,CS - Theory of Computation,Parsing - SLR Parsers and General CFG Parsing Complexity (CYK Algorithm),0.07299755658574755,1,0.0
+440,CS - Computer Organization and Architecture,I/O Organization - Direct Memory Access (DMA) and Cycle Stealing,0.07298604924561768,0,0.0
+441,CS - Programming and Data Structures,Data Structures - Heaps and Time Complexity,0.10545683565696502,0,0.0
+442,CS - Compiler Design,Code Generation - Register Allocation (Sethi-Ullman algorithm),0.03243828900977912,0,0.0
+443,GA - Quantitative Aptitude,Sequences and Series - Geometric Series,0.03920341122283779,0,0.0
+444,CS - Programming and Data Structures,Stacks - Stack Operations,0.10545683565696502,0,0.0
+445,CS - Computer Networks,Transport Layer - TCP Connection Establishment,0.048629636577785254,0,0.0
+446,CS - Computer Networks,Network Layer - CIDR,0.048629636577785254,0,0.0
+447,CS - Engineering Mathematics,Linear Algebra - Eigenvalues and Trace,0.1054223297135872,0,0.0
+448,CS - Computer Organization and Architecture,Cache Memory - Average Memory Access Time (AMAT),0.07298604924561768,0,0.0
+449,CS - Software Engineering,Software Requirements - SRS Document,0.0070455287321587266,0,0.0
+450,CS - Algorithms,Graph Algorithms - Minimum Spanning Trees (MST) Properties,0.056817630978816445,0,0.0
+451,General Aptitude,Verbal Ability - Logical Deduction,0.12170366001303264,0,0.0
+452,DA - Algorithms,Sorting Algorithms - Quicksort,0.0035214591728229662,0,0.0
+453,CS - Algorithms,Graph Algorithms - Uniqueness of Minimum Spanning Tree (MST),0.056817630978816445,0,0.0
+454,CS - Theory of Computation,Undecidability - Decidable and Undecidable Problems,0.07299755658574755,0,0.0
+455,General Aptitude,Numerical Ability - Ratio and Proportion,0.12170366001303264,0,0.0
+457,CS - Theory of Computation,Regular Languages - Regular Expressions and Set Operations,0.07299755658574755,11,0.0
+458,GA - Spatial Aptitude,Geometry - Solid Geometry and Cross-sections,0.008808261396316252,0,0.0
+459,GA - Quantitative Aptitude,Probability - Binomial Distribution,0.03920341122283779,0,0.0
+460,CS - Digital Logic,Boolean Algebra - Logic Gates and Identities,0.04861885724656857,0,0.0
+461,GA - Quantitative Aptitude,Data Interpretation - Pie Charts,0.03920341122283779,0,0.0
+462,DA - Databases,Relational Model - Keys and Constraints,0.0026465337442448454,0,0.0
+463,CS - Engineering Mathematics,Linear Algebra - Vectors and Geometry,0.1054223297135872,0,0.0
+464,CS - Computer Networks,Congestion Control - Token Bucket Algorithm,0.048629636577785254,0,0.0
+465,GA - Analytical Aptitude,Logical Reasoning - Statement and Course of Action,0.017616999084000946,0,0.0
+466,CS - Theory of Computation,Finite Automata - DFA Construction and Minimization,0.07299755658574755,0,0.0
+467,CS - Computer Networks,"Network Layer - Router Functionality, IP Fragmentation, and Routing Protocols",0.048629636577785254,0,0.0
+468,CS - Databases,Database Design and Normalization - Functional Dependencies and Armstrong's Axioms,0.06487775641365104,0,0.0
+469,General Aptitude,Numerical Ability - Spatial Aptitude,0.12170366001303264,0,0.0
+470,CS - Programming and Data Structures,Hashing - Dynamic Hashing (Extendible Hashing variant),0.10545683565696502,0,0.0
+471,GA - Verbal Ability,Analogy - Word Intensity,0.02685821019834579,0,0.0
+472,DA - Machine Learning,Deep Learning - Backpropagation,0.0066121157200683895,0,0.0
+473,CS - Computer Organization and Architecture,Instruction Set Architecture - C to Assembly Mapping,0.07298604924561768,0,0.0
+474,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Edge Coloring and Vizing's Theorem),0.1054223297135872,0,0.0
+475,CS - Digital Logic,Boolean Algebra - Logic Gates and Minterm/Maxterm representations,0.04861885724656857,0,0.0
+476,CS - Programming and Data Structures,Linked Lists - List Manipulation,0.10545683565696502,0,0.0
+477,CS - Databases,Transaction Management - Cascading Rollback,0.06487775641365104,0,0.0
+478,CS - Theory of Computation,Regular Languages - Intersection of Languages,0.07299755658574755,0,0.0
+479,GA - Spatial Aptitude,Visual Reasoning - Pattern Recognition,0.008808261396316252,0,0.0
+480,CS - Theory of Computation,Context-Free Grammars - Chomsky Normal Form (CNF) Derivations,0.07299755658574755,0,0.0
+481,DA - Artificial Intelligence,Search Algorithms - A* Search,0.0017576184229337092,0,0.9701327085494995
+482,CS - Compiler Design,"Lexical Analysis - Regular Expressions, Longest Match Rule",0.03243828900977912,0,0.0
+483,CS - Databases,Relational Database Design - Functional Dependencies,0.06487775641365104,0,0.0
+484,GA - Quantitative Aptitude,Data Interpretation - Averages,0.03920341122283779,0,0.0
+485,CS - Computer Networks,Physical and Data Link Layers - Transmission and Propagation Delay,0.048629636577785254,0,0.0
+486,CS - Algorithms,Asymptotic Analysis - Solving Recurrence Relations (Master Theorem),0.056817630978816445,0,0.0
+487,CS - Engineering Mathematics,Linear Algebra - Properties of Determinants,0.1054223297135872,0,0.0
+488,CS - Operating Systems,Process Synchronization - Producer-Consumer Problem (Semaphores),0.04582733690366641,0,0.0
+489,CS - Computer Networks,Network Layer and Data Link Layer - IP and MAC Addressing,0.048629636577785254,0,0.0
+490,GA - Quantitative Aptitude,Algebra - Quadratic Equations,0.03920341122283779,0,0.0
+491,GA - Quantitative Aptitude,Probability - Total Probability Theorem,0.03920341122283779,0,0.0
+492,CS - Digital Logic,Combinational Circuits - Implementing Boolean Functions using Multiplexers (MUX),0.04861885724656857,0,0.0
+493,CS - Algorithms,Dynamic Programming / Greedy Algorithms - 0/1 Knapsack Problem,0.056817630978816445,0,0.0
+494,CS - Theory of Computation,Finite Automata and Regular Languages - Properties of NFA and Regular Languages,0.07299755658574755,0,0.0
+495,GA - Quantitative Aptitude,Mensuration - Volume and Surface Area,0.03920341122283779,0,0.0
+496,DA - Probability and Statistics,Random Variables - Transformation of Random Variables,0.008368046624628868,0,0.0
+497,CS - Operating Systems,Disk Management - Disk Access Time,0.04582733690366641,0,0.0
+498,CS - Compiler Design,Syntax Directed Translation - S-Attributed Definitions,0.03243828900977912,0,0.0
+499,CS - Operating Systems,Memory Management - Page Replacement Algorithms (LRU),0.04582733690366641,0,0.0
+500,CS - Compiler Design,Syntax Analysis - Parser Classification,0.03243828900977912,0,0.0
+501,CS - Theory of Computation,Finite Automata - ε-NFA,0.07299755658574755,0,0.0
+502,DA - Programming,Python - List Methods,0.0008777208061861666,0,0.0
+503,CS - Theory of Computation,Context-Free Grammars - Language generated by a CFG,0.07299755658574755,0,0.0
+504,CS - Databases,Relational Calculus - Tuple Relational Calculus and Safe Queries,0.06487775641365104,0,0.0
+505,CS - Engineering Mathematics,Probability - Probability Generating Functions and Expectation,0.1054223297135872,0,0.0
+506,CS - Digital Logic,Number Systems and Representations - Sign-Magnitude Arithmetic and Overflow,0.04861885724656857,0,0.0
+507,CS - Operating Systems,Threads - Properties of Threads,0.04582733690366641,0,0.0
+508,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Peterson Graph Properties),0.1054223297135872,0,0.0
+509,CS - Computer Organization and Architecture,Memory Hierarchy - Set-Associative Cache Address Mapping,0.07298604924561768,0,0.0
+510,CS - Digital Logic,Sequential Circuits - State Minimization,0.04861885724656857,0,0.0
+511,DA - Linear Algebra,Matrices - Orthogonal Matrices,0.004406859254495474,0,0.0
+512,CS - Compiler Design,Syntax Analysis - Left Recursion,0.03243828900977912,0,0.0
+513,CS - Databases,SQL - Subqueries with ALL,0.06487775641365104,0,0.0
+514,GA - Analytical Aptitude,Puzzles - Grid Puzzle,0.017616999084000946,0,0.0
+515,DA - Linear Algebra,Matrices - Projection Matrices,0.004406859254495474,0,0.0
+516,CS - Databases,Concurrency Control - Two-Phase Locking (2PL) and Deadlock,0.06487775641365104,0,0.0
+517,CS - Computer Networks,IP Addressing - Subnetting,0.048629636577785254,1,0.0
+518,CS - Engineering Mathematics,Calculus - Maxima and Minima,0.1054223297135872,0,0.0
+519,CS - Algorithms,Graph Algorithms - Minimum Spanning Tree (MST) Properties,0.056817630978816445,0,0.0
+520,CS - Algorithms,Algorithm Design Techniques - Dynamic Programming (Rod Cutting Problem),0.056817630978816445,0,0.0
+521,CS - Algorithms,Graph Algorithms - Properties of BFS and DFS,0.056817630978816445,0,0.0
+522,CS - Engineering Mathematics,Probability - Independence of Events,0.1054223297135872,0,0.0
+523,CS - Engineering Mathematics,Mathematical Logic - First-Order Logic,0.1054223297135872,0,0.0
+524,CS - Engineering Mathematics,Discrete Mathematics - Predicate Logic and Number Theory,0.1054223297135872,0,0.0
+525,CS - Databases,Concurrency Control - Recoverability and Cascading Aborts,0.06487775641365104,0,0.0
+526,CS - Theory of Computation,Pushdown Automata - Deterministic Pushdown Automata,0.07299755658574755,0,0.0
+527,CS - Computer Networks,Data Link Layer - Ethernet (CSMA/CD),0.048629636577785254,0,0.0
+528,CS - Theory of Computation,"Context-Free Grammars and Push-Down Automata - Properties of CFLs, DCFLs, and LL(k) Grammars",0.07299755658574755,0,0.0
+529,CS - Programming and Data Structures,"Programming in C - Static variables, Global variables, Stacks",0.10545683565696502,0,0.0
+530,CS - Compiler Design,Introduction to Compilers - Phases of a Compiler,0.03243828900977912,0,0.0
+531,DA - Probability and Statistics,Probability Distributions - Binomial Distribution,0.008368046624628868,0,0.0
+532,CS - Programming and Data Structures,Recursion - Analysis of Recursive Algorithms,0.10545683565696502,0,0.0
+533,CS - Theory of Computation,Context-Free Languages - Properties and Closure of CFLs,0.07299755658574755,0,0.0
+534,CS - Programming and Data Structures,Programming in C - Pointers and Pointer Arithmetic,0.10545683565696502,1,0.0
+535,CS - Programming and Data Structures,Programming in C - Dynamic Memory Allocation and Memory Leaks,0.10545683565696502,1,0.0
+536,CS - Databases,Relational Database Design - Boyce-Codd Normal Form (BCNF),0.06487775641365104,0,0.0
+537,CS - Programming and Data Structures,Linked Lists - Deletion Complexity (Singly vs. Doubly),0.10545683565696502,0,0.0
+538,DA - Machine Learning,Unsupervised Learning - K-Means Clustering,0.0066121157200683895,0,0.0
+539,CS - Computer Networks,OSI Model - Layer Functionalities,0.048629636577785254,0,0.0
+540,CS - Engineering Mathematics,Mathematical Logic - Predicate Logic and Tautologies,0.1054223297135872,0,0.0
+541,CS - Digital Logic,Sequential Circuits - Counters and T Flip-Flop Analysis,0.04861885724656857,0,0.0
+542,GA - Verbal Ability,Reading Comprehension - Logical Inference,0.02685821019834579,0,0.0
+543,CS - Computer Networks,Data Link Layer - Transmission Time and Pipelining,0.048629636577785254,0,0.0
+544,General Aptitude,Numerical Ability - Data Interpretation (Venn Diagrams),0.12170366001303264,0,0.0
+545,CS - Computer Networks,Network Layer - Network Address Translation (NAT),0.048629636577785254,0,0.0
+546,CS - Digital Logic,"Boolean Algebra - K-Maps, Prime Implicants",0.04861885724656857,0,0.0
+547,CS - Programming and Data Structures,Programming in C - Pointers and Call by Value,0.10545683565696502,0,0.0
+548,CS - Algorithms,Number Theory Algorithms - Euclidean Algorithm (GCD),0.056817630978816445,0,0.0
+549,CS - Engineering Mathematics,Linear Algebra - Properties of Rank and Determinant of Matrices,0.1054223297135872,0,0.0
+550,CS - Engineering Mathematics,Discrete Mathematics - Predicate Logic and Quantifiers,0.1054223297135872,0,0.0
+551,GA - Verbal Ability,Analogy - Synonyms,0.02685821019834579,0,0.0
+552,CS - Theory of Computation,Computability and Complexity - Turing Decidability and NP Class,0.07299755658574755,0,0.0
+553,CS - Digital Logic,Data Representation - Radix Conversion,0.04861885724656857,0,0.0
+554,CS - Digital Logic,Combinational Circuits - Priority Encoder,0.04861885724656857,0,0.0
+555,CS - Computer Organization and Architecture,Instruction Set Architecture - Instruction Formats,0.07298604924561768,0,0.0
+556,CS - Operating Systems,Memory Management - Partition Allocation (Best Fit),0.04582733690366641,0,0.0
+557,CS - Algorithms,Algorithm Design Paradigms - Matching Algorithms to Paradigms,0.056817630978816445,0,0.0
+558,CS - Engineering Mathematics,Discrete Mathematics - Set Theory,0.1054223297135872,3,0.0
+559,CS - Operating System,Deadlock - Deadlock Avoidance and Safe State Conditions,0.08113754992326849,0,0.0
+560,CS - Databases,"Normalization - 3NF, BCNF",0.06487775641365104,0,0.0
+561,CS - Theory of Computation,Finite Automata - Regular Expressions to DFA Conversion,0.07299755658574755,0,0.0
+562,CS - Theory of Computation,Formal Languages - Regular vs Context-Free Languages,0.07299755658574755,0,0.0
+563,CS - Theory of Computation,Regular and Context-Free Languages - Closure Properties of Regular Languages,0.07299755658574755,0,0.0
+564,GA - Spatial Aptitude,Cubes and Dice - Unfolded Dice Nets,0.008808261396316252,0,0.0
+565,CS - Computer Networks,IP Routing - Longest Prefix Match,0.048629636577785254,0,0.0
+566,CS - Theory of Computation,Regular Languages - Properties of Regular Languages,0.07299755658574755,0,0.0
+567,DA - Calculus,Differential Calculus - Higher Order Derivatives,0.00352253587875968,0,0.0
+568,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics and Surjective Functions,0.1054223297135872,0,0.0
+569,CS - Databases,Relational Algebra - Expressive Power,0.06487775641365104,0,0.0
+570,CS - Digital Logic,Boolean Algebra - XOR Gate Properties,0.04861885724656857,0,0.0
+571,CS - Databases,Recovery Systems - Checkpointing and Log-based Recovery,0.06487775641365104,0,0.0
+572,CS - Theory of Computation,Formal Languages - Closure Properties,0.07299755658574755,0,0.0
+573,CS - Computer Networks,Media Access Control - CSMA/CD and Ethernet,0.048629636577785254,0,0.0
+574,DA - Probability and Statistics,Probability Theory - Events and Sample Space,0.008368046624628868,0,0.0
+575,CS - Engineering Mathematics,"Linear Algebra - Eigenvalues, Eigenvectors, Diagonalization",0.1054223297135872,0,0.0
+576,CS - Programming and Data Structures,Trees and Heaps - Heap Properties,0.10545683565696502,0,0.0
+577,CS - Computer Networks,"Media Access Control - CSMA, Collision Avoidance",0.048629636577785254,0,0.0
+578,CS - Computer Networks,IP Protocol - IPv4 Header Options,0.048629636577785254,0,0.0
+579,CS - Databases,Relational Database Design - First Normal Form (1NF),0.06487775641365104,0,0.0
+580,CS - Engineering Mathematics,Graph Theory - Bridges and Cycles,0.1054223297135872,0,0.0
+581,CS - Computer Networks,Network Layer - IP Fragmentation,0.048629636577785254,0,0.0
+582,CS - Algorithms,Graph Algorithms - MST and Shortest Path Properties,0.056817630978816445,0,0.0
+583,DA - Linear Algebra,Eigenvalues and Eigenvectors - Properties of Eigenvalues,0.004406859254495474,0,0.0
+584,DA - Machine Learning,Supervised Learning - Perceptron Algorithm,0.0066121157200683895,0,0.0
+585,CS - Digital Logic,Number Systems and Representations - IEEE 754 Floating-Point Arithmetic,0.04861885724656857,0,0.0
+586,CS - Operating Systems,"Process Synchronization - Semaphores, Producer-Consumer Problem",0.04582733690366641,0,0.0
+587,CS - Computer Organization and Architecture,Memory Hierarchy - Average Memory Access Time (AMAT) Calculation,0.07298604924561768,0,0.0
+588,CS - Algorithms,"Algorithm Design Paradigms - Greedy, Divide and Conquer, Dynamic Programming",0.056817630978816445,0,0.0
+589,CS - Data Structures,Trees - Binary Search Tree Insertion,0.004849599702058917,0,0.0
+590,DA - Linear Algebra,Vector Spaces - Orthonormal Basis,0.004406859254495474,0,0.0
+591,CS - Theory of Computation,Formal Languages - Language Classification,0.07299755658574755,0,0.9875999093055725
+592,DA - Calculus,Differential Calculus - Derivatives and Mean Value Theorem,0.00352253587875968,0,0.0
+593,GA - Analytical Aptitude,Venn Diagrams - Logical Reasoning,0.017616999084000946,0,0.0
+594,DA - Programming,Recursion - Analysis of Recursive Functions,0.0008777208061861666,0,0.0
+595,CS - Compiler Design,Parsing - FIRST and FOLLOW Sets,0.03243828900977912,0,0.0
+596,GA - Verbal Ability,Critical Reasoning - Reading Comprehension,0.02685821019834579,0,0.0
+597,CS - Databases,"Relational Algebra - Join Operations, Equivalence of Queries",0.06487775641365104,1,0.0
+598,CS - Programming and Data Structures,"Data Structures - Trees, Tree Traversal, Expression Trees",0.10545683565696502,0,0.0
+599,GA - Quantitative Aptitude,Number Systems - Logarithms and Number of Digits,0.03920341122283779,0,0.0
+600,CS - Computer Networks,Socket Programming - UDP Sockets,0.048629636577785254,0,0.0
+601,CS - Computer Networks,Packet Switching - Delay Calculation,0.048629636577785254,0,0.0
+602,CS - Databases,ER-model - Weak Entity Sets and Identifying Relationships,0.06487775641365104,0,0.0
+603,CS - Algorithms,Graph Algorithms - Minimum Spanning Tree (MST),0.056817630978816445,0,0.0
+604,CS - Algorithms,Hashing - Universal Hashing,0.056817630978816445,0,0.0
+605,CS - Databases,SQL - Subqueries and Aggregation,0.06487775641365104,0,0.0
+606,CS - Algorithms,Graph Algorithms - Shortest/Longest Path on a Directed Acyclic Graph (DAG),0.056817630978816445,0,0.0
+607,CS - Engineering Mathematics,Discrete Mathematics - Propositional Logic and Logical Equivalence,0.1054223297135872,0,0.0
+608,CS - Computer Networks,Data Link Layer - Error Detection and Correction Codes (Hamming Code),0.048629636577785254,0,0.0
+609,CS - Databases,"Normalization - Normal Forms (1NF, 2NF, 3NF, BCNF)",0.06487775641365104,0,0.0
+610,CS - Algorithms,"Graph Algorithms - BFS, Shortest Paths, and Graph Diameter",0.056817630978816445,0,0.0
+611,DA - Algorithms,Graph Algorithms - Depth-First Search (DFS),0.0035214591728229662,0,0.0
+612,CS - Digital Logic,Sequential Circuits - Counters,0.04861885724656857,0,0.0
+613,CS - Compiler Design,Syntax-Directed Translation - Type Checking using Semantic Actions,0.03243828900977912,0,0.0
+614,GA - Verbal Ability,Grammar - Articles,0.02685821019834579,0,0.0
+615,CS - Programming and Data Structures,Data Structures - Heaps,0.10545683565696502,0,0.0
+616,CS - Digital Logic,Boolean Algebra - K-Maps and Universal Gates,0.04861885724656857,0,0.0
+617,CS - Operating Systems,Process Management - fork() System Call,0.04582733690366641,0,0.0
+618,CS - Software Engineering,Software Testing - Test Case Design,0.0070455287321587266,0,0.0
+619,CS - Databases,SQL - Subqueries with ANY and ALL,0.06487775641365104,0,0.0
+620,GA - Spatial Aptitude,Paper Folding - Geometry,0.008808261396316252,0,0.0
+621,CS - Compiler Design,Runtime Environments - Activation Records and Call Stack Traversal,0.03243828900977912,0,0.0
+622,CS - Operating System,CPU Scheduling - Non-preemptive Shortest Job First (SJF) Scheduling,0.08113754992326849,0,0.0
+623,CS - Databases,"Relational Model - Keys (Superkey, Primary Key)",0.06487775641365104,0,0.0
+624,CS - Digital Logic,Computer Arithmetic - Ripple-Carry Adder and Propagation Delay,0.04861885724656857,0,0.0
+625,DA - Data Structures,Trees - Binary Tree Reconstruction,0.0022064146551626714,0,0.0
+626,CS - Databases,Indexing - Clustered Index,0.06487775641365104,0,0.0
+627,CS - Programming and Data Structures,Trees - AVL Tree Insertion Complexity,0.10545683565696502,0,0.0
+628,CS - Programming and Data Structures,Programming in C - Recursion and Static Variables,0.10545683565696502,0,0.0
+629,CS - Theory of Computation,Finite Automata and Regular Languages - DFA Minimization,0.07299755658574755,0,0.0
+630,CS - Algorithms,Dynamic Programming - Longest Increasing Subsequence,0.056817630978816445,0,0.0
+631,CS - Theory of Computation,Regular Expressions and Finite Automata - Pumping Lemma for Regular Languages,0.07299755658574755,0,0.0
+632,CS - Digital Logic,Sequential Circuits - Counter Design,0.04861885724656857,0,0.0
+633,CS - Compiler Design,Parsing - LR(0) or SLR(1) Item Set Construction (CLOSURE and GOTO),0.03243828900977912,0,0.0
+634,GA - Verbal Ability,Vocabulary - Prepositions and Conjunctions,0.02685821019834579,0,0.0
+635,CS - Algorithms,Graph Algorithms - Bellman-Ford Algorithm Complexity,0.056817630978816445,0,0.0
+636,GA - Quantitative Aptitude,Number Series - Pattern Recognition,0.03920341122283779,0,0.0
+637,CS - Programming and Data Structures,Algorithms - Sorting (Bubble Sort variation),0.10545683565696502,0,0.0
+638,GA - Quantitative Aptitude,Geometry - Triangles and Angle Bisector Theorem,0.03920341122283779,0,0.0
+639,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Chromatic Number),0.1054223297135872,0,0.0
+640,CS - Computer Networks,Network Layer - IPv4 Fragmentation,0.048629636577785254,0,0.0
+641,General Aptitude,Quantitative Aptitude - Probability,0.12170366001303264,0,0.0
+642,CS - Digital Logic,Number Systems - Number System Conversions,0.04861885724656857,0,0.0
+643,CS - Engineering Mathematics,Probability and Statistics - Expected Value Calculation,0.1054223297135872,0,0.0
+644,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics and Set Theory,0.1054223297135872,2,0.0
+645,CS - Engineering Mathematics,Discrete Mathematics - Set Theory and Functions,0.1054223297135872,0,0.0
+646,DA - Machine Learning,Supervised Learning - K-Nearest Neighbors (KNN),0.0066121157200683895,0,0.0
+647,CS - Engineering Mathematics,Discrete Mathematics - Propositional Logic,0.1054223297135872,0,0.0
+648,CS - Algorithms,Graph Algorithms - Spanning Trees and Cut-Cycle Properties,0.056817630978816445,0,0.0
+649,CS - Operating System,"Memory Management - Dynamic Storage Allocation Strategies (First-fit, Best-fit, etc.)",0.08113754992326849,0,0.0
+650,CS - Programming and Data Structures,Data Structures - Stack and Postfix Evaluation,0.10545683565696502,0,0.0
+651,GA - Quantitative Aptitude,Arithmetic - Word Problems,0.03920341122283779,0,0.0
+652,CS - Computer Networks,Application Layer - HTTP Cookies,0.048629636577785254,0,0.0
+653,CS - Computer Networks,Transport Layer - TCP Congestion Control (Slow Start and Congestion Avoidance),0.048629636577785254,0,0.0
+654,CS - Operating Systems,Deadlocks - Deadlock Avoidance,0.04582733690366641,0,0.0
+655,CS - Engineering Mathematics,Mathematical Logic - Logical Inference,0.1054223297135872,0,0.0
+656,CS - Digital Logic,Boolean Algebra - Boolean Expression Simplification,0.04861885724656857,0,0.0
+657,GA - Quantitative Aptitude,Simple & Compound Interest - Rate of Return,0.03920341122283779,0,0.0
+658,CS - Algorithms,Graph Algorithms - Graph Representation and Time Complexity,0.056817630978816445,0,0.0
+659,CS - Computer Organization and Architecture,Pipelining - Pipeline Frequency and Latency,0.07298604924561768,0,0.0
+660,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Graph Diameter and Powers of Adjacency Matrix),0.1054223297135872,0,0.0
+661,CS - Computer Organization and Architecture,Memory Hierarchy - Cache Performance (AMAT),0.07298604924561768,0,0.0
+662,DA - Probability and Statistics,"Random Variables - Expectation, Variance, and Covariance",0.008368046624628868,0,0.0
+663,CS - Theory of Computation,Context-Free Grammars - Grammar Design,0.07299755658574755,0,0.0
+664,CS - Compiler Design,Code Optimization - Liveness Analysis,0.03243828900977912,0,0.0
+665,CS - Computer Networks,TCP - Congestion Control (Slow Start),0.048629636577785254,0,0.0
+666,General Aptitude,Numerical Ability - Algebra (Word Problems),0.12170366001303264,0,0.0
+667,CS - Operating Systems,"Deadlocks - Banker's Algorithm, Safe State",0.04582733690366641,2,0.0
+668,CS - Databases,Indexing - B+ Tree Order Calculation,0.06487775641365104,0,0.0
+669,CS - Compiler Design,Syntax Analysis - FIRST and FOLLOW Sets,0.03243828900977912,0,0.0
+670,CS - Computer Networks,Network Security - Public Key Cryptography & Digital Signatures,0.048629636577785254,0,0.0
+671,General Aptitude,Verbal Ability - Vocabulary,0.12170366001303264,0,0.0
+672,CS - Databases,SQL - Common Table Expressions (CTE) and Aggregation,0.06487775641365104,0,0.0
+673,CS - Algorithms,Sorting - Best/Worst Case Analysis of Sorting Algorithms,0.056817630978816445,0,0.0
+674,DA - Linear Algebra,Matrices - Gram Matrix,0.004406859254495474,0,0.0
+675,CS - Compiler Design,Parsing - Construction of LL(1) Parsing Tables (FIRST and FOLLOW sets),0.03243828900977912,0,0.0
+676,CS - Engineering Mathematics,Mathematical Logic - Propositional Logic and Equivalence,0.1054223297135872,0,0.0
+677,CS - Engineering Mathematics,Functions - Composition of Functions,0.1054223297135872,0,0.0
+678,CS - Computer Networks,Routing Algorithms - OSPF Properties,0.048629636577785254,0,0.0
+679,CS - Programming and Data Structures,Trees - Tree Traversal and Recursion,0.10545683565696502,0,0.0
+680,CS - Programming and Data Structures,"Programming in C - Pointers, Structs, and Typecasting",0.10545683565696502,0,0.0
+681,CS - Engineering Mathematics,Probability - Expectation and Covariance,0.1054223297135872,0,0.0
+682,CS - Computer Organization and Architecture,Cache Memory - Cache Performance Metrics,0.07298604924561768,0,0.0
+683,CS - Computer Organization and Architecture,Instruction Pipelining - Pipeline Performance Calculation and Clock Cycle Time,0.07298604924561768,0,0.0
+684,CS - Computer Organization and Architecture,I/O Organization - Direct Memory Access (DMA),0.07298604924561768,0,0.0
+685,GA - Verbal Ability,Analogy - Living Places,0.02685821019834579,0,0.0
+686,CS - Computer Organization and Architecture,Pipelining - Pipeline Performance Calculation,0.07298604924561768,0,0.0
+687,DA - Machine Learning,Supervised Learning - Decision Trees and Information Gain,0.0066121157200683895,0,0.9695421457290649
+688,CS - Operating System,Processes and Threads - Process State Transitions,0.08113754992326849,0,0.0
+689,CS - Computer Organization and Architecture,Pipelining - Reservation Tables and Latency Analysis,0.07298604924561768,0,0.0
+690,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Adjacency Matrix Properties),0.1054223297135872,0,0.0
+691,CS - Computer Networks,Transport Layer - TCP Sequence Number Wraparound,0.048629636577785254,0,0.0
+692,GA - Quantitative Aptitude,Logarithms - Properties of Logarithms,0.03920341122283779,0,0.0
+693,CS - Compiler Design,Phases of a Compiler - Compiler Architecture,0.03243828900977912,0,0.0
+694,CS - Computer Networks,Network Security - RSA Algorithm,0.048629636577785254,0,0.0
+695,CS - Theory of Computation,"Undecidability - Recursive and Recursively Enumerable Languages, Rice's Theorem",0.07299755658574755,0,0.0
+696,CS - Databases,SQL - Nested Queries,0.06487775641365104,0,0.0
+697,CS - Engineering Mathematics,Linear Algebra - Vector Spaces and Orthogonality,0.1054223297135872,0,0.0
+698,CS - Computer Networks,LAN Technologies - Network Design with Switches,0.048629636577785254,0,0.0
+699,CS - Computer Organization and Architecture,Cache Memory - Cache Addressing (Direct Mapping),0.07298604924561768,0,0.0
+700,CS - Engineering Mathematics,Linear Algebra - Properties of Matrices,0.1054223297135872,0,0.0
+701,CS - Algorithms,Searching and Sorting - Quickselect Algorithm,0.056817630978816445,0,0.0
+702,CS - Computer Organization and Architecture,Pipelining - Pipeline Performance,0.07298604924561768,0,0.0
+703,CS - Algorithms,Asymptotic Analysis - Recurrence Relations,0.056817630978816445,0,0.0
+704,CS - Computer Organization and Architecture,I/O Organization - Interrupts and Direct Memory Access (DMA),0.07298604924561768,0,0.0
+705,CS - Operating Systems,Process Management - Process States and I/O,0.04582733690366641,0,0.0
+706,GA - Quantitative Aptitude,Ratio and Proportion - Proportionality,0.03920341122283779,0,0.0
+707,CS - Theory of Computation,Finite Automata - DFA Properties,0.07299755658574755,0,0.0
+708,CS - Theory of Computation,Finite Automata - Regular Expressions to Minimal DFA,0.07299755658574755,0,0.0
+709,CS - Programming and Data Structures,Hashing - Double Hashing,0.10545683565696502,1,0.0
+710,CS - Computer Organization and Architecture,Memory Hierarchy - Direct-Mapped Cache Address Translation,0.07298604924561768,0,0.0
+711,CS - Engineering Mathematics,Discrete Mathematics - Functions and Sets,0.1054223297135872,1,0.0
+712,CS - Computer Organization and Architecture,Memory Hierarchy - Direct Mapped Cache,0.07298604924561768,0,0.0
+713,CS - Engineering Mathematics,Probability and Statistics - Binomial Distribution (Mean and Variance),0.1054223297135872,0,0.0
+714,CS - Programming and Data Structures,Queues - Queue Operations and Reversal,0.10545683565696502,3,0.0
+715,CS - Programming and Data Structures,Programming in C - Operators (Increment/Decrement),0.10545683565696502,3,0.0
+716,CS - Theory of Computation,Regular Expressions and Finite Automata - Designing Deterministic Finite Automata (DFA),0.07299755658574755,0,0.0
+717,GA - Quantitative Aptitude,Statistics - Median,0.03920341122283779,0,0.0
+718,DA - Machine Learning,Dimensionality Reduction - Linear Discriminant Analysis (LDA),0.0066121157200683895,0,0.0
+719,CS - Engineering Mathematics,Calculus - Limits and L'Hopital's Rule,0.1054223297135872,0,0.0
+720,CS - Compiler Design,Syntax-Directed Translation - Inherited Attributes,0.03243828900977912,0,0.0
+721,CS - Programming and Data Structures,Programming in C - Type Checking and Function Calls,0.10545683565696502,1,0.0
+722,CS - Engineering Mathematics,Probability and Statistics - Probability and Number Representation,0.1054223297135872,0,0.0
+723,CS - Theory of Computation,"Context-Free Languages - Properties of CFLs, Pushdown Automata",0.07299755658574755,0,0.0
+724,GA - Verbal Ability,Vocabulary - Homonyms/Homophones,0.02685821019834579,0,0.0
+725,CS - Engineering Mathematics,Mathematical Logic - Propositional Logic,0.1054223297135872,0,0.0
+726,DA - Databases,SQL - Subqueries,0.0026465337442448454,0,0.0
+727,CS - Operating Systems,CPU Scheduling - Priority Scheduling (Multiprocessor),0.04582733690366641,0,0.0
+728,CS - Operating Systems,Process Management - Context Switching,0.04582733690366641,0,0.0
+729,CS - Theory of Computation,Complexity Theory - Polynomial Time Reducibility,0.07299755658574755,0,0.0
+730,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics,0.1054223297135872,0,0.0
+731,CS - Engineering Mathematics,Probability and Algebra - Complex Numbers,0.1054223297135872,0,0.0
+732,CS - Operating System,CPU Scheduling - Scheduling Metrics and Algorithms (Round Robin),0.08113754992326849,0,0.0
+733,CS - Engineering Mathematics,Probability - Law of Total Probability,0.1054223297135872,0,0.0
+734,CS - Computer Networks,TCP - Sequence Number Wraparound,0.048629636577785254,0,0.0
+735,GA - Quantitative Aptitude,Algebra - Linear Functions,0.03920341122283779,0,0.0
+736,GA - Quantitative Aptitude,Number Systems - LCM and Remainders,0.03920341122283779,0,0.0
+737,CS - Engineering Mathematics,Probability - Poisson Distribution and Expectation,0.1054223297135872,0,0.0
+738,CS - Computer Organization and Architecture,Pipelining - Pipeline Hazards (Branch Penalty),0.07298604924561768,0,0.0
+739,General Aptitude,Verbal Ability - Grammar (Prepositions and Tenses),0.12170366001303264,0,0.0
+740,CS - Theory of Computation,Formal Languages - Regular Grammars,0.07299755658574755,0,0.0
+741,CS - Engineering Mathematics,Calculus - Mean Value Theorem,0.1054223297135872,0,0.0
+742,CS - Databases,Relational Algebra - Join and Selection,0.06487775641365104,0,0.0
+743,GA - Quantitative Aptitude,Permutation and Combination - Arrangements with Restrictions,0.03920341122283779,0,0.0
+744,CS - Databases,File Structures and Indexing - Properties of B+ Trees,0.06487775641365104,0,0.0
+745,GA - Verbal Ability,English Grammar - Determiners,0.02685821019834579,0,0.9686408042907715
+746,CS - Operating Systems,Disk Scheduling - SSTF Algorithm,0.04582733690366641,0,0.0
+747,General Aptitude,Quantitative Aptitude - Work and Time,0.12170366001303264,0,0.0
+748,CS - Algorithms,Algorithm Design Paradigms - Dynamic Programming,0.056817630978816445,0,0.0
+749,DA - Probability and Statistics,Statistical Inference - Properties of Estimators,0.008368046624628868,0,0.0
+750,CS - Computer Networks,Routing Protocols - RIP and OSPF,0.048629636577785254,0,0.0
+751,CS - Computer Organization and Architecture,Machine Instructions and Addressing Modes - Instruction Execution Cycle and Program Tracing,0.07298604924561768,0,0.0
+752,CS - Programming and Data Structures,Data Structures - Properties of Binary Trees,0.10545683565696502,0,0.0
+753,CS - Algorithms,Graph Algorithms - Greedy Coloring,0.056817630978816445,0,0.0
+754,CS - Operating Systems,File Systems - File Allocation Methods,0.04582733690366641,0,0.0
+755,CS - Programming and Data Structures,Data Structures - Queues and Linked Lists,0.10545683565696502,1,0.0
+756,CS - Engineering Mathematics,Linear Algebra - Eigenvalues and Determinants,0.1054223297135872,0,0.0
+757,CS - Operating Systems,Memory Management - Demand Paging and Page Faults,0.04582733690366641,0,0.0
+758,CS - Engineering Mathematics,Calculus - Differentiability,0.1054223297135872,0,0.0
+759,General Aptitude,Verbal Ability - Verbal Analogies,0.12170366001303264,0,0.0
+760,General Aptitude,Numerical Ability - Probability,0.12170366001303264,0,0.0
+761,CS - Computer Networks,Routing Algorithms - Distance Vector Routing (Count-to-Infinity),0.048629636577785254,0,0.0
+762,GA - Quantitative Aptitude,Functions and Graphs - Modulus Function,0.03920341122283779,0,0.0
+763,CS - Theory of Computation,"Complexity Theory - P, NP, NP-Complete",0.07299755658574755,0,0.0
+764,CS - Programming and Data Structures,Programming in C - Loop Invariants and Program Correctness,0.10545683565696502,5,0.0
+765,DA - Probability and Statistics,Probabilistic Graphical Models - Bayesian Network Inference,0.008368046624628868,0,0.0
+766,CS - Engineering Mathematics,Linear Algebra - Matrix Powers,0.1054223297135872,0,0.0
+767,CS - Data Structures,Trees - Tree Traversals (Preorder to Postorder),0.004849599702058917,0,0.0
+768,CS - Theory of Computation,Turing Machines and Undecidability - Decidability and Time-Bounded Computations,0.07299755658574755,0,0.0
+769,CS - Computer Networks,Network Layer - IP Fragmentation and Reassembly,0.048629636577785254,0,0.0
+770,CS - Engineering Mathematics,Probability - Geometric Distribution,0.1054223297135872,0,0.0
+771,CS - Engineering Mathematics,Discrete Mathematics - Set Theory and Countability,0.1054223297135872,0,0.0
+772,CS - Engineering Mathematics,Probability and Statistics - Exponential Distribution and Memoryless Property,0.1054223297135872,0,0.0
+773,CS - Theory of Computation,Formal Languages - Chomsky Hierarchy,0.07299755658574755,0,0.9844849109649658
+774,CS - Databases,"Relational Model - Relational Algebra (Set Difference, Join, Selection, Projection)",0.06487775641365104,0,0.0
+775,CS - Engineering Mathematics,Numerical Methods - Secant Method,0.1054223297135872,0,0.0
+776,GA - Analytical Aptitude,Coding-Decoding - Letter Coding,0.017616999084000946,0,0.0
+777,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Adjacency Matrix and Cycles),0.1054223297135872,0,0.0
+778,CS - Algorithms,Graph Algorithms - Diameter of a Tree,0.056817630978816445,0,0.0
+779,CS - Web Technologies,XML and HTML - Comparison of XML and HTML,0.0008851672269829002,0,0.0
+780,CS - Computer Networks,Sliding Window Protocols - Go-Back-N and Utilization,0.048629636577785254,0,0.0
+781,DA - Machine Learning,Supervised Learning - Linear Separability,0.0066121157200683895,0,0.0
+782,CS - Theory of Computation,Formal Languages - Regular Languages and Pumping Lemma,0.07299755658574755,0,0.0
+783,CS - Programming and Data Structures,Trees - Binary Search Tree (BST) Traversals,0.10545683565696502,0,0.0
+784,CS - Algorithms,Graph Algorithms - Minimum Spanning Trees (MST) and Uniqueness,0.056817630978816445,0,0.0
+785,CS - Computer Organization and Architecture,Pipelining - Data Hazards and Forwarding,0.07298604924561768,0,0.0
+786,CS - Compiler Design,Syntax Analysis - Ambiguity and LL(1) Grammars,0.03243828900977912,0,0.0
+787,CS - Engineering Mathematics,Linear Algebra - Eigenvalues and Characteristic Polynomial,0.1054223297135872,0,0.0
+788,CS - Algorithms,"Graph Algorithms - Articulation Points, Bridges, and DFS Trees",0.056817630978816445,0,0.0
+789,CS - Programming and Data Structures,Heaps - Heapify Algorithm,0.10545683565696502,0,0.0
+790,GA - Spatial Aptitude,Cubes and Dice - Paper Folding,0.008808261396316252,0,0.0
+791,CS - Theory of Computation,Finite Automata and Regular Languages - Regular Expressions from Finite Automata,0.07299755658574755,0,0.0
+792,CS - Databases,ER Model - Entity-Relationship Diagrams,0.06487775641365104,0,0.0
+793,CS - Computer Organization and Architecture,Pipelining - Pipeline Performance and Speedup,0.07298604924561768,0,0.0
+794,CS - Software Engineering,Software Design - Cohesion and Coupling,0.0070455287321587266,0,0.0
+795,CS - Programming and Data Structures,Programming in C - Pointers and Call by Reference,0.10545683565696502,0,0.0
+796,CS - Databases,Transaction Management - Conflict Serializability,0.06487775641365104,0,0.0
+797,CS - Engineering Mathematics,Discrete Mathematics - Number Theory and Cryptography (RSA),0.1054223297135872,0,0.0
+798,CS - Engineering Mathematics,Discrete Mathematics - Line Graphs,0.1054223297135872,0,0.0
+799,General Aptitude,"Quantitative Aptitude - Speed, Time and Distance",0.12170366001303264,0,0.0
+800,DA - Data Structures,Trees - Properties of Binary Trees,0.0022064146551626714,0,0.0
+801,CS - Compiler Design,Intermediate Code Generation - Types of Intermediate Representations,0.03243828900977912,0,0.0
+802,CS - Operating Systems,Deadlocks - Deadlock Properties and Detection,0.04582733690366641,0,0.0
+803,CS - Engineering Mathematics,Linear Algebra - Systems of Linear Equations (Null Space),0.1054223297135872,0,0.0
+804,General Aptitude,Numerical Ability - Mensuration and Geometry,0.12170366001303264,0,0.0
+805,CS - Engineering Mathematics,Probability and Statistics - Conditional Probability and Bayes' Theorem,0.1054223297135872,0,0.0
+806,CS - Computer Networks,Network Security - Digital Signatures and Cryptographic Attacks,0.048629636577785254,0,0.0
+807,CS - Theory of Computation,"Undecidability - Rice's Theorem, Decidable Problems",0.07299755658574755,0,0.0
+808,CS - Engineering Mathematics,Mathematical Logic - Logical Puzzles,0.1054223297135872,0,0.0
+809,CS - Engineering Mathematics,Probability - Binomial Probability,0.1054223297135872,0,0.0
+810,CS - Programming and Data Structures,Programming in C - Pointer Arithmetic and String Functions,0.10545683565696502,10,0.0
+811,CS - Compiler Design,Syntax Analysis - Parsing Techniques,0.03243828900977912,0,0.0
+812,CS - Engineering Mathematics,Discrete Mathematics - Recurrence Relations,0.1054223297135872,2,0.0
+813,CS - Engineering Mathematics,Linear Algebra - Properties of Invertible Matrices,0.1054223297135872,0,0.0
+814,CS - Theory of Computation,Context-Free Grammars and Push-Down Automata - Pumping Lemma for Context-Free Languages,0.07299755658574755,0,0.0
+815,CS - Compiler Design,Intermediate Representation - AST and CFG,0.03243828900977912,0,0.0
+816,CS - Engineering Mathematics,Probability - Combinatorics and Probability,0.1054223297135872,0,0.0
+817,CS - Computer Organization and Architecture,Instruction Pipelining - Pipeline Performance with Data Hazards and Speedup Calculation,0.07298604924561768,0,0.0
+818,CS - Programming and Data Structures,Heaps - Max-Heap Property,0.10545683565696502,0,0.0
+819,CS - Databases,File Structures and Indexing - Index File Size Calculation,0.06487775641365104,0,0.0
+820,DA - Probability and Statistics,Expectation - Law of Total Expectation,0.008368046624628868,0,0.0
+821,CS - Operating System,Processes and System Calls - System Calls versus Library Functions,0.08113754992326849,0,0.0
+822,CS - Computer Organization and Architecture,Memory Hierarchy - Cache Write Policies,0.07298604924561768,0,0.0
+823,CS - Computer Organization and Architecture,Pipelining - Pipeline Performance with Multiple Functional Units,0.07298604924561768,0,0.0
+824,CS - Engineering Mathematics,Graph Theory - Handshaking Lemma,0.1054223297135872,0,0.0
+825,CS - Computer Organization and Architecture,I/O Organization - Disk Addressing,0.07298604924561768,0,0.0
+826,DA - Linear Algebra,Matrices - Rank-One Update,0.004406859254495474,0,0.0
+827,CS - Engineering Mathematics,Discrete Mathematics - Group Theory and Equivalence Relations (Conjugacy),0.1054223297135872,0,0.0
+828,DA - Machine Learning,Supervised Learning - Support Vector Machines (SVM),0.0066121157200683895,0,0.0
+829,CS - Engineering Mathematics,Calculus - Monotonicity of Functions,0.1054223297135872,0,0.0
+830,CS - Databases,Transactions and Concurrency Control - Conflict Serializability and Precedence Graphs,0.06487775641365104,0,0.0
+831,CS - Programming and Data Structures,Trees - Graph Traversal (BFS and DFS) on Trees,0.10545683565696502,0,0.0
+832,DA - Linear Algebra,Linear Transformations - Projection Matrices,0.004406859254495474,0,0.0
+833,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics (Complementary Counting),0.1054223297135872,6,0.0
+834,CS - Algorithms,Graph Algorithms - Properties of BFS and DFS Trees,0.056817630978816445,0,0.0
+835,CS - Engineering Mathematics,Discrete Mathematics - Set Theory and Cardinality,0.1054223297135872,1,0.0
+836,CS - Theory of Computation,Formal Languages - Closure Properties of Language Classes,0.07299755658574755,0,0.0
+837,CS - Computer Organization and Architecture,Instruction Set Architecture - Instruction Format Design,0.07298604924561768,0,0.0
+838,CS - Databases,File Structures and Indexing - File Organization,0.06487775641365104,0,0.0
+839,CS - Algorithms,Sorting - Selection Sort Complexity,0.056817630978816445,0,0.0
+840,CS - Digital Logic,Number Systems and Representations - IEEE 754 Floating-Point Representation (Normalized Numbers),0.04861885724656857,0,0.0
+841,DA - Probability and Statistics,Continuous Random Variables - Probability from CDF,0.008368046624628868,0,0.0
+842,CS - Computer Networks,"Transport Layer - TCP Connection Management, Half-Open Connections, and RST segment",0.048629636577785254,0,0.0
+843,GA - Analytical Aptitude,Letter Series - Odd One Out,0.017616999084000946,0,0.0
+844,CS - Algorithms,Number Theoretic Algorithms - Euclidean Algorithm for GCD (Recursive),0.056817630978816445,0,0.0
+845,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics (Integer Partitions),0.1054223297135872,0,0.0
+846,CS - Computer Organization and Architecture,Input/Output (I/O) Systems - Direct Memory Access (DMA),0.07298604924561768,0,0.0
+847,CS - Algorithms,Sorting - Quicksort Analysis and Probability,0.056817630978816445,0,0.0
+848,CS - Computer Networks,Medium Access Control - Pure ALOHA Throughput Calculation,0.048629636577785254,0,0.0
+849,CS - Compiler Design,Code Optimization - Basic Blocks,0.03243828900977912,0,0.0
+850,CS - Compiler Design,Intermediate Code Generation - Backpatching,0.03243828900977912,0,0.0
+851,CS - Databases,"Database Design and Normalization - BCNF, Dependency Preservation, and Lossless Decomposition",0.06487775641365104,0,0.0
+852,CS - Programming and Data Structures,Data Structures - Linked Lists,0.10545683565696502,0,0.0
+853,DA - Databases,Relational Database Design - Dependency Preservation,0.0026465337442448454,0,0.0
+854,CS - Operating Systems,CPU Scheduling - Starvation,0.04582733690366641,0,0.0
+855,CS - Algorithms,"Graph Algorithms - Minimum Spanning Trees (MST), Kruskal's Algorithm",0.056817630978816445,0,0.0
+856,DA - Probability and Statistics,Conditional Probability - Bayes' Theorem,0.008368046624628868,0,0.0
+857,General Aptitude,Numerical Ability - Coordinate Geometry,0.12170366001303264,0,0.0
+858,CS - Digital Logic,Boolean Algebra - K-Map Simplification,0.04861885724656857,0,0.0
+859,CS - Engineering Mathematics,Probability and Statistics - Continuous Probability and Quadratic Equations,0.1054223297135872,0,0.0
+860,CS - Compiler Design,Code Optimization - Liveness Analysis Applications,0.03243828900977912,0,0.0
+861,CS - Theory of Computation,Regular Languages - Language Operations,0.07299755658574755,0,0.0
+862,CS - Digital Logic,Boolean Algebra and Logic Gates - Boolean Function Minimization using K-Maps or Algebraic Manipulation,0.04861885724656857,0,0.0
+863,CS - Databases,Functional Dependencies - Minimal Cover,0.06487775641365104,0,0.0
+864,CS - Computer Organization and Architecture,Pipelining - Pipeline Hazards and Performance,0.07298604924561768,0,0.0
+865,CS - Algorithms,Algorithm Analysis - Time Complexity of Nested Loops,0.056817630978816445,0,0.0
+866,CS - Compiler Design,Syntax Directed Translation - S-Attributed Definitions and Operator Precedence,0.03243828900977912,2,0.0
+867,CS - Programming and Data Structures,Data Structures - Binary Search Trees and Combinatorics,0.10545683565696502,11,0.0
+868,GA - Quantitative Aptitude,Logarithms - Exponential Models,0.03920341122283779,0,0.0
+869,CS - Programming and Data Structures,Programming in C - Evaluating Polynomials using Horner's Method,0.10545683565696502,0,0.0
+870,CS - Digital Logic,Boolean Algebra - Boolean Identities,0.04861885724656857,0,0.0
+871,CS - Databases,Relational Algebra - Division Operator,0.06487775641365104,0,0.0
+872,CS - Computer Organization and Architecture,Instruction Set Architecture - PC-Relative Addressing,0.07298604924561768,0,0.0
+873,CS - Programming and Data Structures,Data Structures - Binary Search Trees,0.10545683565696502,0,0.0
+874,CS - Engineering Mathematics,Linear Algebra - Rank of a Matrix,0.1054223297135872,0,0.0
+875,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Cayley's Formula),0.1054223297135872,1,0.0
+876,CS - Compiler Design,Parsing - LR Parsers and Rightmost Derivation,0.03243828900977912,0,0.0
+877,GA - Verbal Ability,Vocabulary - Word Meaning in Context,0.02685821019834579,0,0.0
+878,CS - Engineering Mathematics,"Probability and Statistics - Covariance, Variance, and Cauchy-Schwarz Inequality",0.1054223297135872,0,0.0
+879,CS - Programming and Data Structures,"Data Structures - Trees, Tree Traversal",0.10545683565696502,0,0.0
+880,CS - Operating Systems,Process Synchronization - Race Conditions,0.04582733690366641,0,0.0
+881,CS - Computer Organization and Architecture,Memory System - Row-Major Order and Locality,0.07298604924561768,0,0.0
+882,CS - Web Technologies,HTML - Base Tag,0.0008851672269829002,0,0.0
+883,CS - Operating Systems,CPU Scheduling - Round Robin Scheduling,0.04582733690366641,0,0.0
+884,GA - Quantitative Aptitude,Averages - Weighted Average,0.03920341122283779,0,0.0
+885,CS - Databases,Concurrency Control - Recoverability,0.06487775641365104,0,0.0
+886,CS - Digital Logic,Computer Arithmetic - Carry Lookahead Adder,0.04861885724656857,0,0.0
+887,GA - Analytical Aptitude,Coding-Decoding - Logical Reasoning,0.017616999084000946,0,0.0
+888,GA - Quantitative Aptitude,Coordinate Geometry - Distance Formula,0.03920341122283779,0,0.0
+889,CS - Compiler Design,Phases of a Compiler - Semantic Analysis and Type Checking,0.03243828900977912,0,0.0
+890,CS - Programming and Data Structures,Programming in C - Static Variables and Bitwise Operations,0.10545683565696502,0,0.0
+891,CS - Computer Networks,Network Layer - Route Aggregation (CIDR),0.048629636577785254,0,0.0
+892,CS - Algorithms,Asymptotic Analysis - Growth of Functions,0.056817630978816445,0,0.0
+893,DA - Machine Learning,Dimensionality Reduction - Principal Component Analysis (PCA),0.0066121157200683895,0,0.0
+894,CS - Databases,Relational Database Design - Normalization and Decomposition Properties,0.06487775641365104,0,0.0
+895,CS - Engineering Mathematics,Calculus - Polynomials and Derivatives,0.1054223297135872,0,0.0
+896,CS - Digital Logic,Combinational Circuits - Decoders and Multiplexers,0.04861885724656857,0,0.0
+897,CS - Theory of Computation,Context-Free Grammars and Push-Down Automata - PDA Language Recognition and String Counting,0.07299755658574755,0,0.0
+898,General Aptitude,Verbal Ability - Vocabulary (Phrasal Verbs),0.12170366001303264,0,0.0
+899,GA - Verbal Ability,Vocabulary - Homophones (personnel vs. personal),0.02685821019834579,0,0.0
+900,GA - Quantitative Aptitude,Calculus - Area Under Curve (Integration),0.03920341122283779,0,0.0
+901,CS - Engineering Mathematics,Calculus - Continuity and Improper Integrals,0.1054223297135872,0,0.0
+902,CS - Digital Logic,Sequential Circuits - State Analysis,0.04861885724656857,0,0.0
+903,DA - Algorithms,Sorting Algorithms - Insertion Sort,0.0035214591728229662,0,0.0
+904,GA - Verbal Ability,Grammar - Adverbs,0.02685821019834579,0,0.0
+905,CS - Programming and Data Structures,Programming in C - Function Calls and Loops,0.10545683565696502,0,0.0
+906,CS - Engineering Mathematics,Calculus - Continuity,0.1054223297135872,0,0.0
+907,CS - Engineering Mathematics,"Discrete Mathematics - Set Theory, Cardinality, and Functions (Injections, Surjections, Bijections)",0.1054223297135872,0,0.0
+908,CS - Programming and Data Structures,Programming in C - Pointers and Array Arithmetic,0.10545683565696502,0,0.0
+909,DA - Programming and Algorithms,Recursion - List Reversal,0.0017651122503230532,0,0.0
+910,GA - Quantitative Aptitude,Combinatorics - Combination with Repetition,0.03920341122283779,0,0.0
+911,DA - Probability and Statistics,Expectation - Conditional Expectation and Recurrence,0.008368046624628868,0,0.0
+912,CS - Computer Networks,Data Link Layer - Sliding Window Protocols and Link Utilization Calculation,0.048629636577785254,0,0.0
+913,CS - Programming and Data Structures,Programming in C - Recursion and Pointers,0.10545683565696502,0,0.0
+914,CS - Computer Organization and Architecture,Data Representation - Endianness (Little vs. Big Endian),0.07298604924561768,0,0.0
+915,CS - Computer Networks,"Application Layer - Web Browsing Process (DNS, TCP, HTTP)",0.048629636577785254,0,0.0
+916,GA - Quantitative Aptitude,Set Theory - Venn Diagrams,0.03920341122283779,0,0.0
+917,GA - Spatial Aptitude,Cubes and Cuboids - Cutting,0.008808261396316252,0,0.0
+918,CS - Computer Organization and Architecture,Memory System - DRAM and Refresh Cycles,0.07298604924561768,0,0.0
+919,General Aptitude,Verbal Ability - Analogy,0.12170366001303264,0,0.0
+920,GA - Analytical Aptitude,Graph Theory - Map Coloring,0.017616999084000946,0,0.0
+921,CS - Computer Organization and Architecture,Cache Memory - Cache Addressing,0.07298604924561768,0,0.0
+922,CS - Programming and Data Structures,Hashing - Uniform Hashing Expectation,0.10545683565696502,0,0.0
+923,CS - Computer Organization and Architecture,Pipelining - Performance Evaluation and Speedup,0.07298604924561768,0,0.0
+924,CS - Engineering Mathematics,Linear Algebra - Eigenvalues,0.1054223297135872,0,0.0
+925,CS - Computer Organization and Architecture,Memory Hierarchy - Direct Mapped Cache Analysis,0.07298604924561768,0,0.0
+926,CS - Compiler Design,Syntax Analysis - LALR(1) vs LR(1) Parsers,0.03243828900977912,0,0.0
+927,CS - Compiler Design,Syntax Directed Translation - Attribute Grammars and SDD,0.03243828900977912,0,0.0
+928,CS - Algorithms,Sorting - Time Complexity of Sorting Algorithms,0.056817630978816445,0,0.0
+929,CS - Computer Organization and Architecture,Memory System - Average Memory Access Time (AMAT) with multiple caches,0.07298604924561768,0,0.0
+930,CS - Digital Logic,Combinational Circuits - Multiplexer Implementation,0.04861885724656857,0,0.0
+931,CS - Computer Organization and Architecture,Data Representation - IEEE 754 Floating-Point Arithmetic,0.07298604924561768,0,0.0
+932,GA - Analytical Aptitude,Logical Puzzles - Arrangement and Distribution,0.017616999084000946,0,0.0
+933,CS - Engineering Mathematics,Discrete Mathematics - Algebraic Structures,0.1054223297135872,0,0.0
+934,CS - Engineering Mathematics,Probability - Geometric Probability and Expectation,0.1054223297135872,0,0.0
+935,GA - Analytical Aptitude,Logical Puzzles - Deductive Reasoning,0.017616999084000946,0,0.0
+936,CS - Digital Logic,Sequential Circuits - Flip-Flops and State Diagrams,0.04861885724656857,0,0.0
+937,GA - Analytical Aptitude,Counting - Counting Rectangles,0.017616999084000946,0,0.0
+938,CS - Algorithms,Graph Algorithms - Topological Sorting,0.056817630978816445,0,0.0
+939,CS - Programming and Data Structures,Stacks and Queues - Basic Operations on Stacks and Queues,0.10545683565696502,0,0.0
+940,GA - Verbal Ability,Vocabulary - Odd One Out,0.02685821019834579,0,0.0
+941,CS - Engineering Mathematics,Graph Theory - Graph Coloring,0.1054223297135872,0,0.0
+942,CS - Operating Systems,Process Management - Process States,0.04582733690366641,0,0.0
+943,DA - Probability and Statistics,Probability Distributions - Exponential Distribution,0.008368046624628868,0,0.0
+944,CS - Computer Networks,Transport Layer - TCP Congestion Control,0.048629636577785254,0,0.0
+945,GA - Verbal Ability,Logical Inference - Counterfactual Conditionals,0.02685821019834579,0,0.0
+946,DA - Calculus,Differential Calculus - Derivative of Sigmoid Function,0.00352253587875968,0,0.0
+947,CS - Operating Systems,CPU Scheduling - Shortest Remaining Time First (SRTF),0.04582733690366641,0,0.0
+948,CS - Programming and Data Structures,Algorithm Analysis - Loop Invariants,0.10545683565696502,0,0.0
+949,CS - Engineering Mathematics,Discrete Mathematics - Predicate Logic and Induction,0.1054223297135872,0,0.0
+950,CS - Computer Organization and Architecture,CPU Architecture - Stack Operations and CALL instruction,0.07298604924561768,0,0.0
+951,DA - Artificial Intelligence,Search Algorithms - Comparison of BFS and DFS,0.0017576184229337092,0,0.0
+952,CS - Compiler Design,Code Optimization - Register Allocation,0.03243828900977912,0,0.0
+953,CS - Databases,Concurrency Control - Conflict Serializability,0.06487775641365104,0,0.0
+954,CS - Engineering Mathematics,Calculus - Limits,0.1054223297135872,0,0.0
+955,CS - Programming and Data Structures,Programming in C - Loop Analysis,0.10545683565696502,0,0.0
+956,CS - Computer Networks,Wireless Networks - IEEE 802.11 MAC,0.048629636577785254,0,0.0
+957,CS - Algorithms,Graph Algorithms - Shortest Path Algorithms (Dijkstra's),0.056817630978816445,0,0.0
+958,CS - Theory of Computation,Turing Machines and Undecidability - Decidability of Language Properties for DFAs and PDAs,0.07299755658574755,0,0.0
+959,GA - Quantitative Aptitude,Algebra - Absolute Value,0.03920341122283779,0,0.0
+960,CS - Engineering Mathematics,Linear Algebra - LU Decomposition,0.1054223297135872,0,0.0
+961,CS - Programming and Data Structures,Data Structures - Young Tableau,0.10545683565696502,0,0.0
+962,DA - Artificial Intelligence,Adversarial Search - Alpha-Beta Pruning,0.0017576184229337092,0,0.0
+963,CS - Algorithms,Graph Algorithms - DFS and Connected Components,0.056817630978816445,0,0.0
+964,CS - Computer Organization and Architecture,Pipelining and Parallel Processing - Amdahl's Law and Performance,0.07298604924561768,0,0.0
+965,CS - Computer Networks,IP Protocol - IP Fragmentation,0.048629636577785254,0,0.0
+966,CS - Engineering Mathematics,Calculus - Differentiation and Integration,0.1054223297135872,0,0.0
+967,GA - Verbal Ability,Vocabulary - Figurative Language,0.02685821019834579,0,0.0
+968,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics (Counting with Constraints),0.1054223297135872,0,0.0
+969,GA - Quantitative Aptitude,Geometry - Area of Rectangles,0.03920341122283779,0,0.0
+970,CS - Theory of Computation,Finite Automata and Regular Languages - NFA to Regular Expression,0.07299755658574755,0,0.0
+971,CS - Data Structures,Stacks - Min Stack Problem,0.004849599702058917,0,0.0
+972,CS - Programming and Data Structures,Programming in C - Recursion and I/O,0.10545683565696502,1,0.0
+973,CS - Programming and Data Structures,Programming in C - Control Flow (while loop),0.10545683565696502,0,0.0
+974,CS - Algorithms,Algorithm Analysis - Loop Invariants,0.056817630978816445,0,0.0
+975,CS - Operating System,Memory Management - Multi-level Paging and Page Table Size Calculation,0.08113754992326849,0,0.0
+976,CS - Databases,SQL - SQL Query with GROUP BY and Aggregation (Implicit Join),0.06487775641365104,0,0.0
+977,CS - Programming and Data Structures,Data Structures - Linked Lists and Time Complexity Analysis,0.10545683565696502,0,0.0
+978,CS - Algorithms,Searching - Time Complexity,0.056817630978816445,0,0.0
+979,CS - Compiler Design,Runtime Environments - Activation Trees,0.03243828900977912,0,0.0
+980,CS - Algorithms,Asymptotic Analysis - Big-O and Omega Notation,0.056817630978816445,0,0.0
+981,CS - Programming and Data Structures,Trees - Binary Search Tree Properties,0.10545683565696502,0,0.0
+982,CS - Databases,Transaction Management - ACID Properties,0.06487775641365104,0,0.0
+983,CS - Engineering Mathematics,"Graph Theory - Permutation Graphs, Graph Properties",0.1054223297135872,5,0.0
+984,CS - Programming and Data Structures,Programming in C - Storage Classes and Memory Management,0.10545683565696502,0,0.0
+985,CS - Software Engineering,Software Project Management - COCOMO Model,0.0070455287321587266,0,0.0
+986,CS - Programming and Data Structures,Recursion - Analysis of Recursive Calls,0.10545683565696502,1,0.0
+987,DA - Discrete Mathematics,Propositional Logic - Tautologies,0.0013240876940712615,0,0.0
+988,CS - Engineering Mathematics,Discrete Mathematics - Relations and Their Properties (Equivalence Relations),0.1054223297135872,3,0.0
+989,CS - Computer Organization and Architecture,"Memory Hierarchy - Cache Policies (Write-Through, Write-Back, Write-Allocate)",0.07298604924561768,0,0.0
+990,CS - Algorithms,Graph Algorithms - Minimum Spanning Tree Properties,0.056817630978816445,0,0.0
+991,GA - Verbal Ability,Reading Comprehension - Logical Matching,0.02685821019834579,0,0.0
+992,CS - Algorithms,Recursion - Analysis of Recursive Functions,0.056817630978816445,0,0.0
+993,CS - Operating Systems,Process Synchronization - Semaphores,0.04582733690366641,0,0.0
+994,CS - Software Engineering,Software Testing - Testing Types and Techniques,0.0070455287321587266,0,0.0
+995,CS - Programming and Data Structures,"Programming in C - Functions, Bitwise operations, and Exponentiation",0.10545683565696502,44,0.0
+996,GA - Quantitative Aptitude,Profit and Loss - Percentage Calculations,0.03920341122283779,0,0.0
+997,CS - Engineering Mathematics,Linear Algebra - Determinants,0.1054223297135872,0,0.0
+998,CS - Databases,Relational Database Design - Armstrong's Axioms,0.06487775641365104,0,0.0
+999,CS - Engineering Mathematics,"Discrete Mathematics - Group Theory (Cyclic Groups, Lagrange's Theorem, Groups of Prime Order)",0.1054223297135872,0,0.0
+1000,CS - Computer Networks,TCP - TCP Properties,0.048629636577785254,0,0.0
+1001,GA - Analytical Aptitude,Function Analysis - Monotonic Functions,0.017616999084000946,0,0.0
+1002,GA - Verbal Ability,Vocabulary - Word Definitions,0.02685821019834579,0,0.0
+1003,DA - Probability and Statistics,Probability Distributions - Chi-Squared Distribution,0.008368046624628868,0,0.0
+1004,CS - Operating Systems,Process Synchronization - Critical Section Problem (Peterson's Algorithm),0.04582733690366641,0,0.0
+1005,CS - Programming and Data Structures,Data Structures - Heaps (Heapify),0.10545683565696502,0,0.0
+1006,GA - Quantitative Aptitude,Probability - Counting Principles,0.03920341122283779,0,0.0
+1007,CS - Operating Systems,Memory Management - Paging and Virtual Address,0.04582733690366641,0,0.0
+1008,CS - Theory of Computation,Context-Free Grammars and Push-Down Automata - Properties of Context-Free Languages,0.07299755658574755,0,0.0
+1009,CS - Algorithms,"Graph Algorithms - DFS, BFS, Graph Traversal Properties",0.056817630978816445,0,0.0
+1010,CS - Operating Systems,Memory Management - Paging and Page Table Size,0.04582733690366641,0,0.0
+1011,General Aptitude,Verbal Ability - Analytical Reasoning,0.12170366001303264,0,0.0
+1012,CS - Engineering Mathematics,Discrete Mathematics - Generating Functions,0.1054223297135872,0,0.0
+1013,CS - Digital Logic,Boolean Algebra - Logic Gates (XNOR),0.04861885724656857,0,0.0
+1014,CS - Computer Organization and Architecture,Data Representation - IEEE 754 Floating-Point,0.07298604924561768,0,0.0
+1015,GA - Analytical Aptitude,Seating Arrangement - Logical Deduction,0.017616999084000946,0,0.0
+1016,CS - Engineering Mathematics,Linear Algebra - Eigenvalues and Eigenvectors of Special Matrices,0.1054223297135872,0,0.0
+1017,CS - Operating System,Disk Scheduling - Shortest Seek Time First (SSTF) Algorithm,0.08113754992326849,0,0.0
+1018,GA - Quantitative Aptitude,Averages - Data Correction in Averages,0.03920341122283779,0,0.0
+1019,CS - Programming and Data Structures,"Data Structures - Trees, Tree Traversal, BST",0.10545683565696502,0,0.0
+1020,CS - Engineering Mathematics,Mathematical Logic - Logical Equivalence,0.1054223297135872,0,0.0
+1021,CS - Operating System,Memory Management - Translation Lookaside Buffer (TLB),0.08113754992326849,0,0.0
+1022,GA - Quantitative Aptitude,Algebra - Exponential Functions,0.03920341122283779,0,0.0
+1023,CS - Engineering Mathematics,Linear Algebra - Eigenvalues of Matrix Powers,0.1054223297135872,0,0.0
+1024,CS - Engineering Mathematics,Probability and Statistics - Conditional Probability (Pólya's Urn Scheme),0.1054223297135872,0,0.0
+1025,DA - Data Structures,"Fundamental Data Structures - Stacks, Queues, and Hash Tables",0.0022064146551626714,0,0.0
+1026,General Aptitude,Numerical Ability - Data Interpretation,0.12170366001303264,0,0.0
+1027,GA - Verbal Ability,Vocabulary - Phrasal Verbs,0.02685821019834579,0,0.0
+1028,CS - Computer Organization and Architecture,Memory Management - TLB and Virtual Memory Addressing,0.07298604924561768,0,0.0
+1029,GA - Verbal Ability,English Grammar - Tenses,0.02685821019834579,0,0.0
+1030,CS - Databases,File Structures - B+ Tree Insertion,0.06487775641365104,0,0.0
+1031,CS - Computer Networks,Application Layer - Web Browsing Protocol Sequence,0.048629636577785254,0,0.0
+1032,CS - Computer Networks,Data Link Layer - Stop-and-Wait Protocol Utilization,0.048629636577785254,0,0.0
+1033,CS - Operating Systems,Memory Management - Multi-level Paging,0.04582733690366641,0,0.0
+1034,GA - Quantitative Aptitude,Probability - Binomial Probability,0.03920341122283779,0,0.0
+1035,CS - Engineering Mathematics,Discrete Mathematics - Inclusion-Exclusion Principle,0.1054223297135872,0,0.0
+1036,CS - Operating System,Processes and Threads - Process Creation (fork() system call),0.08113754992326849,0,0.0
+1037,GA - Quantitative Aptitude,Probability - Combinatorics and Probability,0.03920341122283779,0,0.0
+1038,CS - Theory of Computation,Decidability - Decidable Problems for CFLs,0.07299755658574755,0,0.0
+1039,CS - Algorithms,Algorithm Analysis - Analysis of Selection Algorithms (Min/Max finding),0.056817630978816445,0,0.0
+1040,CS - Databases,Functional Dependencies - Trivial Dependencies,0.06487775641365104,0,0.0
+1041,CS - Databases,File Structures and Indexing - B+ Tree Height and Search Cost Calculation,0.06487775641365104,0,0.0
+1042,DA - Calculus,Differential Calculus - Convex Functions,0.00352253587875968,0,0.0
+1043,CS - Digital Logic,Data Representation - 2's Complement Arithmetic,0.04861885724656857,6,0.0
+1044,CS - Computer Networks,Application Layer - HTTP (Non-Persistent Connections),0.048629636577785254,0,0.0
+1045,GA - Analytical Aptitude,Logical Reasoning - Syllogism and Inference,0.017616999084000946,0,0.0
+1046,CS - Computer Organization and Architecture,"Cache Memory - Cache Addressing, Set-Associative Mapping",0.07298604924561768,0,0.0
+1047,CS - Operating System,File Systems - Directory Implementation and File Operations,0.08113754992326849,0,0.0
+1048,CS - Engineering Mathematics,Discrete Mathematics - Modular Arithmetic and Fermat's Little Theorem,0.1054223297135872,0,0.0
+1049,GA - Quantitative Aptitude,Number Theory - Properties of Prime Numbers,0.03920341122283779,0,0.0
+1050,General Aptitude,Analytical Aptitude - Logical Deduction,0.12170366001303264,0,0.0
+1051,CS - Algorithms,Sorting - Comparison Count Analysis for Sorting Algorithms on Nearly Sorted Data,0.056817630978816445,0,0.0
+1052,GA - Quantitative Aptitude,Number Systems - Sequences and Series,0.03920341122283779,0,0.0
+1053,GA - Quantitative Aptitude,Algebra - Functions and Inequalities,0.03920341122283779,0,0.0
+1054,CS - Engineering Mathematics,Probability - Probability of Events,0.1054223297135872,0,0.0
+1055,CS - Algorithms,Algorithm Analysis - Lower Bounds,0.056817630978816445,0,0.0
+1056,CS - Engineering Mathematics,Calculus - Definite Integrals and Functional Equations,0.1054223297135872,0,0.0
+1057,CS - Operating Systems,System Calls and Interrupts - Mode Transition,0.04582733690366641,0,0.0
+1058,CS - Programming and Data Structures,Heaps - Properties of Max-Heaps and Conversions,0.10545683565696502,0,0.0
+1059,CS - Programming and Data Structures,"Programming in C - Linked Lists, Pointers, and Dynamic Memory Allocation",0.10545683565696502,0,0.0
+1060,GA - Quantitative Aptitude,Mensuration - Area of Square and Circle,0.03920341122283779,0,0.0
+1061,CS - Compiler Design,Code Optimization - Data Flow Analysis (Liveness Analysis),0.03243828900977912,0,0.0
+1062,CS - Programming and Data Structures,Programming in C - Recursion and Infinite Loops,0.10545683565696502,0,0.0
+1063,CS - Digital Logic,Data Representation - 2's Complement Arithmetic Overflow,0.04861885724656857,0,0.0
+1064,CS - Digital Logic,Combinational Circuits - Hazards and Glitches,0.04861885724656857,0,0.0
+1065,CS - Engineering Mathematics,Discrete Mathematics - Functions (Composition and Properties),0.1054223297135872,0,0.0
+1066,GA - Quantitative Aptitude,Algebra - Exponents,0.03920341122283779,0,0.0
+1067,CS - Programming and Data Structures,Programming in C - Switch Statement and Operator Precedence,0.10545683565696502,3,0.0
+1068,CS - Computer Networks,Flow Control - Stop-and-Wait ARQ Efficiency,0.048629636577785254,0,0.0
+1069,CS - Algorithms,Algorithm Analysis - Median of Medians Algorithm Analysis,0.056817630978816445,0,0.0
+1070,GA - Quantitative Aptitude,Functions - Properties of Functions,0.03920341122283779,0,0.0
+1071,CS - Compiler Design,Code Optimization - Common Sub-expression Elimination (CSE),0.03243828900977912,0,0.0
+1072,CS - Operating Systems,CPU Scheduling - Scheduling Algorithms,0.04582733690366641,0,0.0
+1073,CS - Engineering Mathematics,Linear Algebra - Properties of Eigenvalues and Determinants,0.1054223297135872,0,0.0
+1074,CS - Digital Logic,Boolean Algebra and Logic Gates - Logic Circuit Analysis to SOP/Minterm form,0.04861885724656857,0,0.0
+1075,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Complete and Disconnected Graphs),0.1054223297135872,0,0.0
+1076,CS - Engineering Mathematics,Probability - Probability Density Function,0.1054223297135872,0,0.0
+1077,DA - Probability and Statistics,Probability Distributions - Properties of Poisson and Normal Distributions,0.008368046624628868,0,0.0
+1078,CS - Computer Networks,TCP - Connection Management,0.048629636577785254,0,0.0
+1079,DA - Probability and Statistics,Continuous Random Variables - Joint Uniform Distribution,0.008368046624628868,0,0.0
+1080,General Aptitude,Verbal Ability - Grammar and Sentence Structure,0.12170366001303264,0,0.0
+1081,GA - Verbal Ability,Vocabulary - Idioms and Phrases,0.02685821019834579,0,0.0
+1082,CS - Engineering Mathematics,"Discrete Mathematics - Propositional Logic, Tautologies, and Logical Equivalence",0.1054223297135872,0,0.0
+1083,CS - Operating Systems,Memory Management - Page Replacement Algorithms and Belady's Anomaly,0.04582733690366641,0,0.0
+1084,CS - Compiler Design,Syntax Analysis - Shift-Reduce Parsing,0.03243828900977912,0,0.0
+1085,CS - Databases,Relational Database Design - Third Normal Form (3NF),0.06487775641365104,0,0.0
+1086,CS - Programming and Data Structures,Programming in C - Recursion and Array Processing,0.10545683565696502,4,0.0
+1087,CS - Operating Systems,CPU Scheduling - SRTF and SJF Algorithms,0.04582733690366641,0,0.0
+1088,CS - Compiler Design,Syntax Analysis - LALR Parsing,0.03243828900977912,0,0.0
+1089,General Aptitude,Numerical Ability - Algebra,0.12170366001303264,0,0.0
+1090,CS - Compiler Design,Syntax-Directed Translation - L-attributed and S-attributed Definitions,0.03243828900977912,0,0.0
+1091,CS - Operating System,Concurrency and Synchronization - Semaphores and Barrier Synchronization,0.08113754992326849,0,0.0
+1092,CS - Digital Logic,Data Representation - IEEE 754 Floating-Point Standard,0.04861885724656857,0,0.0
+1093,CS - Algorithms,Asymptotic Analysis - Properties of Asymptotic Notations,0.056817630978816445,0,0.0
+1094,CS - Algorithms,Asymptotic Analysis - Summations,0.056817630978816445,0,0.0
+1095,GA - Analytical Aptitude,Data Interpretation - Pattern Recognition in Tables,0.017616999084000946,0,0.0
+1096,CS - Algorithms,Sorting - Quicksort Complexity,0.056817630978816445,1,0.0
+1097,CS - Computer Organization and Architecture,Instruction Set Architecture - Components of ISA,0.07298604924561768,0,0.0
+1098,CS - Digital Logic,Combinational Circuits - Decoders and Memory Addressing,0.04861885724656857,0,0.0
+1099,CS - Theory of Computation,Undecidability - Rice's Theorem and Undecidable Problems,0.07299755658574755,0,0.0
+1100,GA - Analytical Aptitude,Logical Reasoning - Deductive Reasoning,0.017616999084000946,0,0.0
+1101,CS - Databases,Indexing - B+ Tree Properties,0.06487775641365104,0,0.0
+1102,CS - Computer Organization and Architecture,"Cache Memory - Cache Misses (Compulsory, Conflict, Capacity)",0.07298604924561768,0,0.0
+1103,GA - Quantitative Aptitude,Permutations and Combinations - Permutations,0.03920341122283779,0,0.0
+1104,CS - Operating System,Concurrency and Synchronization - Race Conditions,0.08113754992326849,0,0.0
+1105,GA - Analytical Aptitude,Seating Arrangement - Logical Reasoning,0.017616999084000946,0,0.0
+1106,GA - Spatial Aptitude,Directions - Map Reading,0.008808261396316252,0,0.0
+1107,CS - Programming and Data Structures,"Programming in C - Scope of Variables (Local, Global, Static)",0.10545683565696502,0,0.0
+1108,CS - Computer Networks,OSI Model - Packet Forwarding,0.048629636577785254,0,0.0
+1109,CS - Computer Networks,Network Layer - Subnetting,0.048629636577785254,0,0.0
+1110,DA - Databases,Relational Algebra - Query Interpretation,0.0026465337442448454,0,0.0
+1111,CS - Computer Organization and Architecture,Memory Hierarchy - Fully Associative Cache Address Translation,0.07298604924561768,1,0.0
+1112,CS - Databases,Concurrency Control - Deadlock Prevention and Starvation,0.06487775641365104,0,0.0
+1113,CS - Algorithms,Algorithm Analysis - Time Complexity Calculation,0.056817630978816445,0,0.0
+1114,CS - Engineering Mathematics,Mathematical Logic - First-Order Logic (Quantifier Equivalence),0.1054223297135872,0,0.0
+1115,CS - Engineering Mathematics,Discrete Mathematics - Graph Theory (Hamiltonian Cycles in Complete Graphs),0.1054223297135872,0,0.0
+1116,DA - Probability and Statistics,Continuous Random Variables - Conditional Expectation,0.008368046624628868,0,0.0
+1117,CS - Digital Logic,Boolean Algebra - Canonical Forms and Simplification,0.04861885724656857,0,0.0
+1118,CS - Computer Organization and Architecture,Computer Arithmetic - Booth's Algorithm,0.07298604924561768,6,0.0
+1119,CS - Compiler Design,Code Optimization - Register Allocation (Spilling),0.03243828900977912,0,0.0
+1120,CS - Computer Networks,Socket Programming - TCP Socket API,0.048629636577785254,0,0.0
+1121,CS - Engineering Mathematics,Discrete Mathematics - Number Theory (Modular Arithmetic and Fermat's Little Theorem),0.1054223297135872,0,0.0
+1122,CS - Engineering Mathematics,Discrete Mathematics - Number Systems,0.1054223297135872,0,0.0
+1123,DA - Discrete Mathematics,Propositional Logic - Logical Equivalence,0.0013240876940712615,0,0.0
+1124,CS - Operating System,File Systems - inode structure and File Size Calculation,0.08113754992326849,0,0.0
+1125,CS - Engineering Mathematics,Discrete Mathematics - Combinatorics (Derangements with Repetitions),0.1054223297135872,0,0.0
+1126,CS - Databases,Transactions and Concurrency Control - Database Recovery Techniques and Idempotency,0.06487775641365104,0,0.0
+1127,CS - Computer Networks,Network Layer - Address Resolution Protocol (ARP),0.048629636577785254,0,0.0
+1128,CS - Digital Logic,Number Systems and Representations - Number Base Conversion,0.04861885724656857,0,0.0
+1129,CS - Programming and Data Structures,Stacks and Queues - Operations on Stacks and Queues,0.10545683565696502,0,0.0
+1130,CS - Theory of Computation,Regular Expressions and Finite Automata - DFA Design and Group Theory,0.07299755658574755,0,0.0
+1131,CS - Computer Networks,Network Layer - IP Protocol Field,0.048629636577785254,0,0.0
+1132,GA - Analytical Aptitude,Spatial Aptitude - Data Interpretation from Maps,0.017616999084000946,0,0.0
+1133,CS - Computer Networks,Transport Layer - TCP Connection Establishment (Three-Way Handshake),0.048629636577785254,0,0.0
+1134,CS - Programming and Data Structures,Programming in C - Algorithm Analysis and Asymptotic Growth,0.10545683565696502,0,0.0
+1135,CS - Computer Networks,Network Layer - IP Forwarding and Longest Prefix Match,0.048629636577785254,0,0.0
+1136,CS - Engineering Mathematics,Calculus - Multiple Integrals,0.1054223297135872,0,0.0
+1137,CS - Engineering Mathematics,Discrete Mathematics - Partially Ordered Sets and Lattices,0.1054223297135872,0,0.0
+1138,DA - Calculus,Differential Calculus - Second Derivative Test,0.00352253587875968,0,0.0
+1139,DA - Algorithms,Algorithm Analysis - Complexity of Gaussian Elimination,0.0035214591728229662,0,0.0
+1140,CS - Operating System,"Memory Management - Paging, Internal and External Fragmentation, Page Table Overheads",0.08113754992326849,0,0.0
+1141,GA - Quantitative Aptitude,Data Interpretation - Tables and Revenue Calculation,0.03920341122283779,0,0.0
+1142,DA - Linear Algebra,Matrix Decompositions - Singular Value Decomposition (SVD),0.004406859254495474,0,0.0
+1143,CS - Engineering Mathematics,Discrete Mathematics - Random Graphs / Expected Value,0.1054223297135872,0,0.0
+1144,CS - Engineering Mathematics,Calculus - Limits and L'Hôpital's Rule for Indeterminate Forms,0.1054223297135872,0,0.0

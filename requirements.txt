@@ -17,3 +17,6 @@ scipy
 neo4j
 selenium
 webdriver-manager
+xgboost
+google-generativeai
+streamlit
