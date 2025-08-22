@@ -1,0 +1,107 @@
+{
+  "subject_name": "Data Structures and Algorithms",
+  "courses": [
+    {
+      "course_title": "Programming and Data Structure",
+      "professors": [
+        "Dr. P.P. Chakraborty"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "C Programming Fundamentals",
+        "Recursion, Sorting (Merge Sort, Quick Sort)",
+        "Arrays, Strings, and Structures",
+        "Dynamic Allocation and Linked Lists",
+        "Algorithm Complexity and Asymptotic Analysis",
+        "Search Trees (including 2-3 Trees)",
+        "Algorithm Design Techniques",
+        "Graphs"
+      ]
+    },
+    {
+      "course_title": "Programming and Data structures",
+      "professors": [
+        "Prof. Narayanaswamy N S"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Introduction to ADTs, Searching, and Sorting",
+        "Linked Lists, Stacks, and Queues",
+        "Binary Trees and Applications",
+        "Dictionaries and Binary Search Trees",
+        "Priority Queues and Heapsort",
+        "Graph Representations and Algorithms (Transitive Closure, Spanning Trees)",
+        "Graph Traversals (BFS, DFS)"
+      ]
+    },
+    {
+      "course_title": "Programming, Data Structures and Algorithms",
+      "professors": [
+        "Dr. N S. Narayanaswamy",
+        "Prof. Hema A Murthy",
+        "Prof. Shankar Balachandran"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Programming Fundamentals in C",
+        "Algorithm Analysis and Complexity",
+        "Searching and Sorting Algorithms",
+        "Basic Data Structures (Lists, Stacks, Queues)",
+        "Advanced Data Structures (Trees, Heaps, Graphs)",
+        "Algorithm Paradigms (Greedy, Dynamic Programming)",
+        "Graph Algorithms (Dijkstra's)",
+        "String Matching"
+      ]
+    },
+    {
+      "course_title": "Data Structures And Algorithms",
+      "professors": [
+        "Prof. Naveen Garg"
+      ],
+      "iit": "IIT Delhi",
+      "lecture_list": [
+        "Basic Data Structures (Stacks, Queues, Linked Lists, Hashing)",
+        "Trees (Traversals, AVL, Red Black Trees)",
+        "Sorting and Priority Queues",
+        "Graph Traversals (BFS, DFS)",
+        "Graph Algorithms (MST, Shortest Paths)",
+        "Advanced Topics (Tries, Data Compression, Disk Based Structures)"
+      ]
+    },
+    {
+      "course_title": "Data Structures and Algorithms Design",
+      "professors": [
+        "Prof. Nitin Saxena"
+      ],
+      "iit": "IIT Kanpur",
+      "lecture_list": [
+        "Introduction and Asymptotic Analysis",
+        "Abstract Data Structures (Arrays, Stacks)",
+        "Binary Search Trees (BST, Red-Black Tree)",
+        "Algorithm Paradigms (Divide and Conquer, Greedy)",
+        "Graph Theory and Algorithms (BFS, DFS, Articulation points)",
+        "Heaps and Dynamic Data Structures",
+        "Set Data Structures (Disjoint-union)",
+        "Sorting and Graph Algorithms (Dijkstra's, Radix Sort)"
+      ]
+    },
+    {
+      "course_title": "Data Structures and Program Methodology",
+      "professors": [
+        "Dr. S.V. Rao",
+        "Dr. Pradip K Das"
+      ],
+      "iit": "IIT Guwahati",
+      "lecture_list": [
+        "Introduction to Algorithms and Time Complexity",
+        "Linear Data Structures (Stacks, Queues, Linked Lists)",
+        "Sorting Algorithms (Merge, Quick, Radix)",
+        "Searching Algorithms (Linear, Binary)",
+        "Graph Representation and Algorithms (Traversal, MST, Shortest Path)",
+        "Trees (Binary Tree, Heapsort)",
+        "Search Trees (AVL, B-Tree)",
+        "Hashing Techniques"
+      ]
+    }
+  ]
+}

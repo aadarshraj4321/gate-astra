@@ -1,0 +1,72 @@
+{
+  "subject_name": "Operating System",
+  "courses": [
+    {
+      "course_title": "Operating Systems Design and Implementation",
+      "professors": [
+        "Prof. Sorav Bansal"
+      ],
+      "iit": "IIT Delhi",
+      "lecture_list": [
+        "Introduction to OS Abstractions, Systems Calls and Threads",
+        "X86 Processor Basics",
+        "Address Translation (Virtual Memory)",
+        "Processes and Memory Allocation",
+        "Process Creation, Modes, Stacks and Traps",
+        "Context Switching, Multiprocessors and Locking",
+        "Abstracting Synchronization",
+        "Virtual Memory Swapping",
+        "Files and Disk I/O",
+        "Journaling Filesystem (Linux ext3)"
+      ]
+    },
+    {
+      "course_title": "Real-Time Operating Systems",
+      "professors": [
+        "Prof. Rajib Mall"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Introduction",
+        "Characteristics of real-time systems",
+        "Modelling time constraints",
+        "Basic concepts in real-time operating systems"
+      ]
+    },
+    {
+      "course_title": "Fundamentals of Operating Systems",
+      "professors": [
+        "Prof. Santanu Chattopadhyay"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Introduction",
+        "Processes and Threads",
+        "Interprocess Communication",
+        "Concurrency and Synchronization",
+        "Deadlock",
+        "CPU Scheduling",
+        "Memory Management",
+        "Virtual Memory",
+        "File System"
+      ]
+    },
+    {
+      "course_title": "Introduction to Operating Systems",
+      "professors": [
+        "Prof. Chester Rebeiro"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Introduction",
+        "Memory Management",
+        "Processes",
+        "Interrupts and Context Switching",
+        "Scheduling",
+        "Synchronization",
+        "Deadlocks",
+        "Operating System Security"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "subject_name": "Computer Architecture",
+  "courses": [
+    {
+      "course_title": "Introduction to Computer Architecture",
+      "professors": [
+        "Prof. Smruti Ranjan Sarangi"
+      ],
+      "iit": "IIT Delhi",
+      "lecture_list": [
+        "Introduction to Computing",
+        "Number Systems",
+        "Floating Point Numbers",
+        "Assembly Language",
+        "Algorithms for Binary Addition",
+        "Algorithms for Multiplication and Division",
+        "Processor Design",
+        "Pipelining",
+        "Memory Systems - Caches",
+        "Virtual Memory"
+      ]
+    },
+    {
+      "course_title": "Computer Architecture and Organization",
+      "professors": [
+        "Prof. Indranil Sengupta",
+        "Prof. Kamalika Datta"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Evolution of Computer Systems",
+        "Instruction Set Architecture",
+        "Quantitative Principles of Computer Design",
+        "Control Unit Design",
+        "Memory System Design",
+        "Design of Cache Memory Systems",
+        "Design of Arithmetic Unit",
+        "Input-Output System Design",
+        "Instruction Set Pipelining",
+        "Parallel Processing Architectures"
+      ]
+    },
+    {
+      "course_title": "Computer Architecture",
+      "professors": [
+        "Prof. Madhu Mutyam"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Introduction, Instruction Set Principles",
+        "Memory Hierarchy Design – Cache Memory",
+        "Memory Hierarchy Design – Main Memory Design",
+        "Fundamental of Pipelining",
+        "Instruction Level Parallelism & Out-of-Order Execution",
+        "Thread-Level Parallelism – Multi-core Processor",
+        "Thread-Level Parallelism – Cache Coherency, Synchronization, and Memory Consistency"
+      ]
+    },
+    {
+      "course_title": "Computer Organization and Architecture",
+      "professors": [
+        "Prof. V. Kamakoti"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "High-Performance Circuit Design",
+        "Programming using X86 Instruction Set Architecture",
+        "Pipelining",
+        "Memory Management and Process Management",
+        "Caches and Shared Memory Architecture"
+      ]
+    }
+  ]
+}

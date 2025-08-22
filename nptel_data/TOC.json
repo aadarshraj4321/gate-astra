@@ -1,0 +1,88 @@
+{
+  "subject_name": "Theory of Computation",
+  "courses": [
+    {
+      "course_title": "Theory of Computation",
+      "professors": [
+        "Prof. Raghunath Tewari"
+      ],
+      "iit": "IIT Kanpur",
+      "lecture_list": [
+        "Finite Automata and Regular Operations",
+        "Regular Expressions and their Equivalence",
+        "Pumping Lemma for Regular Languages and DFA Minimization",
+        "Context-Free Grammars (CFGs) and Chomsky Normal Form",
+        "Pushdown Automata (PDAs) and their Equivalence with CFGs",
+        "Properties of CFLs and Turing Machines",
+        "Decidability Properties of Regular Languages and CFLs",
+        "Undecidability, Reductions, and Rice's Theorem"
+      ]
+    },
+    {
+      "course_title": "Introduction to Theory of Computation",
+      "professors": [
+        "Prof. Subrahmanyam Kalyanasundaram"
+      ],
+      "iit": "IIT Hyderabad",
+      "lecture_list": [
+        "DFAs, NFAs, and Regular Languages",
+        "Regular Expressions and Pumping Lemma",
+        "Context-Free Grammars and Pushdown Automata",
+        "Turing Machines and Church-Turing Thesis",
+        "Decidability and Undecidability (Halting Problem)",
+        "Reductions and Rice's Theorem",
+        "Complexity Theory: Classes P and NP",
+        "NP-Completeness and Cook-Levin Theorem",
+        "Space Complexity"
+      ]
+    },
+    {
+      "course_title": "Theory of Automata, Formal Languages and Computation",
+      "professors": [
+        "Prof. Kamala Krithivasan"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Grammars and Languages (CFG, Normal Forms)",
+        "Finite Automata and Regular Expressions",
+        "Properties of Regular Languages (Pumping Lemma, Myhill-Nerode)",
+        "Pushdown Automata and Equivalence with CFG",
+        "Turing Machines",
+        "Undecidability (Halting Problem, Rice's Theorem, PCP)",
+        "Complexity Theory (NP-Completeness, Cook's Theorem)",
+        "Advanced Topics (L-Systems, DNA and Membrane Computing)"
+      ]
+    },
+    {
+      "course_title": "Theory of Computation",
+      "professors": [
+        "Prof. Somenath Biswas"
+      ],
+      "iit": "IIT Kanpur",
+      "lecture_list": [
+        "Finite Automata and Regular Languages",
+        "Properties of Regular Languages (Pumping Lemma, Nondeterminism, Minimization)",
+        "Context-Free Grammars and Languages (CFGs, CFLs)",
+        "Pushdown Automata (PDA) and Equivalence with CFG",
+        "Properties of Context-Free Languages (Pumping Lemma, Closure, Decision Problems)",
+        "Turing Machines and Computability",
+        "Undecidability and the Halting Problem"
+      ]
+    },
+    {
+      "course_title": "Theory of Automata and Formal Languages",
+      "professors": [
+        "Dr. Diganta Goswami"
+      ],
+      "iit": "IIT Guwahati",
+      "lecture_list": [
+        "Finite Automata and Regular Languages/Grammars",
+        "Properties of Regular Languages (Pumping Lemma, Minimization)",
+        "Context-Free Grammars and Pushdown Automata (CFG, PDA)",
+        "Properties of Context-Free Languages (Simplification, Closure)",
+        "Turing Machines and Recursively Enumerable Languages",
+        "Post's Correspondence Problem (PCP) and Chomsky Hierarchy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subject_name": "Computer Networks",
+  "courses": [
+    {
+      "course_title": "Computer Networks",
+      "professors": [
+        "Prof. Ajit Pal"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Introduction and Layered Architecture",
+        "Physical Layer: Data, Signals, and Transmission",
+        "Multiplexing and Switching Techniques",
+        "Data Link Layer: Error and Flow Control",
+        "WAN Technologies (SONET, X.25, Frame Relay, ATM)",
+        "Medium Access Control (MAC) and LANs",
+        "Wireless and Mobile Networks (WLAN, Bluetooth, Cellular, Satellite)",
+        "Network Layer: Internet Protocol (IP)",
+        "Routing Protocols (RIP, OSPF, BGP)",
+        "Transport and Application Layer Protocols",
+        "Congestion Control",
+        "Network Security (Cryptography, Firewalls)"
+      ]
+    },
+    {
+      "course_title": "Computer Networks",
+      "professors": [
+        "Prof. Sujoy Ghosh"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Introduction, Reference Models, and Topology",
+        "Physical Layer and Switching",
+        "Optical Networking (SONET, Wavelength Routing)",
+        "Data Link Layer, Error Control, and MAC Protocols",
+        "LAN Technologies (Ethernet) and Interconnecting",
+        "Wireless, Cellular, and Satellite Networks",
+        "ATM",
+        "Network Layer: IP (v4, v6) and Routing (RIP)",
+        "Transport Layer: TCP, UDP",
+        "Congestion Control and Quality of Service (QoS)",
+        "Application Layer (DNS, DHCP, HTTP, FTP, SMTP)",
+        "Network Security and Management"
+      ]
+    },
+    {
+      "course_title": "Computer Networks and Internet Protocol",
+      "professors": [
+        "Prof. Soumya Kanti Ghosh",
+        "Prof. Sandip Chakraborty"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Introduction, Switching, and TCP/IP Stack",
+        "Application Layer Services (HTTP, FTP, Email, DNS)",
+        "Transport Layer Principles",
+        "Flow Control and Congestion Control",
+        "Transmission Control Protocol (TCP)",
+        "Network Layer and IP Addressing",
+        "IP Routing (Intra-domain and BGP)",
+        "Data Link Layer Services",
+        "Media Access Control (MAC)",
+        "End-to-End Principles"
+      ]
+    },
+    {
+      "course_title": "Computer Networks",
+      "professors": [
+        "Prof. Hema A Murthy"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Introduction to Networking and Layering",
+        "Physical Layer and Transmission",
+        "Data Link Layer (Framing, Error Control, Sliding Window)",
+        "Medium Access Control (ALOHA, Ethernet)",
+        "Token-based Protocols and ATM",
+        "Wireless LAN, Bridges, and Switches",
+        "Network Layer (IP, Forwarding)",
+        "Routing Algorithms (DV, LSR) and Congestion Control",
+        "Transport Layer (TCP)",
+        "Application Layer (SNMP, SMTP) and Network Security"
+      ]
+    }
+  ]
+}

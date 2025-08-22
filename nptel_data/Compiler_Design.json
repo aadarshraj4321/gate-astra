@@ -1,0 +1,92 @@
+{
+  "subject_name": "Compiler Design",
+  "courses": [
+    {
+      "course_title": "Compiler Design",
+      "professors": [
+        "Prof. Sanjeev K Aggarwal"
+      ],
+      "iit": "IIT Kanpur",
+      "lecture_list": [
+        "Introduction to Compilers",
+        "Lexical Analysis",
+        "Syntax Analysis",
+        "Semantic Analysis",
+        "Runtime System",
+        "Intermediate Representation and Symbol Table",
+        "Intermediate Code Generation",
+        "Code Generation"
+      ]
+    },
+    {
+      "course_title": "Compiler Design",
+      "professors": [
+        "Prof. Santanu Chattopadhyay"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Introduction",
+        "Lexical Analysis",
+        "Parsing",
+        "Syntax Directed Translation",
+        "Type Checking and Symbol Tables",
+        "Runtime Environment Management",
+        "Intermediate Code Generation"
+      ]
+    },
+    {
+      "course_title": "Compiler Design",
+      "professors": [
+        "Prof. Rupesh Nasre"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Introduction to Compilers",
+        "Lexical Analysis",
+        "Parsing (Top-down and Bottom-up)",
+        "Syntax Directed Translation",
+        "Intermediate Code Generation",
+        "Code Generation",
+        "Code Optimization and Data Flow Analysis"
+      ]
+    },
+    {
+      "course_title": "Compiler Design",
+      "professors": [
+        "Prof. Y.N. Srikanth"
+      ],
+      "iit": "IISc Bangalore",
+      "lecture_list": [
+        "Compiler Overview and Run-Time Environments",
+        "Local Optimizations and Code Generation",
+        "Global Register Allocation",
+        "Implementing Object-Oriented Languages",
+        "Machine-Independent Optimizations",
+        "Data-Flow and Control-Flow Analysis",
+        "Static Single Assignment (SSA) Form",
+        "Automatic Parallelization",
+        "Instruction Scheduling and Software Pipelining",
+        "Advanced Topics (JIT, Garbage Collection, Interprocedural Analysis)"
+      ]
+    },
+    {
+      "course_title": "Principles of Compiler Design",
+      "professors": [
+        "Prof. Y.N. Srikanth"
+      ],
+      "iit": "IISc Bangalore",
+      "lecture_list": [
+        "Compiler Overview",
+        "Lexical Analysis",
+        "Syntax Analysis (CFG, Parsing)",
+        "Semantic Analysis with Attribute Grammars",
+        "Intermediate Code Generation",
+        "Run-Time Environments",
+        "Machine Code Generation",
+        "Code Optimization (Local and Machine-Independent)",
+        "Global Register Allocation",
+        "Instruction Scheduling and Automatic Parallelization"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "subject_name": "Database Systems",
+  "courses": [
+    {
+      "course_title": "Database Design",
+      "professors": [
+        "Dr. S. Srinath",
+        "Prof. D. Janaki Ram"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Introductory Concepts and Semantic Database Design (ER/EER)",
+        "Relational Model, Algebra, and SQL",
+        "Database Design and Normalization (FDs, BCNF, 4NF, 5NF)",
+        "Storage and Indexing Structures (File Org, Hashing, B+ Trees)",
+        "Transaction Processing and Concurrency Control (ACID, Serializability, 2PL)",
+        "Database Recovery Techniques (ARIES)",
+        "Query Processing and Optimization",
+        "Database Security and Authorization",
+        "Enhanced and Distributed Databases"
+      ]
+    },
+    {
+      "course_title": "Introduction to Database Systems and Design",
+      "professors": [
+        "Prof. P Sreenivasa Kumar"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Introduction and Entity-Relationship (E/R) Model",
+        "Relational Model",
+        "Tuple Relational Calculus (TRC) and The SQL Standard",
+        "File Organization and Indexing",
+        "Query Processing",
+        "Database Design and Normal Forms",
+        "Transaction Processing"
+      ]
+    },
+    {
+      "course_title": "Fundamentals of Database Systems",
+      "professors": [
+        "Dr. Arnab Bhattacharya"
+      ],
+      "iit": "IIT Kanpur",
+      "lecture_list": [
+        "Relational Data Model and Algebra",
+        "Entity-Relationship Diagrams",
+        "SQL (Queries, Joins, Views, Triggers)",
+        "Database Normalization (Functional Dependencies, BCNF)",
+        "Physical Design and Indexing (Hashing, B+ Trees)",
+        "Query Processing and Optimization",
+        "Database Transactions and Recovery",
+        "Concurrency Control Protocols (Locking, Timestamping)",
+        "NoSQL, CAP Theorem, and Big Data"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1824 @@
+The following questions from your JSON file failed to find a perfect match in the syllabus.
+For each 'FAILED KEY', the 'BEST GUESS' is the closest match found in the official syllabus file.
+ACTION: Open your platinum_dataset.json and update the subject/topic/sub_topic to exactly match the BEST GUESS.
+
+Question: Year: 2021, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Grammar and Sentence Structure')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Grammar and Sentence Structure
+
+Question: Year: 2021, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Spatial Aptitude')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Spatial Aptitude
+
+Question: Year: 2021, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Mensuration and Geometry')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Mensuration and Geometry
+
+Question: Year: 2021, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Algebra')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Algebra
+
+Question: Year: 2021, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Verbal Analogies')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Verbal Analogies
+
+Question: Year: 2021, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Reading Comprehension')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Reading Comprehension
+
+Question: Year: 2021, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Spatial Aptitude')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Spatial Aptitude
+
+Question: Year: 2021, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Ratio and Proportion')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Ratio and Proportion
+
+Question: Year: 2021, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Data Interpretation and Percentage')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Data Interpretation and Percentage
+
+Question: Year: 2021, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Logical Deduction')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Logical Deduction
+
+Question: Year: 2021, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Minimum Spanning Tree (MST) Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Minimum Spanning Tree (MST) Properties
+
+Question: Year: 2021, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Heaps', 'Properties of Min-Heaps')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Heaps | Properties of Min-Heaps
+
+Question: Year: 2021, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Phases of a Compiler', 'Semantic Analysis and Type Checking')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Phases of a Compiler | Semantic Analysis and Type Checking
+
+Question: Year: 2021, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Number Systems and Representations', 'IEEE 754 Floating-Point Representation (Normalized Numbers)')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Number Systems and Representations | IEEE 754 Floating-Point Representation (Normalized Numbers)
+
+Question: Year: 2021, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Combinational Circuits', 'Implementing Boolean Functions using Multiplexers (MUX)')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Combinational Circuits | Implementing Boolean Functions using Multiplexers (MUX)
+
+Question: Year: 2021, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Relational Model', 'Integrity Constraints (Foreign Key)')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Relational Model | Integrity Constraints (Foreign Key)
+
+Question: Year: 2021, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Transport Layer', 'TCP Connection Establishment (Three-Way Handshake)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Transport Layer | TCP Connection Establishment (Three-Way Handshake)
+
+Question: Year: 2021, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Analysis', 'Time Complexity of Binary Search')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Analysis | Time Complexity of Binary Search
+
+Question: Year: 2021, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular Expressions and Finite Automata', 'Closure Properties of Regular Languages and Minimal DFA')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular Expressions and Finite Automata | Closure Properties of Regular Languages and Minimal DFA
+
+Question: Year: 2021, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointers and 2D Arrays')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointers and 2D Arrays
+
+Question: Year: 2021, Subject: CS, Num: 11
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Set Theory, Cardinality, and Functions (Injections, Surjections, Bijections)')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Set Theory, Cardinality, and Functions (Injections, Surjections, Bijections)
+
+Question: Year: 2021, Subject: CS, Num: 12
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular and Context-Free Languages', 'Closure Properties of Language Classes')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular and Context-Free Languages | Closure Properties of Language Classes
+
+Question: Year: 2021, Subject: CS, Num: 13
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Intermediate Code Generation', 'Types of Intermediate Representations')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Intermediate Code Generation | Types of Intermediate Representations
+
+Question: Year: 2021, Subject: CS, Num: 14
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'CPU Scheduling', 'Scheduling Metrics and Algorithms (Round Robin)')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | CPU Scheduling | Scheduling Metrics and Algorithms (Round Robin)
+
+Question: Year: 2021, Subject: CS, Num: 15
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Propositional Logic and Logical Equivalence')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Propositional Logic and Logical Equivalence
+
+Question: Year: 2021, Subject: CS, Num: 16
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Trees', 'Graph Traversal (BFS and DFS) on Trees')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Trees | Graph Traversal (BFS and DFS) on Trees
+
+Question: Year: 2021, Subject: CS, Num: 17
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular Expressions and Finite Automata', 'Counting Strings Accepted by a DFA')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular Expressions and Finite Automata | Counting Strings Accepted by a DFA
+
+Question: Year: 2021, Subject: CS, Num: 18
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Number Systems and Representations', 'Number Base Conversion')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Number Systems and Representations | Number Base Conversion
+
+Question: Year: 2021, Subject: CS, Num: 19
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory Hierarchy', 'Set-Associative Cache Address Translation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory Hierarchy | Set-Associative Cache Address Translation
+
+Question: Year: 2021, Subject: CS, Num: 20
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'I/O Organization', 'Direct Memory Access (DMA) and Cycle Stealing')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | I/O Organization | Direct Memory Access (DMA) and Cycle Stealing
+
+Question: Year: 2021, Subject: CS, Num: 21
+  - FAILED KEY FROM JSON: ('CS - Databases', 'File Structures and Indexing', 'Index File Size Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | File Structures and Indexing | Index File Size Calculation
+
+Question: Year: 2021, Subject: CS, Num: 22
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability and Statistics', 'Binomial Distribution (Mean and Variance)')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability and Statistics | Binomial Distribution (Mean and Variance)
+
+Question: Year: 2021, Subject: CS, Num: 23
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Number Theoretic Algorithms', 'Euclidean Algorithm for GCD (Recursive)')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Number Theoretic Algorithms | Euclidean Algorithm for GCD (Recursive)
+
+Question: Year: 2021, Subject: CS, Num: 24
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Rank-Nullity Theorem')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Rank-Nullity Theorem
+
+Question: Year: 2021, Subject: CS, Num: 25
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Calculus', 'Mean Value Theorem')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Calculus | Mean Value Theorem
+
+Question: Year: 2021, Subject: CS, Num: 26
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Greedy Algorithms', 'Huffman Coding')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Greedy Algorithms | Huffman Coding
+
+Question: Year: 2021, Subject: CS, Num: 27
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory Hierarchy', 'Cache Policies (Write-Through, Write-Back, Write-Allocate)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory Hierarchy | Cache Policies (Write-Through, Write-Back, Write-Allocate)
+
+Question: Year: 2021, Subject: CS, Num: 28
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Sequential Circuits', 'Finite State Machine Design (Mealy Machine)')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Sequential Circuits | Finite State Machine Design (Mealy Machine)
+
+Question: Year: 2021, Subject: CS, Num: 29
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability and Statistics', 'Expected Value Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability and Statistics | Expected Value Calculation
+
+Question: Year: 2021, Subject: CS, Num: 30
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Code Optimization', 'Common Sub-expression Elimination (CSE)')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Code Optimization | Common Sub-expression Elimination (CSE)
+
+Question: Year: 2021, Subject: CS, Num: 31
+  - FAILED KEY FROM JSON: ('CS - Databases', 'SQL', 'SQL Queries with Subqueries and Aggregation')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | SQL | SQL Queries with Subqueries and Aggregation
+
+Question: Year: 2021, Subject: CS, Num: 32
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Transactions and Concurrency Control', 'Conflict Serializability and Recoverability of Schedules')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Transactions and Concurrency Control | Conflict Serializability and Recoverability of Schedules
+
+Question: Year: 2021, Subject: CS, Num: 33
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability and Statistics', "Conditional Probability (Pólya's Urn Scheme)")
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability and Statistics | Conditional Probability (Pólya's Urn Scheme)
+
+Question: Year: 2021, Subject: CS, Num: 34
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Data Link Layer', 'Error Detection (Cyclic Redundancy Check)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Data Link Layer | Error Detection (Cyclic Redundancy Check)
+
+Question: Year: 2021, Subject: CS, Num: 35
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Linked Lists, Pointers, and Dynamic Memory Allocation')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Linked Lists, Pointers, and Dynamic Memory Allocation
+
+Question: Year: 2021, Subject: CS, Num: 36
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular Expressions and Finite Automata', 'Properties of Regular and Undecidable Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular Expressions and Finite Automata | Properties of Regular and Undecidable Languages
+
+Question: Year: 2021, Subject: CS, Num: 37
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Vector Spaces and Orthogonality')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Vector Spaces and Orthogonality
+
+Question: Year: 2021, Subject: CS, Num: 38
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Code Optimization', 'Data Flow Analysis (Liveness Analysis)')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Code Optimization | Data Flow Analysis (Liveness Analysis)
+
+Question: Year: 2021, Subject: CS, Num: 39
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Asymptotic Analysis', 'Solving Recurrence Relations (Master Theorem)')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Asymptotic Analysis | Solving Recurrence Relations (Master Theorem)
+
+Question: Year: 2021, Subject: CS, Num: 40
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Database Design and Normalization', "Functional Dependencies and Armstrong's Axioms")
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Database Design and Normalization | Functional Dependencies and Armstrong's Axioms
+
+Question: Year: 2021, Subject: CS, Num: 41
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Context-Free Grammars and Push-Down Automata', 'Properties of Context-Free Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Context-Free Grammars and Push-Down Automata | Properties of Context-Free Languages
+
+Question: Year: 2021, Subject: CS, Num: 42
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'Concurrency and Synchronization', 'Race Conditions, Locks, and Shared vs Local Variables')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | Concurrency and Synchronization | Race Conditions, Locks, and Shared vs Local Variables
+
+Question: Year: 2021, Subject: CS, Num: 43
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'Deadlock', 'Deadlock, Livelock, and Starvation')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | Deadlock | Deadlock, Livelock, and Starvation
+
+Question: Year: 2021, Subject: CS, Num: 44
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Data Representation', 'Endianness (Little vs. Big Endian)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Data Representation | Endianness (Little vs. Big Endian)
+
+Question: Year: 2021, Subject: CS, Num: 45
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Network Layer', 'Distance Vector Routing Algorithm')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Network Layer | Distance Vector Routing Algorithm
+
+Question: Year: 2021, Subject: CS, Num: 46
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Graph Theory (Topological Sort, DFS, SCC, Cycles)')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Graph Theory (Topological Sort, DFS, SCC, Cycles)
+
+Question: Year: 2021, Subject: CS, Num: 47
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular Expressions and Finite Automata', 'Regular Expressions for Number Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular Expressions and Finite Automata | Regular Expressions for Number Properties
+
+Question: Year: 2021, Subject: CS, Num: 48
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'Memory Management', 'Multi-level Paging and Page Table Size Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | Memory Management | Multi-level Paging and Page Table Size Calculation
+
+Question: Year: 2021, Subject: CS, Num: 49
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Recursion', 'Analysis of Recursive Functions')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Recursion | Analysis of Recursive Functions
+
+Question: Year: 2021, Subject: CS, Num: 50
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Combinatorics and Set Theory')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Combinatorics and Set Theory
+
+Question: Year: 2021, Subject: CS, Num: 51
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Parsing', 'Construction of LR(0) or SLR(1) Parsing Automaton (CLOSURE and GOTO)')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Parsing | Construction of LR(0) or SLR(1) Parsing Automaton (CLOSURE and GOTO)
+
+Question: Year: 2021, Subject: CS, Num: 52
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra and Logic Gates', 'Boolean Function Minimization using K-Maps or Algebraic Manipulation')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra and Logic Gates | Boolean Function Minimization using K-Maps or Algebraic Manipulation
+
+Question: Year: 2021, Subject: CS, Num: 53
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Instruction Pipelining', 'Pipeline Performance with Data Hazards and Speedup Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Instruction Pipelining | Pipeline Performance with Data Hazards and Speedup Calculation
+
+Question: Year: 2021, Subject: CS, Num: 54
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Medium Access Control', 'Pure ALOHA Throughput Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Medium Access Control | Pure ALOHA Throughput Calculation
+
+Question: Year: 2021, Subject: CS, Num: 55
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Shortest/Longest Path on a Directed Acyclic Graph (DAG)')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Shortest/Longest Path on a Directed Acyclic Graph (DAG)
+
+Question: Year: 2019, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Vocabulary (Phrasal Verbs)')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Vocabulary (Phrasal Verbs)
+
+Question: Year: 2019, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Vocabulary and Context')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Vocabulary and Context
+
+Question: Year: 2019, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Speed, Time, and Distance (Relative Speed)')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Speed, Time, and Distance (Relative Speed)
+
+Question: Year: 2019, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Algebra (Word Problems)')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Algebra (Word Problems)
+
+Question: Year: 2019, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Verbal Analogies')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Verbal Analogies
+
+Question: Year: 2019, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Logical Deduction (Truth-tellers and Liars)')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Logical Deduction (Truth-tellers and Liars)
+
+Question: Year: 2019, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Data Interpretation (Venn Diagrams)')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Data Interpretation (Venn Diagrams)
+
+Question: Year: 2019, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Reading Comprehension')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Reading Comprehension
+
+Question: Year: 2019, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Numerical Ability', 'Set Theory and Venn Diagrams')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Numerical Ability | Set Theory and Venn Diagrams
+
+Question: Year: 2019, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('General Aptitude', 'Verbal Ability', 'Analytical Reasoning')
+  - BEST GUESS FROM SYLLABUS: General Aptitude | Verbal Ability | Analytical Reasoning
+
+Question: Year: 2019, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory Hierarchy', 'Fully Associative Cache Address Translation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory Hierarchy | Fully Associative Cache Address Translation
+
+Question: Year: 2019, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory Hierarchy', 'Memory Interfacing and Address Decoding')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory Hierarchy | Memory Interfacing and Address Decoding
+
+Question: Year: 2019, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Parsing', 'LR Parsers and Rightmost Derivation')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Parsing | LR Parsers and Rightmost Derivation
+
+Question: Year: 2019, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Number Systems and Representations', "2's Complement Representation")
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Number Systems and Representations | 2's Complement Representation
+
+Question: Year: 2019, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Combinatorics and Binomial Identities')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Combinatorics and Binomial Identities
+
+Question: Year: 2019, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra and Logic Gates', 'Boolean Identities and XOR Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra and Logic Gates | Boolean Identities and XOR Properties
+
+Question: Year: 2019, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular and Context-Free Languages', 'Closure Properties of Regular Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular and Context-Free Languages | Closure Properties of Regular Languages
+
+Question: Year: 2019, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Number Systems and Representations', 'Sign-Magnitude Arithmetic and Overflow')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Number Systems and Representations | Sign-Magnitude Arithmetic and Overflow
+
+Question: Year: 2019, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Properties of Invertible Matrices')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Properties of Invertible Matrices
+
+Question: Year: 2019, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Group Theory and Equivalence Relations (Conjugacy)')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Group Theory and Equivalence Relations (Conjugacy)
+
+Question: Year: 2019, Subject: CS, Num: 11
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Transactions and Concurrency Control', '2PL, Timestamp Ordering, and Serializability')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Transactions and Concurrency Control | 2PL, Timestamp Ordering, and Serializability
+
+Question: Year: 2019, Subject: CS, Num: 12
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Graph Theory (Hamiltonian Cycles in Complete Graphs)')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Graph Theory (Hamiltonian Cycles in Complete Graphs)
+
+Question: Year: 2019, Subject: CS, Num: 13
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Calculus', "Limits and L'Hôpital's Rule")
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Calculus | Limits and L'Hôpital's Rule
+
+Question: Year: 2019, Subject: CS, Num: 14
+  - FAILED KEY FROM JSON: ('CS - Databases', 'File Structures and Indexing', 'Properties of B+ Trees')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | File Structures and Indexing | Properties of B+ Trees
+
+Question: Year: 2019, Subject: CS, Num: 15
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular Expressions and Finite Automata', 'Pumping Lemma for Regular Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular Expressions and Finite Automata | Pumping Lemma for Regular Languages
+
+Question: Year: 2019, Subject: CS, Num: 16
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Application Layer', 'Email Protocols (SMTP, POP3, IMAP)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Application Layer | Email Protocols (SMTP, POP3, IMAP)
+
+Question: Year: 2019, Subject: CS, Num: 17
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'Processes and Threads', 'Process Creation (fork() system call)')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | Processes and Threads | Process Creation (fork() system call)
+
+Question: Year: 2019, Subject: CS, Num: 18
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Functions and Call by Value')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Functions and Call by Value
+
+Question: Year: 2019, Subject: CS, Num: 19
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Parsing', 'FIRST and FOLLOW Sets')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Parsing | FIRST and FOLLOW Sets
+
+Question: Year: 2019, Subject: CS, Num: 20
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Sorting', 'Quicksort Analysis and Probability')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Sorting | Quicksort Analysis and Probability
+
+Question: Year: 2019, Subject: CS, Num: 21
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', "Number Theory (Modular Arithmetic and Fermat's Little Theorem)")
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Number Theory (Modular Arithmetic and Fermat's Little Theorem)
+
+Question: Year: 2019, Subject: CS, Num: 22
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability and Statistics', 'Probability and Number Representation')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability and Statistics | Probability and Number Representation
+
+Question: Year: 2019, Subject: CS, Num: 23
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'Concurrency and Synchronization', 'Race Conditions')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | Concurrency and Synchronization | Race Conditions
+
+Question: Year: 2019, Subject: CS, Num: 24
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointer Arithmetic and Array Indexing')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointer Arithmetic and Array Indexing
+
+Question: Year: 2019, Subject: CS, Num: 25
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Design Techniques', "Maximum Subarray Sum (Kadane's Algorithm)")
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Design Techniques | Maximum Subarray Sum (Kadane's Algorithm)
+
+Question: Year: 2019, Subject: CS, Num: 26
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Recursion (Infinite Recursion)')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Recursion (Infinite Recursion)
+
+Question: Year: 2019, Subject: CS, Num: 27
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Static Variables and for loop execution sequence')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Static Variables and for loop execution sequence
+
+Question: Year: 2019, Subject: CS, Num: 28
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Network Layer', 'Subnetting')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Network Layer | Subnetting
+
+Question: Year: 2019, Subject: CS, Num: 29
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Network Layer', 'Address Resolution Protocol (ARP)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Network Layer | Address Resolution Protocol (ARP)
+
+Question: Year: 2019, Subject: CS, Num: 30
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra and Logic Gates', 'Boolean Function Manipulation with Minterms')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra and Logic Gates | Boolean Function Manipulation with Minterms
+
+Question: Year: 2019, Subject: CS, Num: 31
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Context-Free Grammars and Push-Down Automata', 'Pumping Lemma for Context-Free Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Context-Free Grammars and Push-Down Automata | Pumping Lemma for Context-Free Languages
+
+Question: Year: 2019, Subject: CS, Num: 32
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Database Design and Normalization', 'BCNF, Dependency Preservation, and Lossless Decomposition')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Database Design and Normalization | BCNF, Dependency Preservation, and Lossless Decomposition
+
+Question: Year: 2019, Subject: CS, Num: 33
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'Memory Management', 'Translation Lookaside Buffer (TLB)')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | Memory Management | Translation Lookaside Buffer (TLB)
+
+Question: Year: 2019, Subject: CS, Num: 34
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Turing Machines and Undecidability', 'Countability of Languages and Programs')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Turing Machines and Undecidability | Countability of Languages and Programs
+
+Question: Year: 2019, Subject: CS, Num: 35
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Predicate Logic and Number Theory')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Predicate Logic and Number Theory
+
+Question: Year: 2019, Subject: CS, Num: 36
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax-Directed Translation', 'Inherited Attributes')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax-Directed Translation | Inherited Attributes
+
+Question: Year: 2019, Subject: CS, Num: 37
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Analysis', 'Median of Medians Algorithm Analysis')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Analysis | Median of Medians Algorithm Analysis
+
+Question: Year: 2019, Subject: CS, Num: 38
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Uniqueness of Minimum Spanning Tree (MST)')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Uniqueness of Minimum Spanning Tree (MST)
+
+Question: Year: 2019, Subject: CS, Num: 39
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'Deadlock', 'Deadlock Avoidance and Safe State Conditions')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | Deadlock | Deadlock Avoidance and Safe State Conditions
+
+Question: Year: 2019, Subject: CS, Num: 40
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Heaps', 'Properties of Max-Heaps and Conversions')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Heaps | Properties of Max-Heaps and Conversions
+
+Question: Year: 2019, Subject: CS, Num: 41
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'CPU Scheduling', 'Shortest Remaining Time First (SRTF) Scheduling')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | CPU Scheduling | Shortest Remaining Time First (SRTF) Scheduling
+
+Question: Year: 2019, Subject: CS, Num: 42
+  - FAILED KEY FROM JSON: ('CS - Operating System', 'File Systems', 'inode structure and File Size Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Operating System | File Systems | inode structure and File Size Calculation
+
+Question: Year: 2019, Subject: CS, Num: 43
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Parsing', 'LR(0) or SLR(1) Item Set Construction (CLOSURE and GOTO)')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Parsing | LR(0) or SLR(1) Item Set Construction (CLOSURE and GOTO)
+
+Question: Year: 2019, Subject: CS, Num: 44
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Eigenvalues and Determinants')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Eigenvalues and Determinants
+
+Question: Year: 2019, Subject: CS, Num: 45
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory Hierarchy', 'Memory Bandwidth Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory Hierarchy | Memory Bandwidth Calculation
+
+Question: Year: 2019, Subject: CS, Num: 46
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability and Statistics', 'Expected Value on Trees')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability and Statistics | Expected Value on Trees
+
+Question: Year: 2019, Subject: CS, Num: 47
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability and Statistics', 'Continuous Probability and Quadratic Equations')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability and Statistics | Continuous Probability and Quadratic Equations
+
+Question: Year: 2019, Subject: CS, Num: 48
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular Expressions and Finite Automata', 'DFA Design and Group Theory')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular Expressions and Finite Automata | DFA Design and Group Theory
+
+Question: Year: 2019, Subject: CS, Num: 49
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'LAN Technologies', 'Network Design with Switches')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | LAN Technologies | Network Design with Switches
+
+Question: Year: 2019, Subject: CS, Num: 50
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra and Logic Gates', 'Logic Gate Implementation')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra and Logic Gates | Logic Gate Implementation
+
+Question: Year: 2019, Subject: CS, Num: 51
+  - FAILED KEY FROM JSON: ('CS - Databases', 'SQL', 'SQL Query with GROUP BY and Aggregation (Implicit Join)')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | SQL | SQL Query with GROUP BY and Aggregation (Implicit Join)
+
+Question: Year: 2019, Subject: CS, Num: 52
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Control Flow (while loop)')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Control Flow (while loop)
+
+Question: Year: 2019, Subject: CS, Num: 53
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointer Arithmetic and Array Indexing')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointer Arithmetic and Array Indexing
+
+Question: Year: 2019, Subject: CS, Num: 54
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Number Theory and Cryptography (RSA)')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Number Theory and Cryptography (RSA)
+
+Question: Year: 2019, Subject: CS, Num: 55
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Relational Model', 'Relational Algebra (Set Difference, Join, Selection, Projection)')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Relational Model | Relational Algebra (Set Difference, Join, Selection, Projection)
+
+Question: Year: 2018, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'English Grammar', 'Homophones')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | English Grammar | Homophones
+
+Question: Year: 2018, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Vocabulary', 'Word Meaning in Context')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Vocabulary | Word Meaning in Context
+
+Question: Year: 2018, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Mensuration', 'Area of Square and Circle')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Mensuration | Area of Square and Circle
+
+Question: Year: 2018, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Number Systems', 'LCM and Remainders')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Number Systems | LCM and Remainders
+
+Question: Year: 2018, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Number Series', 'Pattern Recognition')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Number Series | Pattern Recognition
+
+Question: Year: 2018, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Arithmetic', 'Word Problems')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Arithmetic | Word Problems
+
+Question: Year: 2018, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Algebra', 'Exponents')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Algebra | Exponents
+
+Question: Year: 2018, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Ratio and Proportion', 'Percentages')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Ratio and Proportion | Percentages
+
+Question: Year: 2018, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Geometry', 'Angle Properties of Polygons')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Geometry | Angle Properties of Polygons
+
+Question: Year: 2018, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Probability', 'Binomial Distribution')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Probability | Binomial Distribution
+
+Question: Year: 2018, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Generating Functions')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Generating Functions
+
+Question: Year: 2018, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointers, Structs, and Typecasting')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointers, Structs, and Typecasting
+
+Question: Year: 2018, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Queues, Linked Lists, Time Complexity')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Queues, Linked Lists, Time Complexity
+
+Question: Year: 2018, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra', 'Logic Gates and Identities')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra | Logic Gates and Identities
+
+Question: Year: 2018, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'CPU Design', 'RISC vs CISC Architecture')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | CPU Design | RISC vs CISC Architecture
+
+Question: Year: 2018, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Finite Automata', 'NFA to DFA Conversion')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Finite Automata | NFA to DFA Conversion
+
+Question: Year: 2018, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Turing Machines and Computability', 'Closure Properties of Recursive and RE Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Turing Machines and Computability | Closure Properties of Recursive and RE Languages
+
+Question: Year: 2018, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Phases of a Compiler', 'Compiler Architecture')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Phases of a Compiler | Compiler Architecture
+
+Question: Year: 2018, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Interrupts', 'Interrupt Handling')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Interrupts | Interrupt Handling
+
+Question: Year: 2018, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Memory Management', 'Demand Paging and Page Faults')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Memory Management | Demand Paging and Page Faults
+
+Question: Year: 2018, Subject: CS, Num: 11
+  - FAILED KEY FROM JSON: ('CS - Databases', 'ER Model', 'Relationships, Cardinality, and Participation')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | ER Model | Relationships, Cardinality, and Participation
+
+Question: Year: 2018, Subject: CS, Num: 12
+  - FAILED KEY FROM JSON: ('CS - Databases', 'SQL', 'Joins (Inner, Outer)')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | SQL | Joins (Inner, Outer)
+
+Question: Year: 2018, Subject: CS, Num: 13
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Protocol Headers', 'TCP, UDP, IPv6, Ethernet')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Protocol Headers | TCP, UDP, IPv6, Ethernet
+
+Question: Year: 2018, Subject: CS, Num: 14
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'TCP', 'Congestion Control (Slow Start)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | TCP | Congestion Control (Slow Start)
+
+Question: Year: 2018, Subject: CS, Num: 15
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability', 'Geometric Distribution')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability | Geometric Distribution
+
+Question: Year: 2018, Subject: CS, Num: 16
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Calculus', 'Definite Integrals')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Calculus | Definite Integrals
+
+Question: Year: 2018, Subject: CS, Num: 17
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Eigenvalues and Eigenvectors')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Eigenvalues and Eigenvectors
+
+Question: Year: 2018, Subject: CS, Num: 18
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Graph Theory', 'Graph Coloring')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Graph Theory | Graph Coloring
+
+Question: Year: 2018, Subject: CS, Num: 19
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', "Group Theory (Lagrange's Theorem)")
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Group Theory (Lagrange's Theorem)
+
+Question: Year: 2018, Subject: CS, Num: 20
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Trees, Tree Traversal')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Trees, Tree Traversal
+
+Question: Year: 2018, Subject: CS, Num: 21
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Recursion')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Recursion
+
+Question: Year: 2018, Subject: CS, Num: 22
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Sequential Circuits', 'Flip-Flops and State Diagrams')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Sequential Circuits | Flip-Flops and State Diagrams
+
+Question: Year: 2018, Subject: CS, Num: 23
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory System', 'DRAM and Refresh Cycles')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory System | DRAM and Refresh Cycles
+
+Question: Year: 2018, Subject: CS, Num: 24
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Deadlocks', 'Deadlock Avoidance')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Deadlocks | Deadlock Avoidance
+
+Question: Year: 2018, Subject: CS, Num: 25
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'TCP', 'Sequence Number Wraparound')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | TCP | Sequence Number Wraparound
+
+Question: Year: 2018, Subject: CS, Num: 26
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Eigenvalues, Eigenvectors, Diagonalization')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Eigenvalues, Eigenvectors, Diagonalization
+
+Question: Year: 2018, Subject: CS, Num: 27
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Set Theory and Countability')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Set Theory and Countability
+
+Question: Year: 2018, Subject: CS, Num: 28
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Mathematical Logic', 'First-Order Logic, Models')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Mathematical Logic | First-Order Logic, Models
+
+Question: Year: 2018, Subject: CS, Num: 29
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointers, Call by Value vs Call by Reference')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointers, Call by Value vs Call by Reference
+
+Question: Year: 2018, Subject: CS, Num: 30
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'DFS, BFS, Graph Traversal Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | DFS, BFS, Graph Traversal Properties
+
+Question: Year: 2018, Subject: CS, Num: 31
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Dynamic Programming', 'Matrix Chain Multiplication')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Dynamic Programming | Matrix Chain Multiplication
+
+Question: Year: 2018, Subject: CS, Num: 32
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Algorithm Analysis', 'Loop Analysis, Logarithms')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Algorithm Analysis | Loop Analysis, Logarithms
+
+Question: Year: 2018, Subject: CS, Num: 33
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Data Representation', 'Fixed-Point Representation')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Data Representation | Fixed-Point Representation
+
+Question: Year: 2018, Subject: CS, Num: 34
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Cache Memory', 'Cache Addressing, Set-Associative Mapping')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Cache Memory | Cache Addressing, Set-Associative Mapping
+
+Question: Year: 2018, Subject: CS, Num: 35
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Context-Free Languages', 'Properties of CFLs, Pushdown Automata')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Context-Free Languages | Properties of CFLs, Pushdown Automata
+
+Question: Year: 2018, Subject: CS, Num: 36
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Undecidability', "Rice's Theorem, Decidable Problems")
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Undecidability | Rice's Theorem, Decidable Problems
+
+Question: Year: 2018, Subject: CS, Num: 37
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Lexical Analysis', 'Regular Expressions, Longest Match Rule')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Lexical Analysis | Regular Expressions, Longest Match Rule
+
+Question: Year: 2018, Subject: CS, Num: 38
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax Analysis', 'Parse Trees, Operator Precedence and Associativity')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax Analysis | Parse Trees, Operator Precedence and Associativity
+
+Question: Year: 2018, Subject: CS, Num: 39
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Deadlocks', "Banker's Algorithm, Safe State")
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Deadlocks | Banker's Algorithm, Safe State
+
+Question: Year: 2018, Subject: CS, Num: 40
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Process Synchronization', 'Semaphores, Producer-Consumer Problem')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Process Synchronization | Semaphores, Producer-Consumer Problem
+
+Question: Year: 2018, Subject: CS, Num: 41
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Relational Algebra', 'Join Operations, Equivalence of Queries')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Relational Algebra | Join Operations, Equivalence of Queries
+
+Question: Year: 2018, Subject: CS, Num: 42
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Normalization', '3NF, BCNF')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Normalization | 3NF, BCNF
+
+Question: Year: 2018, Subject: CS, Num: 43
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Graph Theory', 'Permutation Graphs, Graph Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Graph Theory | Permutation Graphs, Graph Properties
+
+Question: Year: 2018, Subject: CS, Num: 44
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability', "Conditional Probability, Bayes' Theorem")
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability | Conditional Probability, Bayes' Theorem
+
+Question: Year: 2018, Subject: CS, Num: 45
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Recursion', 'Analysis of Recursive Algorithms')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Recursion | Analysis of Recursive Algorithms
+
+Question: Year: 2018, Subject: CS, Num: 46
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Heaps, Combinatorics')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Heaps, Combinatorics
+
+Question: Year: 2018, Subject: CS, Num: 47
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', "Minimum Spanning Trees (MST), Kruskal's Algorithm")
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Minimum Spanning Trees (MST), Kruskal's Algorithm
+
+Question: Year: 2018, Subject: CS, Num: 48
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Dynamic Programming / Greedy Algorithms', '0/1 Knapsack Problem')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Dynamic Programming / Greedy Algorithms | 0/1 Knapsack Problem
+
+Question: Year: 2018, Subject: CS, Num: 49
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra', 'K-Maps, Prime Implicants')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra | K-Maps, Prime Implicants
+
+Question: Year: 2018, Subject: CS, Num: 50
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Pipelining', 'Pipeline Performance Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Pipelining | Pipeline Performance Calculation
+
+Question: Year: 2018, Subject: CS, Num: 51
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Instruction Set Architecture', 'Instruction Encoding')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Instruction Set Architecture | Instruction Encoding
+
+Question: Year: 2018, Subject: CS, Num: 52
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Formal Languages', 'Regular Languages, Language Operations')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Formal Languages | Regular Languages, Language Operations
+
+Question: Year: 2018, Subject: CS, Num: 53
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Disk Scheduling', 'SSTF Algorithm')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Disk Scheduling | SSTF Algorithm
+
+Question: Year: 2018, Subject: CS, Num: 54
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'IP Protocol', 'IP Fragmentation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | IP Protocol | IP Fragmentation
+
+Question: Year: 2018, Subject: CS, Num: 55
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Media Access Control', 'CSMA, Collision Avoidance')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Media Access Control | CSMA, Collision Avoidance
+
+Question: Year: 2017, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Number Systems', 'Number System Conversions')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Number Systems | Number System Conversions
+
+Question: Year: 2017, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Storage Classes and Memory Management')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Storage Classes and Memory Management
+
+Question: Year: 2017, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Analysis', 'Time Complexity of Standard Algorithms')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Analysis | Time Complexity of Standard Algorithms
+
+Question: Year: 2017, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Context-Free Languages', 'Closure Properties of CFLs')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Context-Free Languages | Closure Properties of CFLs
+
+Question: Year: 2017, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Phases of a Compiler', 'Compiler Architecture')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Phases of a Compiler | Compiler Architecture
+
+Question: Year: 2017, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax Analysis', 'LR Parsers (SLR, LALR, CLR)')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax Analysis | LR Parsers (SLR, LALR, CLR)
+
+Question: Year: 2017, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Processes and Threads', 'Thread Memory Model')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Processes and Threads | Thread Memory Model
+
+Question: Year: 2017, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'File Systems', 'File Allocation Methods')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | File Systems | File Allocation Methods
+
+Question: Year: 2017, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Routing Protocols', 'RIP and OSPF')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Routing Protocols | RIP and OSPF
+
+Question: Year: 2017, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Calculus', 'Differentiation and Integration')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Calculus | Differentiation and Integration
+
+Question: Year: 2017, Subject: CS, Num: 11
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Mathematical Logic', 'Propositional Logic Translation')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Mathematical Logic | Propositional Logic Translation
+
+Question: Year: 2017, Subject: CS, Num: 12
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Data Representation', 'IEEE 754 Floating-Point Standard')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Data Representation | IEEE 754 Floating-Point Standard
+
+Question: Year: 2017, Subject: CS, Num: 13
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Queues and Linked Lists')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Queues and Linked Lists
+
+Question: Year: 2017, Subject: CS, Num: 14
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointers and Call by Value')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointers and Call by Value
+
+Question: Year: 2017, Subject: CS, Num: 15
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Breadth First Search (BFS)')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Breadth First Search (BFS)
+
+Question: Year: 2017, Subject: CS, Num: 16
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Context-Free Grammars', 'Language generated by a CFG')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Context-Free Grammars | Language generated by a CFG
+
+Question: Year: 2017, Subject: CS, Num: 17
+  - FAILED KEY FROM JSON: ('CS - Databases', 'ER to Relational Mapping', 'Mapping Rules for Relationships')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | ER to Relational Mapping | Mapping Rules for Relationships
+
+Question: Year: 2017, Subject: CS, Num: 18
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Socket Programming', 'UDP Sockets')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Socket Programming | UDP Sockets
+
+Question: Year: 2017, Subject: CS, Num: 19
+  - FAILED KEY FROM JSON: ('CS - Databases', 'SQL', 'Referential Integrity and Cascading Actions')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | SQL | Referential Integrity and Cascading Actions
+
+Question: Year: 2017, Subject: CS, Num: 20
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'IP Protocol', 'IPv4 Header Options')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | IP Protocol | IPv4 Header Options
+
+Question: Year: 2017, Subject: CS, Num: 21
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Partially Ordered Sets and Lattices')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Partially Ordered Sets and Lattices
+
+Question: Year: 2017, Subject: CS, Num: 22
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Rank of a Matrix')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Rank of a Matrix
+
+Question: Year: 2017, Subject: CS, Num: 23
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Graph Theory', 'Handshaking Lemma')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Graph Theory | Handshaking Lemma
+
+Question: Year: 2017, Subject: CS, Num: 24
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Number Systems')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Number Systems
+
+Question: Year: 2017, Subject: CS, Num: 25
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Finite Automata', 'Minimal DFA')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Finite Automata | Minimal DFA
+
+Question: Year: 2017, Subject: CS, Num: 26
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability', 'Conditional Probability')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability | Conditional Probability
+
+Question: Year: 2017, Subject: CS, Num: 27
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra', 'Boolean Identities')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra | Boolean Identities
+
+Question: Year: 2017, Subject: CS, Num: 28
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra', 'K-Maps (POS form)')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra | K-Maps (POS form)
+
+Question: Year: 2017, Subject: CS, Num: 29
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Cache Memory', 'Average Memory Access Time (AMAT)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Cache Memory | Average Memory Access Time (AMAT)
+
+Question: Year: 2017, Subject: CS, Num: 30
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Asymptotic Analysis', 'Recurrence Relations')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Asymptotic Analysis | Recurrence Relations
+
+Question: Year: 2017, Subject: CS, Num: 31
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability', 'Probability Generating Functions and Expectation')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability | Probability Generating Functions and Expectation
+
+Question: Year: 2017, Subject: CS, Num: 32
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax Analysis', 'Left Recursion Elimination')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax Analysis | Left Recursion Elimination
+
+Question: Year: 2017, Subject: CS, Num: 33
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Deadlocks', "Banker's Algorithm, Safe State")
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Deadlocks | Banker's Algorithm, Safe State
+
+Question: Year: 2017, Subject: CS, Num: 34
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Coding Theory and Hamming Distance')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Coding Theory and Hamming Distance
+
+Question: Year: 2017, Subject: CS, Num: 35
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Data Link Layer', 'Transmission and Propagation Delay')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Data Link Layer | Transmission and Propagation Delay
+
+Question: Year: 2017, Subject: CS, Num: 36
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Trees, Tree Traversal, BST')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Trees, Tree Traversal, BST
+
+Question: Year: 2017, Subject: CS, Num: 37
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Loop Invariants and Program Correctness')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Loop Invariants and Program Correctness
+
+Question: Year: 2017, Subject: CS, Num: 38
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Analysis', 'Time Complexity of Nested Loops')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Analysis | Time Complexity of Nested Loops
+
+Question: Year: 2017, Subject: CS, Num: 39
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Finite Automata', 'ε-NFA')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Finite Automata | ε-NFA
+
+Question: Year: 2017, Subject: CS, Num: 40
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Formal Languages', 'Chomsky Hierarchy')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Formal Languages | Chomsky Hierarchy
+
+Question: Year: 2017, Subject: CS, Num: 41
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Undecidability', 'Decidable and Undecidable Problems')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Undecidability | Decidable and Undecidable Problems
+
+Question: Year: 2017, Subject: CS, Num: 42
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Sequential Circuits', 'Flip-Flop Excitation Tables and Circuit Design')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Sequential Circuits | Flip-Flop Excitation Tables and Circuit Design
+
+Question: Year: 2017, Subject: CS, Num: 43
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Algorithms', 'Sorting (Bubble Sort variation)')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Algorithms | Sorting (Bubble Sort variation)
+
+Question: Year: 2017, Subject: CS, Num: 44
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Concurrency Control', 'Conflict Serializability')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Concurrency Control | Conflict Serializability
+
+Question: Year: 2017, Subject: CS, Num: 45
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory System', 'Average Memory Access Time (AMAT) with multiple caches')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory System | Average Memory Access Time (AMAT) with multiple caches
+
+Question: Year: 2017, Subject: CS, Num: 46
+  - FAILED KEY FROM JSON: ('CS - Databases', 'SQL', 'Subqueries with ANY and ALL')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | SQL | Subqueries with ANY and ALL
+
+Question: Year: 2017, Subject: CS, Num: 47
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Generating Functions')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Generating Functions
+
+Question: Year: 2017, Subject: CS, Num: 48
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability', 'Poisson Distribution and Expectation')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability | Poisson Distribution and Expectation
+
+Question: Year: 2017, Subject: CS, Num: 49
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Indexing', 'B+ Tree Order Calculation')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Indexing | B+ Tree Order Calculation
+
+Question: Year: 2017, Subject: CS, Num: 50
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Greedy Algorithms', 'Huffman Coding')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Greedy Algorithms | Huffman Coding
+
+Question: Year: 2017, Subject: CS, Num: 51
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'CPU Scheduling', 'Preemptive Priority Scheduling')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | CPU Scheduling | Preemptive Priority Scheduling
+
+Question: Year: 2017, Subject: CS, Num: 52
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Eigenvalues and Characteristic Polynomial')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Eigenvalues and Characteristic Polynomial
+
+Question: Year: 2017, Subject: CS, Num: 53
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Cache Memory', 'Cache Addressing (Direct Mapping)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Cache Memory | Cache Addressing (Direct Mapping)
+
+Question: Year: 2017, Subject: CS, Num: 54
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Operators (Increment/Decrement)')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Operators (Increment/Decrement)
+
+Question: Year: 2017, Subject: CS, Num: 55
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointer Arithmetic and String Functions')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointer Arithmetic and String Functions
+
+Question: Year: 2017, Subject: CS, Num: 56
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Vocabulary', 'Synonyms and Antonyms')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Vocabulary | Synonyms and Antonyms
+
+Question: Year: 2017, Subject: CS, Num: 57
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'English Grammar', 'Adverbs and Word Order')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | English Grammar | Adverbs and Word Order
+
+Question: Year: 2017, Subject: CS, Num: 58
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Arrangement', 'Linear Arrangement')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Arrangement | Linear Arrangement
+
+Question: Year: 2017, Subject: CS, Num: 59
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Algebra', 'Linear Equations')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Algebra | Linear Equations
+
+Question: Year: 2017, Subject: CS, Num: 60
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Probability', 'Combinatorics and Probability')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Probability | Combinatorics and Probability
+
+Question: Year: 2017, Subject: CS, Num: 61
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Critical Reasoning', 'Reading Comprehension')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Critical Reasoning | Reading Comprehension
+
+Question: Year: 2017, Subject: CS, Num: 62
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Logical Puzzles', 'Deductive Reasoning')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Logical Puzzles | Deductive Reasoning
+
+Question: Year: 2017, Subject: CS, Num: 63
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Number Systems', 'Logarithms and Number of Digits')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Number Systems | Logarithms and Number of Digits
+
+Question: Year: 2017, Subject: CS, Num: 64
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Calculus', 'Intermediate Value Theorem')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Calculus | Intermediate Value Theorem
+
+Question: Year: 2017, Subject: CS, Num: 65
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Spatial Aptitude', 'Data Interpretation from Maps')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Spatial Aptitude | Data Interpretation from Maps
+
+Question: Year: 2016, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'English Grammar', 'Articles')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | English Grammar | Articles
+
+Question: Year: 2016, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Vocabulary', 'Phrasal Verbs')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Vocabulary | Phrasal Verbs
+
+Question: Year: 2016, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Vocabulary', 'Odd One Out')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Vocabulary | Odd One Out
+
+Question: Year: 2016, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Letter Series', 'Odd One Out')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Letter Series | Odd One Out
+
+Question: Year: 2016, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Algebra', 'Quadratic Equations')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Algebra | Quadratic Equations
+
+Question: Year: 2016, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Set Theory', 'Venn Diagrams')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Set Theory | Venn Diagrams
+
+Question: Year: 2016, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Critical Reasoning', 'Inference')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Critical Reasoning | Inference
+
+Question: Year: 2016, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Logical Reasoning', 'Syllogism and Inference')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Logical Reasoning | Syllogism and Inference
+
+Question: Year: 2016, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Counting', 'Counting Rectangles')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Counting | Counting Rectangles
+
+Question: Year: 2016, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Functions and Graphs', 'Modulus Function')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Functions and Graphs | Modulus Function
+
+Question: Year: 2016, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Mathematical Logic', 'Logical Implication')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Mathematical Logic | Logical Implication
+
+Question: Year: 2016, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Calculus', 'Polynomials and Derivatives')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Calculus | Polynomials and Derivatives
+
+Question: Year: 2016, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Graph Theory', 'Graph Coloring and Four Color Theorem')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Graph Theory | Graph Coloring and Four Color Theorem
+
+Question: Year: 2016, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'System of Linear Equations')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | System of Linear Equations
+
+Question: Year: 2016, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability', 'Law of Total Probability')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability | Law of Total Probability
+
+Question: Year: 2016, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Properties of Eigenvalues and Determinants')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Properties of Eigenvalues and Determinants
+
+Question: Year: 2016, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Computer Arithmetic', 'Ripple-Carry Adder and Propagation Delay')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Computer Arithmetic | Ripple-Carry Adder and Propagation Delay
+
+Question: Year: 2016, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra', 'XOR Gate Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra | XOR Gate Properties
+
+Question: Year: 2016, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Data Representation', "2's Complement and Sign-Magnitude")
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Data Representation | 2's Complement and Sign-Magnitude
+
+Question: Year: 2016, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Instruction Set Architecture', 'Instruction Format')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Instruction Set Architecture | Instruction Format
+
+Question: Year: 2016, Subject: CS, Num: 11
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Breadth First Search (BFS) on Trees')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Breadth First Search (BFS) on Trees
+
+Question: Year: 2016, Subject: CS, Num: 12
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointers and Call by Reference/Value')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointers and Call by Reference/Value
+
+Question: Year: 2016, Subject: CS, Num: 13
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Sorting', 'Best/Worst Case Analysis of Sorting Algorithms')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Sorting | Best/Worst Case Analysis of Sorting Algorithms
+
+Question: Year: 2016, Subject: CS, Num: 14
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Design Paradigms', 'Dynamic Programming')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Design Paradigms | Dynamic Programming
+
+Question: Year: 2016, Subject: CS, Num: 15
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Linked Lists and Time Complexity Analysis')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Linked Lists and Time Complexity Analysis
+
+Question: Year: 2016, Subject: CS, Num: 16
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Finite Automata', 'Regular Expressions to Minimal DFA')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Finite Automata | Regular Expressions to Minimal DFA
+
+Question: Year: 2016, Subject: CS, Num: 17
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Formal Languages', 'Regular vs Context-Free Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Formal Languages | Regular vs Context-Free Languages
+
+Question: Year: 2016, Subject: CS, Num: 18
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Formal Languages', 'Closure Properties of Language Classes')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Formal Languages | Closure Properties of Language Classes
+
+Question: Year: 2016, Subject: CS, Num: 19
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Phases of a Compiler', 'Compiler Architecture')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Phases of a Compiler | Compiler Architecture
+
+Question: Year: 2016, Subject: CS, Num: 20
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Memory Management', "Page Replacement Algorithms and Belady's Anomaly")
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Memory Management | Page Replacement Algorithms and Belady's Anomaly
+
+Question: Year: 2016, Subject: CS, Num: 21
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Indexing', 'B+ Tree Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Indexing | B+ Tree Properties
+
+Question: Year: 2016, Subject: CS, Num: 22
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Concurrency Control', 'Conflict Serializability and Precedence Graph')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Concurrency Control | Conflict Serializability and Precedence Graph
+
+Question: Year: 2016, Subject: CS, Num: 23
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Network Security', 'Digital Signatures')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Network Security | Digital Signatures
+
+Question: Year: 2016, Subject: CS, Num: 24
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Media Access Control', 'CSMA/CD and Ethernet')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Media Access Control | CSMA/CD and Ethernet
+
+Question: Year: 2016, Subject: CS, Num: 25
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Application Layer', 'Web Browsing Protocol Sequence')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Application Layer | Web Browsing Protocol Sequence
+
+Question: Year: 2016, Subject: CS, Num: 26
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Relations and Their Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Relations and Their Properties
+
+Question: Year: 2016, Subject: CS, Num: 27
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Mathematical Logic', 'Predicate Calculus and Validity')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Mathematical Logic | Predicate Calculus and Validity
+
+Question: Year: 2016, Subject: CS, Num: 28
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Graph Theory', 'Handshaking Lemma')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Graph Theory | Handshaking Lemma
+
+Question: Year: 2016, Subject: CS, Num: 29
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', "Modular Arithmetic and Fermat's Little Theorem")
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Modular Arithmetic and Fermat's Little Theorem
+
+Question: Year: 2016, Subject: CS, Num: 30
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Pipelining', 'Pipeline Performance with Multiple Functional Units')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Pipelining | Pipeline Performance with Multiple Functional Units
+
+Question: Year: 2016, Subject: CS, Num: 31
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Instruction Set Architecture', 'Instruction Encoding and Memory Alignment')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Instruction Set Architecture | Instruction Encoding and Memory Alignment
+
+Question: Year: 2016, Subject: CS, Num: 32
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Cache Memory', 'Cache Addressing')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Cache Memory | Cache Addressing
+
+Question: Year: 2016, Subject: CS, Num: 33
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Pipelining', 'Pipeline Frequency and Latency')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Pipelining | Pipeline Frequency and Latency
+
+Question: Year: 2016, Subject: CS, Num: 34
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Heaps')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Heaps
+
+Question: Year: 2016, Subject: CS, Num: 35
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Analysis', 'Loop Invariants')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Analysis | Loop Invariants
+
+Question: Year: 2016, Subject: CS, Num: 36
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Trees, Tree Traversal, Expression Trees')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Trees, Tree Traversal, Expression Trees
+
+Question: Year: 2016, Subject: CS, Num: 37
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Recursion and Pointers')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Recursion and Pointers
+
+Question: Year: 2016, Subject: CS, Num: 38
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Dynamic Programming', 'Matrix Chain Multiplication')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Dynamic Programming | Matrix Chain Multiplication
+
+Question: Year: 2016, Subject: CS, Num: 39
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Asymptotic Analysis', 'Recurrence Relations from Flowcharts')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Asymptotic Analysis | Recurrence Relations from Flowcharts
+
+Question: Year: 2016, Subject: CS, Num: 40
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Data Structures', 'Binary Search Trees and Combinatorics')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Data Structures | Binary Search Trees and Combinatorics
+
+Question: Year: 2016, Subject: CS, Num: 41
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Graph Representation and Time Complexity')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Graph Representation and Time Complexity
+
+Question: Year: 2016, Subject: CS, Num: 42
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Finite Automata and Regular Languages', 'Properties of NFA and Regular Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Finite Automata and Regular Languages | Properties of NFA and Regular Languages
+
+Question: Year: 2016, Subject: CS, Num: 43
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Context-Free Languages', 'Pumping Lemma for CFLs')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Context-Free Languages | Pumping Lemma for CFLs
+
+Question: Year: 2016, Subject: CS, Num: 44
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Undecidability', "Recursive and Recursively Enumerable Languages, Rice's Theorem")
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Undecidability | Recursive and Recursively Enumerable Languages, Rice's Theorem
+
+Question: Year: 2016, Subject: CS, Num: 45
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax Analysis', 'Left Recursion')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax Analysis | Left Recursion
+
+Question: Year: 2016, Subject: CS, Num: 46
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Context-Free Grammars', 'Grammar Design')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Context-Free Grammars | Grammar Design
+
+Question: Year: 2016, Subject: CS, Num: 47
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'CPU Scheduling', 'Shortest Remaining Time First (SRTF)')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | CPU Scheduling | Shortest Remaining Time First (SRTF)
+
+Question: Year: 2016, Subject: CS, Num: 48
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Process Synchronization', "Critical Section Problem (Peterson's Algorithm)")
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Process Synchronization | Critical Section Problem (Peterson's Algorithm)
+
+Question: Year: 2016, Subject: CS, Num: 49
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Process Synchronization', 'Semaphores')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Process Synchronization | Semaphores
+
+Question: Year: 2016, Subject: CS, Num: 50
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'File Systems', 'Caching and Performance')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | File Systems | Caching and Performance
+
+Question: Year: 2016, Subject: CS, Num: 51
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Concurrency Control', 'Recoverability and Cascading Aborts')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Concurrency Control | Recoverability and Cascading Aborts
+
+Question: Year: 2016, Subject: CS, Num: 52
+  - FAILED KEY FROM JSON: ('CS - Databases', 'SQL', 'Common Table Expressions (CTE) and Aggregation')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | SQL | Common Table Expressions (CTE) and Aggregation
+
+Question: Year: 2016, Subject: CS, Num: 53
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Media Access Control', 'CSMA/CD and Minimum Frame Size')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Media Access Control | CSMA/CD and Minimum Frame Size
+
+Question: Year: 2016, Subject: CS, Num: 54
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Wireless Networks', 'IEEE 802.11 MAC')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Wireless Networks | IEEE 802.11 MAC
+
+Question: Year: 2016, Subject: CS, Num: 55
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Flow Control', 'Selective Repeat ARQ and Utilization')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Flow Control | Selective Repeat ARQ and Utilization
+
+Question: Year: 2025, Subject: DA, Num: 1
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Analogy', 'Synonyms')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Analogy | Synonyms
+
+Question: Year: 2025, Subject: DA, Num: 2
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Grammar', 'Tenses')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Grammar | Tenses
+
+Question: Year: 2025, Subject: DA, Num: 3
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Data Interpretation', 'Matrix Reading')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Data Interpretation | Matrix Reading
+
+Question: Year: 2025, Subject: DA, Num: 4
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Venn Diagrams', 'Logical Reasoning')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Venn Diagrams | Logical Reasoning
+
+Question: Year: 2025, Subject: DA, Num: 5
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Mensuration', 'Percentage Change')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Mensuration | Percentage Change
+
+Question: Year: 2025, Subject: DA, Num: 6
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Reading Comprehension', 'Logical Matching')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Reading Comprehension | Logical Matching
+
+Question: Year: 2025, Subject: DA, Num: 7
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Function Analysis', 'Monotonic Functions')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Function Analysis | Monotonic Functions
+
+Question: Year: 2025, Subject: DA, Num: 8
+  - FAILED KEY FROM JSON: ('GA - Spatial Aptitude', 'Geometry', 'Area and Composition of Shapes')
+  - BEST GUESS FROM SYLLABUS: GA - Spatial Aptitude | Geometry | Area and Composition of Shapes
+
+Question: Year: 2025, Subject: DA, Num: 9
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Algebra', 'Exponents')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Algebra | Exponents
+
+Question: Year: 2025, Subject: DA, Num: 10
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Data Interpretation', 'Averages')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Data Interpretation | Averages
+
+Question: Year: 2025, Subject: DA, Num: 11
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Expectation', 'Law of Total Expectation')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Expectation | Law of Total Expectation
+
+Question: Year: 2025, Subject: DA, Num: 12
+  - FAILED KEY FROM JSON: ('DA - Algorithms', 'Algorithm Analysis', 'Complexity of Gaussian Elimination')
+  - BEST GUESS FROM SYLLABUS: DA - Algorithms | Algorithm Analysis | Complexity of Gaussian Elimination
+
+Question: Year: 2025, Subject: DA, Num: 13
+  - FAILED KEY FROM JSON: ('DA - Linear Algebra', 'Eigenvalues and Eigenvectors', 'Properties of Eigenvalues')
+  - BEST GUESS FROM SYLLABUS: DA - Linear Algebra | Eigenvalues and Eigenvectors | Properties of Eigenvalues
+
+Question: Year: 2025, Subject: DA, Num: 14
+  - FAILED KEY FROM JSON: ('DA - Calculus', 'Differential Calculus', 'Higher Order Derivatives')
+  - BEST GUESS FROM SYLLABUS: DA - Calculus | Differential Calculus | Higher Order Derivatives
+
+Question: Year: 2025, Subject: DA, Num: 15
+  - FAILED KEY FROM JSON: ('DA - Discrete Mathematics', 'Propositional Logic', 'Logical Equivalence')
+  - BEST GUESS FROM SYLLABUS: DA - Discrete Mathematics | Propositional Logic | Logical Equivalence
+
+Question: Year: 2025, Subject: DA, Num: 16
+  - FAILED KEY FROM JSON: ('DA - Databases', 'Relational Database Design', 'Dependency Preservation')
+  - BEST GUESS FROM SYLLABUS: DA - Databases | Relational Database Design | Dependency Preservation
+
+Question: Year: 2025, Subject: DA, Num: 17
+  - FAILED KEY FROM JSON: ('DA - Databases', 'Relational Algebra', 'Query Interpretation')
+  - BEST GUESS FROM SYLLABUS: DA - Databases | Relational Algebra | Query Interpretation
+
+Question: Year: 2025, Subject: DA, Num: 18
+  - FAILED KEY FROM JSON: ('DA - Data Structures', 'Hashing', 'Linear Probing')
+  - BEST GUESS FROM SYLLABUS: DA - Data Structures | Hashing | Linear Probing
+
+Question: Year: 2025, Subject: DA, Num: 19
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Continuous Random Variables', 'CDF and Median')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Continuous Random Variables | CDF and Median
+
+Question: Year: 2025, Subject: DA, Num: 20
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Random Variables', 'Expectation, Variance, and Covariance')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Random Variables | Expectation, Variance, and Covariance
+
+Question: Year: 2025, Subject: DA, Num: 21
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Probability Distributions', 'Exponential Distribution')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Probability Distributions | Exponential Distribution
+
+Question: Year: 2025, Subject: DA, Num: 22
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Supervised Learning', 'Perceptron Algorithm')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Supervised Learning | Perceptron Algorithm
+
+Question: Year: 2025, Subject: DA, Num: 23
+  - FAILED KEY FROM JSON: ('DA - Programming', 'Python', 'List Methods')
+  - BEST GUESS FROM SYLLABUS: DA - Programming | Python | List Methods
+
+Question: Year: 2025, Subject: DA, Num: 24
+  - FAILED KEY FROM JSON: ('DA - Calculus', 'Differential Calculus', 'Rules of Differentiation')
+  - BEST GUESS FROM SYLLABUS: DA - Calculus | Differential Calculus | Rules of Differentiation
+
+Question: Year: 2025, Subject: DA, Num: 25
+  - FAILED KEY FROM JSON: ('DA - Linear Algebra', 'Vector Spaces', 'Orthonormal Basis')
+  - BEST GUESS FROM SYLLABUS: DA - Linear Algebra | Vector Spaces | Orthonormal Basis
+
+Question: Year: 2025, Subject: DA, Num: 26
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Probabilistic Graphical Models', 'Inference Algorithms in Bayesian Networks')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Probabilistic Graphical Models | Inference Algorithms in Bayesian Networks
+
+Question: Year: 2025, Subject: DA, Num: 27
+  - FAILED KEY FROM JSON: ('DA - Algorithms', 'Searching Algorithms', 'Binary Search')
+  - BEST GUESS FROM SYLLABUS: DA - Algorithms | Searching Algorithms | Binary Search
+
+Question: Year: 2025, Subject: DA, Num: 28
+  - FAILED KEY FROM JSON: ('DA - Linear Algebra', 'Matrices', 'Rank-One Update')
+  - BEST GUESS FROM SYLLABUS: DA - Linear Algebra | Matrices | Rank-One Update
+
+Question: Year: 2025, Subject: DA, Num: 29
+  - FAILED KEY FROM JSON: ('DA - Algorithms', 'Sorting Algorithms', 'Insertion Sort')
+  - BEST GUESS FROM SYLLABUS: DA - Algorithms | Sorting Algorithms | Insertion Sort
+
+Question: Year: 2025, Subject: DA, Num: 30
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Unsupervised Learning', 'Hierarchical Clustering')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Unsupervised Learning | Hierarchical Clustering
+
+Question: Year: 2025, Subject: DA, Num: 31
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Conditional Probability', "Bayes' Theorem")
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Conditional Probability | Bayes' Theorem
+
+Question: Year: 2025, Subject: DA, Num: 32
+  - FAILED KEY FROM JSON: ('DA - Calculus', 'Limits', 'Limits at Infinity')
+  - BEST GUESS FROM SYLLABUS: DA - Calculus | Limits | Limits at Infinity
+
+Question: Year: 2025, Subject: DA, Num: 33
+  - FAILED KEY FROM JSON: ('DA - Databases', 'SQL', 'Subqueries')
+  - BEST GUESS FROM SYLLABUS: DA - Databases | SQL | Subqueries
+
+Question: Year: 2025, Subject: DA, Num: 34
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Supervised Learning', 'Linear Regression')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Supervised Learning | Linear Regression
+
+Question: Year: 2025, Subject: DA, Num: 35
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Supervised Learning', 'Naive Bayes Classifier')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Supervised Learning | Naive Bayes Classifier
+
+Question: Year: 2025, Subject: DA, Num: 36
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Probability Distributions', 'Chi-Squared Distribution')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Probability Distributions | Chi-Squared Distribution
+
+Question: Year: 2025, Subject: DA, Num: 37
+  - FAILED KEY FROM JSON: ('DA - Linear Algebra', 'Matrices', 'Properties of Matrices')
+  - BEST GUESS FROM SYLLABUS: DA - Linear Algebra | Matrices | Properties of Matrices
+
+Question: Year: 2025, Subject: DA, Num: 38
+  - FAILED KEY FROM JSON: ('DA - Linear Algebra', 'Matrices', 'Gram Matrix')
+  - BEST GUESS FROM SYLLABUS: DA - Linear Algebra | Matrices | Gram Matrix
+
+Question: Year: 2025, Subject: DA, Num: 39
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Continuous Random Variables', 'Probability from CDF')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Continuous Random Variables | Probability from CDF
+
+Question: Year: 2025, Subject: DA, Num: 40
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Limit Theorems', 'Central Limit Theorem')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Limit Theorems | Central Limit Theorem
+
+Question: Year: 2025, Subject: DA, Num: 41
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Random Variables', 'Transformation of Random Variables')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Random Variables | Transformation of Random Variables
+
+Question: Year: 2025, Subject: DA, Num: 42
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Deep Learning', 'Backpropagation')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Deep Learning | Backpropagation
+
+Question: Year: 2025, Subject: DA, Num: 43
+  - FAILED KEY FROM JSON: ('DA - Artificial Intelligence', 'Adversarial Search', 'Alpha-Beta Pruning')
+  - BEST GUESS FROM SYLLABUS: DA - Artificial Intelligence | Adversarial Search | Alpha-Beta Pruning
+
+Question: Year: 2025, Subject: DA, Num: 44
+  - FAILED KEY FROM JSON: ('DA - Artificial Intelligence', 'Search Algorithms', 'A* Search')
+  - BEST GUESS FROM SYLLABUS: DA - Artificial Intelligence | Search Algorithms | A* Search
+
+Question: Year: 2025, Subject: DA, Num: 45
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Probability Theory', 'Complementary Events')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Probability Theory | Complementary Events
+
+Question: Year: 2025, Subject: DA, Num: 46
+  - FAILED KEY FROM JSON: ('DA - Databases', 'Data Warehousing and Mining', 'OLAP and CUBE operator')
+  - BEST GUESS FROM SYLLABUS: DA - Databases | Data Warehousing and Mining | OLAP and CUBE operator
+
+Question: Year: 2025, Subject: DA, Num: 47
+  - FAILED KEY FROM JSON: ('DA - Programming', 'Python', 'Set Operations and Loop Analysis')
+  - BEST GUESS FROM SYLLABUS: DA - Programming | Python | Set Operations and Loop Analysis
+
+Question: Year: 2025, Subject: DA, Num: 48
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Deep Learning', 'Activation Functions')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Deep Learning | Activation Functions
+
+Question: Year: 2025, Subject: DA, Num: 49
+  - FAILED KEY FROM JSON: ('DA - Calculus', 'Differential Calculus', 'Extrema on an Interval')
+  - BEST GUESS FROM SYLLABUS: DA - Calculus | Differential Calculus | Extrema on an Interval
+
+Question: Year: 2025, Subject: DA, Num: 50
+  - FAILED KEY FROM JSON: ('DA - Linear Algebra', 'Matrices', 'Projection Matrices')
+  - BEST GUESS FROM SYLLABUS: DA - Linear Algebra | Matrices | Projection Matrices
+
+Question: Year: 2025, Subject: DA, Num: 51
+  - FAILED KEY FROM JSON: ('DA - Calculus', 'Differential Calculus', 'Convex Functions')
+  - BEST GUESS FROM SYLLABUS: DA - Calculus | Differential Calculus | Convex Functions
+
+Question: Year: 2025, Subject: DA, Num: 52
+  - FAILED KEY FROM JSON: ('DA - Linear Algebra', 'Matrices', 'Orthogonal Matrices')
+  - BEST GUESS FROM SYLLABUS: DA - Linear Algebra | Matrices | Orthogonal Matrices
+
+Question: Year: 2025, Subject: DA, Num: 53
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Supervised Learning', 'Support Vector Machines (SVM)')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Supervised Learning | Support Vector Machines (SVM)
+
+Question: Year: 2025, Subject: DA, Num: 54
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Statistical Inference', 'Properties of Estimators')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Statistical Inference | Properties of Estimators
+
+Question: Year: 2025, Subject: DA, Num: 55
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Supervised Learning', 'Nearest Centroid Classifier')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Supervised Learning | Nearest Centroid Classifier
+
+Question: Year: 2025, Subject: DA, Num: 56
+  - FAILED KEY FROM JSON: ('DA - Databases', 'Relational Model', 'Keys and Constraints')
+  - BEST GUESS FROM SYLLABUS: DA - Databases | Relational Model | Keys and Constraints
+
+Question: Year: 2025, Subject: DA, Num: 57
+  - FAILED KEY FROM JSON: ('DA - Databases', 'Relational Database Design', 'Candidate Keys and BCNF')
+  - BEST GUESS FROM SYLLABUS: DA - Databases | Relational Database Design | Candidate Keys and BCNF
+
+Question: Year: 2025, Subject: DA, Num: 58
+  - FAILED KEY FROM JSON: ('DA - Algorithms', 'Graph Algorithms', 'Shortest Path Properties')
+  - BEST GUESS FROM SYLLABUS: DA - Algorithms | Graph Algorithms | Shortest Path Properties
+
+Question: Year: 2025, Subject: DA, Num: 59
+  - FAILED KEY FROM JSON: ('DA - Calculus', 'Differential Calculus', 'Derivatives and Mean Value Theorem')
+  - BEST GUESS FROM SYLLABUS: DA - Calculus | Differential Calculus | Derivatives and Mean Value Theorem
+
+Question: Year: 2025, Subject: DA, Num: 60
+  - FAILED KEY FROM JSON: ('DA - Machine Learning', 'Dimensionality Reduction', 'Principal Component Analysis (PCA)')
+  - BEST GUESS FROM SYLLABUS: DA - Machine Learning | Dimensionality Reduction | Principal Component Analysis (PCA)
+
+Question: Year: 2025, Subject: DA, Num: 61
+  - FAILED KEY FROM JSON: ('DA - Probability and Statistics', 'Probability Distributions', 'Binomial Distribution')
+  - BEST GUESS FROM SYLLABUS: DA - Probability and Statistics | Probability Distributions | Binomial Distribution
+
+Question: Year: 2025, Subject: DA, Num: 62
+  - FAILED KEY FROM JSON: ('DA - Databases', 'Relational Algebra', 'Division Operator')
+  - BEST GUESS FROM SYLLABUS: DA - Databases | Relational Algebra | Division Operator
+
+Question: Year: 2025, Subject: DA, Num: 63
+  - FAILED KEY FROM JSON: ('DA - Programming', 'Recursion', 'Analysis of Recursive Functions')
+  - BEST GUESS FROM SYLLABUS: DA - Programming | Recursion | Analysis of Recursive Functions
+
+Question: Year: 2025, Subject: DA, Num: 64
+  - FAILED KEY FROM JSON: ('DA - Algorithms', 'Stacks', 'Pseudocode Tracing')
+  - BEST GUESS FROM SYLLABUS: DA - Algorithms | Stacks | Pseudocode Tracing
+
+Question: Year: 2025, Subject: DA, Num: 65
+  - FAILED KEY FROM JSON: ('DA - Algorithms', 'Graph Algorithms', 'Depth-First Search')
+  - BEST GUESS FROM SYLLABUS: DA - Algorithms | Graph Algorithms | Depth-First Search
+
+Question: Year: 2025, Subject: CS, Num: 1
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Analogy', 'Word Intensity')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Analogy | Word Intensity
+
+Question: Year: 2025, Subject: CS, Num: 2
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Analogy', 'Living Places')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Analogy | Living Places
+
+Question: Year: 2025, Subject: CS, Num: 3
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Algebra', 'Exponential Functions')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Algebra | Exponential Functions
+
+Question: Year: 2025, Subject: CS, Num: 4
+  - FAILED KEY FROM JSON: ('GA - Spatial Aptitude', 'Cubes and Dice', 'Paper Folding')
+  - BEST GUESS FROM SYLLABUS: GA - Spatial Aptitude | Cubes and Dice | Paper Folding
+
+Question: Year: 2025, Subject: CS, Num: 5
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Number Theory', 'Properties of Prime Numbers')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Number Theory | Properties of Prime Numbers
+
+Question: Year: 2025, Subject: CS, Num: 6
+  - FAILED KEY FROM JSON: ('GA - Verbal Ability', 'Logical Inference', 'Counterfactual Conditionals')
+  - BEST GUESS FROM SYLLABUS: GA - Verbal Ability | Logical Inference | Counterfactual Conditionals
+
+Question: Year: 2025, Subject: CS, Num: 7
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Coding-Decoding', 'Letter Coding')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Coding-Decoding | Letter Coding
+
+Question: Year: 2025, Subject: CS, Num: 8
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Data Interpretation', 'Pattern Recognition in Tables')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Data Interpretation | Pattern Recognition in Tables
+
+Question: Year: 2025, Subject: CS, Num: 9
+  - FAILED KEY FROM JSON: ('GA - Quantitative Aptitude', 'Geometry', 'Area of Rectangles')
+  - BEST GUESS FROM SYLLABUS: GA - Quantitative Aptitude | Geometry | Area of Rectangles
+
+Question: Year: 2025, Subject: CS, Num: 10
+  - FAILED KEY FROM JSON: ('GA - Analytical Aptitude', 'Logical Reasoning', 'Graph Theory and Connectivity')
+  - BEST GUESS FROM SYLLABUS: GA - Analytical Aptitude | Logical Reasoning | Graph Theory and Connectivity
+
+Question: Year: 2025, Subject: CS, Num: 11
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Matrix Powers')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Matrix Powers
+
+Question: Year: 2025, Subject: CS, Num: 12
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Calculus', 'Integration by Parts')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Calculus | Integration by Parts
+
+Question: Year: 2025, Subject: CS, Num: 13
+  - FAILED KEY FROM JSON: ('CS - Data Structures', 'Trees', 'Properties of Full Binary Trees')
+  - BEST GUESS FROM SYLLABUS: CS - Data Structures | Trees | Properties of Full Binary Trees
+
+Question: Year: 2025, Subject: CS, Num: 14
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'Properties of Determinants')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | Properties of Determinants
+
+Question: Year: 2025, Subject: CS, Num: 15
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Predicate Logic and Induction')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Predicate Logic and Induction
+
+Question: Year: 2025, Subject: CS, Num: 16
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Network Protocols', 'ARP and TCP')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Network Protocols | ARP and TCP
+
+Question: Year: 2025, Subject: CS, Num: 17
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Routing Algorithms', 'Distance Vector vs Link State')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Routing Algorithms | Distance Vector vs Link State
+
+Question: Year: 2025, Subject: CS, Num: 18
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Network Layer', 'IP Protocol Field')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Network Layer | IP Protocol Field
+
+Question: Year: 2025, Subject: CS, Num: 19
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointers and Strings')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointers and Strings
+
+Question: Year: 2025, Subject: CS, Num: 20
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Algorithm Analysis', 'Lower Bounds')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Algorithm Analysis | Lower Bounds
+
+Question: Year: 2025, Subject: CS, Num: 21
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Intermediate Code Generation', 'Backpatching')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Intermediate Code Generation | Backpatching
+
+Question: Year: 2025, Subject: CS, Num: 22
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax Directed Translation', 'S-Attributed and L-Attributed Definitions')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax Directed Translation | S-Attributed and L-Attributed Definitions
+
+Question: Year: 2025, Subject: CS, Num: 23
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Network Layer', 'IP Fragmentation')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Network Layer | IP Fragmentation
+
+Question: Year: 2025, Subject: CS, Num: 24
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Pushdown Automata', 'Deterministic Pushdown Automata')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Pushdown Automata | Deterministic Pushdown Automata
+
+Question: Year: 2025, Subject: CS, Num: 25
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Decidability', 'Decidable Problems for CFLs')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Decidability | Decidable Problems for CFLs
+
+Question: Year: 2025, Subject: CS, Num: 26
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'CPU Scheduling', 'SRTF Algorithm')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | CPU Scheduling | SRTF Algorithm
+
+Question: Year: 2025, Subject: CS, Num: 27
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Transaction Management', 'ACID Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Transaction Management | ACID Properties
+
+Question: Year: 2025, Subject: CS, Num: 28
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Instruction Set Architecture', 'Components of ISA')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Instruction Set Architecture | Components of ISA
+
+Question: Year: 2025, Subject: CS, Num: 29
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Properties of BFS and DFS')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Properties of BFS and DFS
+
+Question: Year: 2025, Subject: CS, Num: 30
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Formal Languages', 'Closure Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Formal Languages | Closure Properties
+
+Question: Year: 2025, Subject: CS, Num: 31
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Combinational Circuits', 'Boolean Function Simplification')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Combinational Circuits | Boolean Function Simplification
+
+Question: Year: 2025, Subject: CS, Num: 32
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Computer Arithmetic', "Booth's Algorithm")
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Computer Arithmetic | Booth's Algorithm
+
+Question: Year: 2025, Subject: CS, Num: 33
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Number Theory Algorithms', 'Euclidean Algorithm (GCD)')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Number Theory Algorithms | Euclidean Algorithm (GCD)
+
+Question: Year: 2025, Subject: CS, Num: 34
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Sequential Circuits', 'Counters')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Sequential Circuits | Counters
+
+Question: Year: 2025, Subject: CS, Num: 35
+  - FAILED KEY FROM JSON: ('CS - Data Structures', 'Trees', 'Binary Search Tree Insertion')
+  - BEST GUESS FROM SYLLABUS: CS - Data Structures | Trees | Binary Search Tree Insertion
+
+Question: Year: 2025, Subject: CS, Num: 36
+  - FAILED KEY FROM JSON: ('CS - Computer Networks', 'Data Link Layer', 'Stop-and-Wait Protocol Utilization')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Networks | Data Link Layer | Stop-and-Wait Protocol Utilization
+
+Question: Year: 2025, Subject: CS, Num: 37
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'MST and Shortest Path Properties')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | MST and Shortest Path Properties
+
+Question: Year: 2025, Subject: CS, Num: 38
+  - FAILED KEY FROM JSON: ('CS - Data Structures', 'Advanced Data Structures', 'Meld Operation Complexity')
+  - BEST GUESS FROM SYLLABUS: CS - Data Structures | Advanced Data Structures | Meld Operation Complexity
+
+Question: Year: 2025, Subject: CS, Num: 39
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory Hierarchy', 'Direct Mapped Cache')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory Hierarchy | Direct Mapped Cache
+
+Question: Year: 2025, Subject: CS, Num: 40
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax Analysis', 'Parser Classification')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax Analysis | Parser Classification
+
+Question: Year: 2025, Subject: CS, Num: 41
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Searching Algorithms', 'Search in a Bitonic Array')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Searching Algorithms | Search in a Bitonic Array
+
+Question: Year: 2025, Subject: CS, Num: 42
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Discrete Mathematics', 'Partially Ordered Sets and Lattices')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Discrete Mathematics | Partially Ordered Sets and Lattices
+
+Question: Year: 2025, Subject: CS, Num: 43
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra', 'K-Map Simplification')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra | K-Map Simplification
+
+Question: Year: 2025, Subject: CS, Num: 44
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Linear Algebra', 'LU Decomposition')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Linear Algebra | LU Decomposition
+
+Question: Year: 2025, Subject: CS, Num: 45
+  - FAILED KEY FROM JSON: ('CS - Data Structures', 'Stacks', 'Min Stack Problem')
+  - BEST GUESS FROM SYLLABUS: CS - Data Structures | Stacks | Min Stack Problem
+
+Question: Year: 2025, Subject: CS, Num: 46
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Relational Database Design', 'Third Normal Form (3NF)')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Relational Database Design | Third Normal Form (3NF)
+
+Question: Year: 2025, Subject: CS, Num: 47
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Memory Management', 'Page Replacement Algorithms')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Memory Management | Page Replacement Algorithms
+
+Question: Year: 2025, Subject: CS, Num: 48
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Deadlocks', 'Resource Allocation Graph')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Deadlocks | Resource Allocation Graph
+
+Question: Year: 2025, Subject: CS, Num: 49
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Data Representation', 'IEEE 754 Floating-Point Arithmetic')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Data Representation | IEEE 754 Floating-Point Arithmetic
+
+Question: Year: 2025, Subject: CS, Num: 50
+  - FAILED KEY FROM JSON: ('CS - Digital Logic', 'Boolean Algebra', 'Boolean Identities and Simplification')
+  - BEST GUESS FROM SYLLABUS: CS - Digital Logic | Boolean Algebra | Boolean Identities and Simplification
+
+Question: Year: 2025, Subject: CS, Num: 51
+  - FAILED KEY FROM JSON: ('CS - Compiler Design', 'Syntax Analysis', 'Ambiguity and LL(1) Grammars')
+  - BEST GUESS FROM SYLLABUS: CS - Compiler Design | Syntax Analysis | Ambiguity and LL(1) Grammars
+
+Question: Year: 2025, Subject: CS, Num: 52
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Regular Languages', 'Properties of Regular Languages')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Regular Languages | Properties of Regular Languages
+
+Question: Year: 2025, Subject: CS, Num: 53
+  - FAILED KEY FROM JSON: ('CS - Databases', 'Transaction Management', 'Conflict Serializability')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | Transaction Management | Conflict Serializability
+
+Question: Year: 2025, Subject: CS, Num: 54
+  - FAILED KEY FROM JSON: ('CS - Databases', 'SQL', 'Correlated Subqueries and Joins')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | SQL | Correlated Subqueries and Joins
+
+Question: Year: 2025, Subject: CS, Num: 55
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Memory Hierarchy', 'Average Memory Access Time (AMAT)')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Memory Hierarchy | Average Memory Access Time (AMAT)
+
+Question: Year: 2025, Subject: CS, Num: 56
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Pipelining', 'Pipeline Performance')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Pipelining | Pipeline Performance
+
+Question: Year: 2025, Subject: CS, Num: 57
+  - FAILED KEY FROM JSON: ('CS - Databases', 'File Structures', 'B+ Tree Insertion')
+  - BEST GUESS FROM SYLLABUS: CS - Databases | File Structures | B+ Tree Insertion
+
+Question: Year: 2025, Subject: CS, Num: 58
+  - FAILED KEY FROM JSON: ('CS - Operating Systems', 'Memory Management', 'Multi-level Paging')
+  - BEST GUESS FROM SYLLABUS: CS - Operating Systems | Memory Management | Multi-level Paging
+
+Question: Year: 2025, Subject: CS, Num: 59
+  - FAILED KEY FROM JSON: ('CS - Algorithms', 'Graph Algorithms', 'Diameter of a Tree')
+  - BEST GUESS FROM SYLLABUS: CS - Algorithms | Graph Algorithms | Diameter of a Tree
+
+Question: Year: 2025, Subject: CS, Num: 60
+  - FAILED KEY FROM JSON: ('CS - Theory of Computation', 'Finite Automata', 'DFA Construction and Minimization')
+  - BEST GUESS FROM SYLLABUS: CS - Theory of Computation | Finite Automata | DFA Construction and Minimization
+
+Question: Year: 2025, Subject: CS, Num: 61
+  - FAILED KEY FROM JSON: ('CS - Computer Organization and Architecture', 'Performance Evaluation', 'CPI and Clock Cycle Time')
+  - BEST GUESS FROM SYLLABUS: CS - Computer Organization and Architecture | Performance Evaluation | CPI and Clock Cycle Time
+
+Question: Year: 2025, Subject: CS, Num: 62
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Pointers and Array Arithmetic')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Pointers and Array Arithmetic
+
+Question: Year: 2025, Subject: CS, Num: 63
+  - FAILED KEY FROM JSON: ('CS - Programming and Data Structures', 'Programming in C', 'Function Calls and Loops')
+  - BEST GUESS FROM SYLLABUS: CS - Programming and Data Structures | Programming in C | Function Calls and Loops
+
+Question: Year: 2025, Subject: CS, Num: 64
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability and Algebra', 'Complex Numbers')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability and Algebra | Complex Numbers
+
+Question: Year: 2025, Subject: CS, Num: 65
+  - FAILED KEY FROM JSON: ('CS - Engineering Mathematics', 'Probability', 'Geometric Probability and Expectation')
+  - BEST GUESS FROM SYLLABUS: CS - Engineering Mathematics | Probability | Geometric Probability and Expectation
+

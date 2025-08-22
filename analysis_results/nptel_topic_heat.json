@@ -1,0 +1,210 @@
+{
+    "223": {
+        "heat_score": 102,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Algorithm Analysis and Number Manipulation"
+    },
+    "995": {
+        "heat_score": 44,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Functions, Bitwise operations, and Exponentiation"
+    },
+    "302": {
+        "heat_score": 38,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Pointer Arithmetic and Array Indexing"
+    },
+    "867": {
+        "heat_score": 11,
+        "topic_name": "CS - Programming and Data Structures | Data Structures | Binary Search Trees and Combinatorics"
+    },
+    "73": {
+        "heat_score": 11,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Pointer Arithmetic"
+    },
+    "457": {
+        "heat_score": 11,
+        "topic_name": "CS - Theory of Computation | Regular Languages | Regular Expressions and Set Operations"
+    },
+    "15": {
+        "heat_score": 10,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Predicate Logic"
+    },
+    "810": {
+        "heat_score": 10,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Pointer Arithmetic and String Functions"
+    },
+    "346": {
+        "heat_score": 8,
+        "topic_name": "CS - Digital Logic | Computer Arithmetic | 2's Complement and Overflow"
+    },
+    "1043": {
+        "heat_score": 6,
+        "topic_name": "CS - Digital Logic | Data Representation | 2's Complement Arithmetic"
+    },
+    "833": {
+        "heat_score": 6,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Combinatorics (Complementary Counting)"
+    },
+    "1118": {
+        "heat_score": 6,
+        "topic_name": "CS - Computer Organization and Architecture | Computer Arithmetic | Booth's Algorithm"
+    },
+    "983": {
+        "heat_score": 5,
+        "topic_name": "CS - Engineering Mathematics | Graph Theory | Permutation Graphs, Graph Properties"
+    },
+    "764": {
+        "heat_score": 5,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Loop Invariants and Program Correctness"
+    },
+    "427": {
+        "heat_score": 5,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Coding Theory and Hamming Distance"
+    },
+    "1086": {
+        "heat_score": 4,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Recursion and Array Processing"
+    },
+    "988": {
+        "heat_score": 3,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Relations and Their Properties (Equivalence Relations)"
+    },
+    "715": {
+        "heat_score": 3,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Operators (Increment/Decrement)"
+    },
+    "558": {
+        "heat_score": 3,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Set Theory"
+    },
+    "1067": {
+        "heat_score": 3,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Switch Statement and Operator Precedence"
+    },
+    "14": {
+        "heat_score": 3,
+        "topic_name": "CS - Programming and Data Structures | Data Structures | Queues, Linked Lists, Time Complexity"
+    },
+    "714": {
+        "heat_score": 3,
+        "topic_name": "CS - Programming and Data Structures | Queues | Queue Operations and Reversal"
+    },
+    "644": {
+        "heat_score": 2,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Combinatorics and Set Theory"
+    },
+    "812": {
+        "heat_score": 2,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Recurrence Relations"
+    },
+    "667": {
+        "heat_score": 2,
+        "topic_name": "CS - Operating Systems | Deadlocks | Banker's Algorithm, Safe State"
+    },
+    "866": {
+        "heat_score": 2,
+        "topic_name": "CS - Compiler Design | Syntax Directed Translation | S-Attributed Definitions and Operator Precedence"
+    },
+    "597": {
+        "heat_score": 1,
+        "topic_name": "CS - Databases | Relational Algebra | Join Operations, Equivalence of Queries"
+    },
+    "311": {
+        "heat_score": 1,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Number Theory"
+    },
+    "186": {
+        "heat_score": 1,
+        "topic_name": "CS - Algorithms | Recurrence Relations | Solving Recurrences"
+    },
+    "33": {
+        "heat_score": 1,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Group Theory"
+    },
+    "711": {
+        "heat_score": 1,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Functions and Sets"
+    },
+    "835": {
+        "heat_score": 1,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Set Theory and Cardinality"
+    },
+    "875": {
+        "heat_score": 1,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Graph Theory (Cayley's Formula)"
+    },
+    "535": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Dynamic Memory Allocation and Memory Leaks"
+    },
+    "972": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Recursion and I/O"
+    },
+    "986": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Recursion | Analysis of Recursive Calls"
+    },
+    "262": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Hashing | Hash Functions"
+    },
+    "1111": {
+        "heat_score": 1,
+        "topic_name": "CS - Computer Organization and Architecture | Memory Hierarchy | Fully Associative Cache Address Translation"
+    },
+    "280": {
+        "heat_score": 1,
+        "topic_name": "CS - Digital Logic | Sequential Circuits | Flip-Flop Excitation Tables and Circuit Design"
+    },
+    "284": {
+        "heat_score": 1,
+        "topic_name": "CS - Computer Organization and Architecture | Memory Hierarchy | Set-Associative Cache Address Translation"
+    },
+    "158": {
+        "heat_score": 1,
+        "topic_name": "CS - Theory of Computation | Regular Expressions | Language Description"
+    },
+    "120": {
+        "heat_score": 1,
+        "topic_name": "CS - Theory of Computation | Undecidability | Reducibility and Closure Properties"
+    },
+    "339": {
+        "heat_score": 1,
+        "topic_name": "CS - Engineering Mathematics | Discrete Mathematics | Combinatorics and Binomial Identities"
+    },
+    "141": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Control Flow (for loop), Operator Precedence, and Short-Circuit Evaluation"
+    },
+    "517": {
+        "heat_score": 1,
+        "topic_name": "CS - Computer Networks | IP Addressing | Subnetting"
+    },
+    "755": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Data Structures | Queues and Linked Lists"
+    },
+    "534": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Pointers and Pointer Arithmetic"
+    },
+    "709": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Hashing | Double Hashing"
+    },
+    "1096": {
+        "heat_score": 1,
+        "topic_name": "CS - Algorithms | Sorting | Quicksort Complexity"
+    },
+    "4": {
+        "heat_score": 1,
+        "topic_name": "CS - Algorithms | Algorithm Analysis | Solving Recurrence Relations"
+    },
+    "439": {
+        "heat_score": 1,
+        "topic_name": "CS - Theory of Computation | Parsing | SLR Parsers and General CFG Parsing Complexity (CYK Algorithm)"
+    },
+    "721": {
+        "heat_score": 1,
+        "topic_name": "CS - Programming and Data Structures | Programming in C | Type Checking and Function Calls"
+    }
+}

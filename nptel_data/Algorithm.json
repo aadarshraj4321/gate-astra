@@ -1,0 +1,92 @@
+{
+  "subject_name": "Data Structures and Algorithms",
+  "courses": [
+    {
+      "course_title": "Design and Analysis of Algorithms",
+      "professors": [
+        "Prof. Abhiram G Ranade",
+        "Prof. Ajit A Diwan",
+        "Prof. Sundar Viswanathan"
+      ],
+      "iit": "IIT Bombay",
+      "lecture_list": [
+        "Framework for Algorithms Analysis and Asymptotic Notations",
+        "Divide and Conquer",
+        "Greedy Algorithms",
+        "Pattern Matching",
+        "Combinational Search and Optimization",
+        "Dynamic Programming",
+        "Bipartite Maximum Matching",
+        "Lower Bounds for Sorting",
+        "NP-Completeness",
+        "Approximation Algorithms"
+      ]
+    },
+    {
+      "course_title": "Data Structures And Algorithms",
+      "professors": [
+        "Prof. Naveen Garg"
+      ],
+      "iit": "IIT Delhi",
+      "lecture_list": [
+        "Basic Data Structures (Stacks, Queues, Linked Lists)",
+        "Dictionaries and Hashing",
+        "Trees (Traversals, AVL, Red Black)",
+        "Sorting (Quick Sort)",
+        "Priority Queues and Heaps",
+        "Graph Traversals (BFS, DFS)",
+        "Minimum Spanning Trees (Prim's Algorithm)",
+        "Single Source Shortest Paths (Dijkstra's Algorithm)",
+        "Tries and Pattern Matching",
+        "Disk Based Data Structures"
+      ]
+    },
+    {
+      "course_title": "Computer Algorithms - 2",
+      "professors": [
+        "Prof. Shashank K. Mehta"
+      ],
+      "iit": "IIT Kanpur",
+      "lecture_list": [
+        "Graph Algorithms (BFS, Dijkstra, All Pair Shortest Path, MST)",
+        "Matching and Flow Networks (Edmond's Matching, Ford-Fulkerson)",
+        "Matrix Operations (Inversion, Decomposition)",
+        "String Matching (KMP, Rabin-Karp)",
+        "Integer and Polynomial Operations (Chinese Remainder Theorem, DFT)",
+        "Linear Programming",
+        "Computational Geometry",
+        "Approximation Algorithms"
+      ]
+    },
+    {
+      "course_title": "Fundamental Algorithms: Design and Analysis",
+      "professors": [
+        "Prof. Sourav Mukhopadhyay"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Sorting and Asymptotic Notation (Insertion, Merge, QuickSort, Heap)",
+        "Data Structures (Hashing, BST, Augmenting)",
+        "Dynamic Programming",
+        "Graph Algorithms (BFS, DFS, Prim's, Shortest Paths)"
+      ]
+    },
+    {
+      "course_title": "Introduction to Algorithms and Analysis",
+      "professors": [
+        "Prof. Sourav Mukhopadhyay"
+      ],
+      "iit": "IIT Kharagpur",
+      "lecture_list": [
+        "Sorting, Time Complexity, and Asymptotic Analysis",
+        "Recurrence and Divide-and-Conquer",
+        "Data Structures (Hash, BST, Red Black Tree, Van Emde Boas)",
+        "Amortized Analysis and Computational Geometry",
+        "Dynamic Programming",
+        "Graph Algorithms (BFS, DFS, Prim's, Shortest Paths)",
+        "All Pairs Shortest Path (Floyd-Warshall, Johnson)",
+        "Network Flow and Computational Complexity"
+      ]
+    }
+  ]
+}

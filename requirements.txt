@@ -9,3 +9,11 @@ python-dotenv
 PyMuPDF
 pytesseract
 Pillow
+tqdm
+sentence-transformers
+pandas
+chromadb
+scipy
+neo4j
+selenium
+webdriver-manager

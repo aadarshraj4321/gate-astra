@@ -1,0 +1,88 @@
+{
+  "subject_name": "Discrete Mathematics",
+  "courses": [
+    {
+      "course_title": "Discrete Mathematics",
+      "professors": [
+        "Prof. Sajith Gopalan",
+        "Prof. Benny George K"
+      ],
+      "iit": "IIT Guwahati",
+      "lecture_list": [
+        "Mathematical Logic",
+        "Set Theory",
+        "Number Theory",
+        "Algebraic Structures",
+        "Recurrences",
+        "Combinatorics",
+        "Graph Theory"
+      ]
+    },
+    {
+      "course_title": "Discrete Mathematics for CS",
+      "professors": [
+        "Prof. Nitin Saxena"
+      ],
+      "iit": "IIT Kanpur",
+      "lecture_list": [
+        "Formalizing Proofs and Proof Paradigms",
+        "Counting and Combinatorics",
+        "Posets, Chains and Anti-chains",
+        "Graph Theory",
+        "Number Theory and Cryptography",
+        "Group Theory"
+      ]
+    },
+    {
+      "course_title": "Discrete Mathematics",
+      "professors": [
+        "Prof. Sudarshan Iyengar"
+      ],
+      "iit": "IIT Ropar",
+      "lecture_list": [
+        "Counting",
+        "Set Theory",
+        "Logic",
+        "Relations and Functions",
+        "Mathematical Induction and Pigeonhole Principle",
+        "Graph Theory",
+        "Generating Functions and Inclusion-Exclusion",
+        "Recurrence relations"
+      ]
+    },
+    {
+      "course_title": "Discrete Mathematics - IIITB",
+      "professors": [
+        "Prof. Ashish Choudhury"
+      ],
+      "iit": "IIIT Bangalore",
+      "lecture_list": [
+        "Logic and Proof Techniques",
+        "Set Theory, Relations, and Functions",
+        "Combinatorics and Counting",
+        "Recurrence Equations",
+        "Cardinality Theory",
+        "Graph Theory",
+        "Abstract Algebra",
+        "Number Theory and Cryptography"
+      ]
+    },
+    {
+      "course_title": "Discrete Mathematical Structures",
+      "professors": [
+        "Prof. Kamala Krithivasan"
+      ],
+      "iit": "IIT Madras",
+      "lecture_list": [
+        "Propositional and Predicate Logic",
+        "Proof Techniques and Resolution",
+        "Set Theory and Induction",
+        "Relations and their Properties",
+        "Graph Theory and Trees",
+        "Functions and Pigeonhole Principle",
+        "Combinatorics, Generating Functions, and Recurrence Relations",
+        "Algebraic Structures and Lattices"
+      ]
+    }
+  ]
+}

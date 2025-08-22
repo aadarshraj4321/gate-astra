@@ -1,61 +1,76 @@
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-import os
-import sys
+# FILE NAME: inject_syllabus.py (Corrected and Final)
+# PURPOSE: To merge the topics from the platinum dataset into the official syllabus.
 
-# Allow importing from the parent directory (src)
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+import json
+import os, sys
 
-from models import Syllabus, get_db_url
-# Import the data from our new, clean data file
-from .syllabus_data import ALL_SYLLABUS_DATA
+# This is needed to import from the src directory
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
+from data_ingestion.syllabus_data import ALL_SYLLABUS_DATA
 
-def populate_syllabus():
-    """
-    This function robustly populates the Syllabus table.
-    It fetches all existing syllabus entries from the DB and only inserts
-    new ones, preventing duplicates. This makes the script idempotent.
-    """
-    engine = create_engine(get_db_url())
-    Session = sessionmaker(bind=engine)
-    session = Session()
+PLATINUM_DATASET_PATH = "final_dataset/platinum_dataset.json"
+# Corrected file path
+NEW_SYLLABUS_FILE_PATH = "src/data_ingestion/syllabus_data_ultimate.py"
 
-    try:
-        print("Fetching existing syllabus entries from the database...")
-        # Create a set of tuples for quick lookup of existing entries
-        existing_entries = {
-            (s.subject, s.topic, s.sub_topic) 
-            for s in session.query(Syllabus).all()
-        }
-        print(f"Found {len(existing_entries)} existing entries.")
+def inject_and_create_ultimate_syllabus():
+    print("======================================================")
+    print(" GATE-ASTRA: SYLLABUS INJECTION ENGINE")
+    print("======================================================")
+    
+    # Step 1: Load the official syllabus from the imported list
+    print(f"Loading {len(ALL_SYLLABUS_DATA)} official syllabus topics...")
+    # Using a dictionary is better to avoid duplicates and preserve the full item
+    ultimate_syllabus_map = {
+        # Create a unique tuple key for each syllabus item
+        (item.get('subject', '').strip(), item.get('topic', '').strip(), item.get('sub_topic', '').strip() if item.get('sub_topic') is not None else None): item
+        for item in ALL_SYLLABUS_DATA
+    }
 
-        new_syllabus_objects = []
-        for item in ALL_SYLLABUS_DATA:
-            # Create a tuple for the current item to check for its existence
-            entry_tuple = (item["subject"], item["topic"], item.get("sub_topic"))
-            
-            if entry_tuple not in existing_entries:
-                new_entry = Syllabus(
-                    subject=item["subject"],
-                    topic=item["topic"],
-                    sub_topic=item.get("sub_topic")
-                )
-                new_syllabus_objects.append(new_entry)
+    # Step 2: Load your platinum dataset
+    print(f"Loading your platinum dataset from '{PLATINUM_DATASET_PATH}'...")
+    with open(PLATINUM_DATASET_PATH, 'r', encoding='utf-8') as f:
+        platinum_data = json.load(f)
+    print(f"Found {len(platinum_data)} question entries to scan.")
+
+    # Step 3: Find and inject new topics
+    new_topics_found = 0
+    for question in platinum_data:
+        # Create a clean key for the current question's topic
+        question_topic_key = (
+            question.get('subject', '').strip(),
+            question.get('topic', '').strip(),
+            question.get('sub_topic', '').strip() if question.get('sub_topic') is not None else None
+        )
         
-        if not new_syllabus_objects:
-            print("Syllabus is already up to date. No new entries to add.")
-            return
+        # If this key is NOT in our map, it's a new one.
+        if question_topic_key not in ultimate_syllabus_map:
+            new_topics_found += 1
+            new_topic_item = {
+                "subject": question['subject'],
+                "topic": question['topic'],
+                "sub_topic": question['sub_topic']
+            }
+            # Add the new item to our map
+            ultimate_syllabus_map[question_topic_key] = new_topic_item
+    
+    print(f"Discovered and injected {new_topics_found} new, detailed topics from your dataset.")
+    
+    # Step 4: Write the new, ultimate syllabus file
+    final_syllabus_list = list(ultimate_syllabus_map.values())
+    print(f"The new ultimate syllabus will have {len(final_syllabus_list)} total topics.")
+    
+    print(f"Writing the ultimate syllabus to '{NEW_SYLLABUS_FILE_PATH}'...")
+    with open(NEW_SYLLABUS_FILE_PATH, 'w', encoding='utf-8') as f:
+        f.write("# THIS IS THE ULTIMATE, AUTO-GENERATED SYLLABUS FILE\n")
+        f.write("# It merges the official syllabus with the detailed topics from the platinum dataset.\n\n")
+        f.write("ALL_SYLLABUS_DATA = [\n")
+        # Sort for consistency
+        for item in sorted(final_syllabus_list, key=lambda x: str(x)):
+            f.write(f"    {json.dumps(item)},\n")
+        f.write("]\n")
 
-        print(f"Adding {len(new_syllabus_objects)} new syllabus topics to the database...")
-        session.bulk_save_objects(new_syllabus_objects)
-        session.commit()
-        print("Successfully updated the syllabus table.")
-
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        session.rollback()
-    finally:
-        session.close()
+    print("\n✅✅✅ Ultimate syllabus created successfully! ✅✅✅")
+    print("======================================================")
 
 if __name__ == "__main__":
-    populate_syllabus()
+    inject_and_create_ultimate_syllabus()
