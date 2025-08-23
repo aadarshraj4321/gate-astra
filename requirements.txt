@@ -12,8 +12,7 @@ Pillow
 tqdm
 sentence-transformers
 pandas
-pysqlite3-binary
-chromadb==0.4.24
+chromadb
 scipy
 neo4j
 selenium
