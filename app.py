@@ -1,6 +1,3 @@
-# FILE NAME: app.py
-# VERSION 14.0: "Grandmaster" UI Edition - Final, All Features Included, Complete Code
-
 import streamlit as st
 import pandas as pd
 import os
@@ -9,30 +6,23 @@ import json
 import plotly.express as px
 import plotly.graph_objects as go
 
-# --- Path setup and module imports ---
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 from student_tools.study_planner import StudyPlanner
 from data_ingestion.syllabus_data import ALL_SYLLABUS_DATA
-# This import is now for the cache_data function
 try:
     from statistical_analysis.analyze_history import analyze_historical_data
 except ImportError:
-    # A fallback function if the file doesn't exist, though it should
     def analyze_historical_data():
         print("Warning: analyze_history.py not found.")
         return {}
 
-# ==============================================================================
-# PAGE CONFIGURATION
-# ==============================================================================
+
 st.set_page_config(
     page_title="GATE-Astra Oracle", page_icon="🎧",
     layout="wide", initial_sidebar_state="expanded"
 )
 
-# ==============================================================================
-# DATA LOADING & CACHING
-# ==============================================================================
+# data loading and caching
 @st.cache_resource
 def get_planner_instance(_iit_name):
     """Creates and caches a StudyPlanner instance."""
@@ -73,9 +63,7 @@ def get_historical_patterns():
         with open(patterns_path, 'r') as f: return json.load(f)
     return {}
 
-# ==============================================================================
-# UI HELPER FUNCTIONS
-# ==============================================================================
+# ui helper function
 def render_gauge_chart(value, title):
     """Creates a Plotly gauge chart for an AI signal score."""
     fig = go.Figure(go.Indicator(
@@ -90,11 +78,9 @@ def render_gauge_chart(value, title):
     fig.update_layout(height=200, margin=dict(l=30, r=30, t=60, b=20), paper_bgcolor="rgba(0,0,0,0)", font_color=st.get_option("theme.textColor"))
     return fig
 
-# ==============================================================================
-# MAIN APP UI
-# ==============================================================================
 
-# --- SIDEBAR ---
+
+# main app ui
 with st.sidebar:
     st.title("GATE-Astra")
     st.markdown("##### The Exam Multiverse Oracle")
@@ -119,7 +105,7 @@ with st.sidebar:
                 options=["Weak", "Medium", "Strong"], value="Medium", key=f"prof_{subject}"
             )
 
-# --- Main Display Area ---
+# main display area
 st.header("GATE-Astra Forecast Dashboard")
 
 if not st.session_state.get('prediction_ran', False):

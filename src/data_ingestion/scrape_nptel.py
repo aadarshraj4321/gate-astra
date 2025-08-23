@@ -1,6 +1,3 @@
-# FILE NAME: src/data_ingestion/scrape_nptel.py
-# VERSION 3.0: Selenium-powered to handle dynamic JavaScript rendering.
-
 import json
 import os
 import time
@@ -13,9 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
-# ==============================================================================
-# CONFIGURATION
-# ==============================================================================
+
 PORTAL_URL = "https://nptel.ac.in/courses"
 DISCIPLINE_LINK_TEXT = "Computer Science and Engineering"
 BASE_URL = "https://nptel.ac.in"
@@ -23,9 +18,6 @@ BASE_URL = "https://nptel.ac.in"
 OUTPUT_DIR = "nptel_data"
 REQUEST_DELAY_S = 1 # We can be a bit faster as we are loading pages fully
 
-# ==============================================================================
-# THE NPTEL SCRAPER ENGINE (SELENIUM EDITION)
-# ==============================================================================
 
 class NptelScraper:
     def __init__(self):
@@ -38,16 +30,13 @@ class NptelScraper:
         try:
             # webdriver-manager will automatically download and manage the correct driver
             self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-            print("✅ WebDriver initialized successfully.")
+            print("WebDriver initialized successfully.")
         except Exception as e:
-            print(f"❌ FATAL ERROR: Could not initialize Selenium WebDriver. Please ensure Chrome is installed.")
+            print(f"FATAL ERROR: Could not initialize Selenium WebDriver. Please ensure Chrome is installed.")
             print(f"   Error details: {e}")
             self.driver = None
 
     def get_dynamic_soup(self, url, wait_for_element=(By.TAG_NAME, 'body')):
-        """
-        Uses Selenium to load a page, wait for it to render, and then returns the soup.
-        """
         if not self.driver: return None
         try:
             # print(f"Fetching dynamic URL: {url}")
@@ -62,9 +51,6 @@ class NptelScraper:
             return None
             
     def discover_course_links(self):
-        """
-        Stage 1: Navigates the portal to find and collect all individual CS course URLs.
-        """
         print("\n--- STAGE 1: Discovering all CS course links (using Selenium) ---")
         
         # Go to the main portal and wait for the course category links to appear
@@ -90,7 +76,7 @@ class NptelScraper:
         course_links = [tag.get('href') for tag in course_list_soup.find_all('a', class_='course-link') if tag.get('href')]
         unique_course_links = sorted(list(set(course_links)))
         
-        print(f"✅ Discovered {len(unique_course_links)} unique course links.")
+        print(f"Discovered {len(unique_course_links)} unique course links.")
         return unique_course_links
 
     def parse_course_page(self, url):
@@ -134,10 +120,9 @@ class NptelScraper:
         file_path = os.path.join(output_dir, safe_filename)
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"  -> ✅ Saved data to '{file_path}'")
+        print(f"Saved data to '{file_path}'")
 
     def close(self):
-        """Closes the Selenium browser session."""
         if self.driver:
             self.driver.quit()
             print("\nWebDriver session closed.")

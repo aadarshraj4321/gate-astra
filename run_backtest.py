@@ -1,6 +1,3 @@
-# FILE NAME: run_backtest.py
-# VERSION 2.0: Corrected SyntaxError and improved data filtering logic.
-
 import os
 import sys
 import pandas as pd
@@ -10,7 +7,6 @@ import joblib
 from sklearn.metrics import mean_absolute_error
 from sqlalchemy import create_engine
 
-# --- Path setup ---
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 from statistical_analysis.create_features import FeatureEngineerV2
 from models import get_db_url

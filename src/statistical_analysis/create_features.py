@@ -1,6 +1,3 @@
-# FILE NAME: src/statistical_analysis/create_features.py
-# VERSION 2.0: Implements "Semantic Neighborhood" feature spreading.
-
 import os
 import sys
 import json
@@ -33,9 +30,6 @@ COLLECTION_NAME = "syllabus_vectors"
 NEIGHBORHOOD_SIZE = 10 # Find the top 10 neighbors
 DECAY_FACTOR = 0.8   # Each neighbor gets 80% of the score of the previous one
 
-# ==============================================================================
-# FEATURE ENGINEERING ENGINE (UPGRADED)
-# ==============================================================================
 
 class FeatureEngineerV2:
     def __init__(self):
@@ -164,7 +158,7 @@ def main(organizing_iit="IIT Delhi"):
         master_df = engineer.create_master_feature_set(organizing_iit)
         master_df.to_csv(OUTPUT_FILE, index=False)
         
-        print(f"\n✅ Master feature set (V2) created successfully for {organizing_iit}.")
+        print(f"\nMaster feature set (V2) created successfully for {organizing_iit}.")
         print(f"   Saved to: '{OUTPUT_FILE}'")
         
         print("\n--- Feature Preview (Sorted by combined score) ---")

@@ -1,7 +1,3 @@
-# FILE NAME: inject_syllabus.py
-# PURPOSE: To forcefully merge the topics from the platinum dataset into the official syllabus.
-# THIS IS THE FINAL DATA PREPARATION STEP.
-
 import json
 from src.data_ingestion.syllabus_data import ALL_SYLLABUS_DATA
 
@@ -56,7 +52,7 @@ def inject_and_create_ultimate_syllabus():
     
     print(f"Discovered and injected {new_topics_found} new, detailed topics from your dataset.")
     
-    # Step 4: Write the new, ultimate syllabus file
+ 
     final_syllabus_list = list(ultimate_syllabus_map.values())
     print(f"The new ultimate syllabus will have {len(final_syllabus_list)} total topics.")
     
@@ -65,12 +61,11 @@ def inject_and_create_ultimate_syllabus():
         f.write("# THIS IS THE ULTIMATE, AUTO-GENERATED SYLLABUS FILE\n")
         f.write("# It merges the official syllabus with the detailed topics from the platinum dataset.\n\n")
         f.write("ALL_SYLLABUS_DATA = [\n")
-        # Sort for consistency
         for item in sorted(final_syllabus_list, key=lambda x: str(x)):
             f.write(f"    {json.dumps(item)},\n")
         f.write("]\n")
 
-    print("\n✅✅✅ Ultimate syllabus created successfully! ✅✅✅")
+    print("\nUltimate syllabus created successfully!")
     print("======================================================")
 
 if __name__ == "__main__":

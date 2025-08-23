@@ -1,6 +1,3 @@
-# FILE NAME: src/student_tools/study_planner.py
-# VERSION 5.0: Definitive, feature-complete backend logic.
-
 import os
 import sys
 import pandas as pd
@@ -60,7 +57,7 @@ class StudyPlanner:
         
         subject_weights = features_df.groupby('subject')['predicted_weight'].sum()
         self.prediction_df = subject_weights.reset_index()
-        print("✅ Prediction generated and aggregated by subject.")
+        print("Prediction generated and aggregated by subject.")
 
     def create_plan(self, user_proficiency_map):
         """Generates the personalized study plan."""
@@ -95,7 +92,7 @@ class DrillGenerator:
         genai.configure(api_key=gemini_api_key)
         safety_settings=[{"category": c, "threshold": "BLOCK_NONE"} for c in ["HARM_CATEGORY_HARASSMENT", "HARM_CATEGORY_HATE_SPEECH", "HARM_CATEGORY_SEXUALLY_EXPLICIT", "HARM_CATEGORY_DANGEROUS_CONTENT"]]
         self.gemini_model = genai.GenerativeModel(GEMINI_MODEL_NAME, safety_settings=safety_settings)
-        print("✅ Gemini model initialized for Drill Generator.")
+        print("Gemini model initialized for Drill Generator.")
 
     def analyze_weaknesses(self, mock_test_csv_path):
         """Reads a mock test result CSV and identifies the top weak topics."""
@@ -113,7 +110,7 @@ class DrillGenerator:
         merged_df = pd.merge(weakness_df, self.prediction_df, on='subject', how='inner')
         merged_df['weakness_priority'] = merged_df['error_rate'] * merged_df['predicted_weight']
         top_weaknesses = merged_df.sort_values(by='weakness_priority', ascending=False).head(NUM_WEAK_TOPICS_TO_TARGET)
-        print(f"✅ Identified top {len(top_weaknesses)} weaknesses to target.")
+        print(f"Identified top {len(top_weaknesses)} weaknesses to target.")
         return top_weaknesses['subject'].tolist()
 
     def generate_drill_set(self, weak_topics):
@@ -138,7 +135,7 @@ class DrillGenerator:
                 drill_set.extend(generated_qs)
                 time.sleep(2)
             except Exception as e:
-                print(f"\n  -> ⚠️ WARNING: Could not generate questions for '{topic}'. Error: {e}")
+                print(f"\nWARNING: Could not generate questions for '{topic}'. Error: {e}")
         
         return drill_set
 
@@ -168,7 +165,7 @@ if __name__ == "__main__":
                 if not os.path.exists(GENERATION_DIR): os.makedirs(GENERATION_DIR)
                 with open(output_path, 'w') as f: json.dump(drill_questions, f, indent=4)
                 print("\n--- PERSONALIZED DRILL SET COMPLETE ---")
-                print(f"✅ Generated {len(drill_questions)} questions targeting specific weaknesses.")
-                print(f"✅ Saved to '{output_path}'.")
+                print(f"Generated {len(drill_questions)} questions targeting specific weaknesses.")
+                print(f"Saved to '{output_path}'.")
     else:
         print(f"\nCould not find sample CSV for drill generator test at: {sample_csv_path}")

@@ -1,6 +1,3 @@
-# FILE NAME: inject_syllabus.py (Corrected and Final)
-# PURPOSE: To merge the topics from the platinum dataset into the official syllabus.
-
 import json
 import os, sys
 
@@ -69,7 +66,7 @@ def inject_and_create_ultimate_syllabus():
             f.write(f"    {json.dumps(item)},\n")
         f.write("]\n")
 
-    print("\n✅✅✅ Ultimate syllabus created successfully! ✅✅✅")
+    print("\nUltimate syllabus created successfully!")
     print("======================================================")
 
 if __name__ == "__main__":

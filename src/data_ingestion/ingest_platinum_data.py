@@ -1,6 +1,3 @@
-# FILE NAME: src/data_ingestion/ingest_platinum_data.py
-# VERSION: 3.0 (Final, Schema-Aware)
-
 import json
 import os
 import sys
@@ -17,10 +14,6 @@ DATASET_DIR = "final_dataset"
 DATASET_FILENAME = "platinum_dataset.json"
 
 def load_lookup_tables(session):
-    """
-    Loads Exams and Syllabus tables into memory for fast lookups.
-    VERSION 2.0: Now uses a more robust key for exams.
-    """
     print("Loading lookup tables (Exams, Syllabus) into memory...")
     
     # NEW, MORE ROBUST LOOKUP for exams: (year, subject, set) -> exam_id
@@ -49,10 +42,6 @@ def get_question_type(question_data):
     return "MCQ"
 
 def main():
-    """
-    Main function to orchestrate the ingestion of the platinum dataset.
-    VERSION 3.0: Works with the upgraded database schema.
-    """
     print("======================================================")
     print(" GATE-ASTRA: THE GREAT INGESTION (DAY 9 - FINAL RUN)")
     print("======================================================")
@@ -132,17 +121,17 @@ def main():
 
     print("\n--- FINAL DEBUG SUMMARY ---")
     if failed_exam_lookups:
-        print(f"🔴 {len(failed_exam_lookups)} unique EXAM lookups failed:")
+        print(f"{len(failed_exam_lookups)} unique EXAM lookups failed:")
         for key in sorted(list(failed_exam_lookups)): print(f"  - (Year: {key[0]}, Subject: '{key[1]}', Set: {key[2]})")
     if failed_topic_lookups:
-        print(f"🔴 {len(failed_topic_lookups)} unique TOPIC lookups failed.")
+        print(f"{len(failed_topic_lookups)} unique TOPIC lookups failed.")
     if not failed_exam_lookups and not failed_topic_lookups:
-        print("✅✅✅ ALL LOOKUPS WERE SUCCESSFUL! ✅✅✅")
+        print("ALL LOOKUPS WERE SUCCESSFUL!")
     
     if questions_added_count > 0:
         print(f"\nAttempting to commit {questions_added_count} questions...")
         session.commit()
-        print("✅ Commit successful!")
+        print("Commit successful!")
     else:
         print("\nNo new questions were added. Check the debug summary.")
     

@@ -40,7 +40,7 @@ class KnowledgeGraphBuilder:
         
         # Load our custom AI model
         self.embed_model = SentenceTransformer(FINE_TUNED_MODEL_PATH)
-        print("✅ All connections initialized.")
+        print("All connections initialized.")
 
     def close(self):
         """Closes the Neo4j database connection."""
@@ -52,7 +52,7 @@ class KnowledgeGraphBuilder:
         print("Wiping the entire Neo4j database clean...")
         with self.neo4j_driver.session() as session:
             session.run("MATCH (n) DETACH DELETE n")
-        print("✅ Graph wiped successfully.")
+        print("Graph wiped successfully.")
 
     def run_cypher_tx(self, query, parameters=None):
         """Helper function to run a transaction in Neo4j."""
@@ -65,7 +65,6 @@ class KnowledgeGraphBuilder:
         
         self.wipe_graph()
 
-        # --- PHASE 1: Create fundamental nodes (Syllabus, IITs) ---
         print("\n--- PHASE 1: Creating Syllabus and IIT nodes ---")
         all_syllabus = sql_session.query(Syllabus).all()
         all_exams = sql_session.query(Exam).all()
@@ -89,7 +88,7 @@ class KnowledgeGraphBuilder:
         for iit_name in tqdm(unique_iits, desc="Creating IIT nodes"):
             self.run_cypher_tx("MERGE (i:IIT {name: $name})", parameters={"name": iit_name})
             
-        print("✅ Fundamental nodes created.")
+        print("Fundamental nodes created.")
 
         # --- PHASE 2: Create Question nodes and link to Topics and IITs ---
         print("\n--- PHASE 2: Creating Question nodes and relationships ---")
@@ -109,7 +108,7 @@ class KnowledgeGraphBuilder:
                 "marks": q.marks,
                 "type": q.question_type
             })
-        print("✅ Question nodes and relationships created.")
+        print("Question nodes and relationships created.")
 
         # --- PHASE 3: Create Professor nodes and link to IITs ---
         print("\n--- PHASE 3: Creating Professor nodes and relationships ---")
@@ -129,7 +128,6 @@ class KnowledgeGraphBuilder:
                     "prof_name": prof.name
                 })
             
-            # --- PHASE 4: The Intelligent Link: Professor -> Topic ---
             print("\n--- PHASE 4: Creating intelligent Professor->Topic links ---")
             # Create vector embeddings for all of our syllabus topics
             topic_texts = [f"{t.subject} | {t.topic} | {t.sub_topic or 'General'}" for t in all_syllabus]
@@ -164,7 +162,7 @@ class KnowledgeGraphBuilder:
                             "confidence": float(similarities[index])
                         })
 
-            print("✅ Professor nodes and intelligent links created.")
+            print("Professor nodes and intelligent links created.")
 
         sql_session.close()
 

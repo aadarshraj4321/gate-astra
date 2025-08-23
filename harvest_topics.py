@@ -1,6 +1,3 @@
-# FILE NAME: harvest_topics.py
-# PURPOSE: To read your platinum dataset and create a new, definitive syllabus file.
-
 import json
 
 PLATINUM_DATASET_PATH = "final_dataset/platinum_dataset.json"
@@ -32,7 +29,6 @@ def harvest():
         })
         
     print("Writing new syllabus file...")
-    # Write the new data to a Python file
     with open(NEW_SYLLABUS_FILE_PATH, 'w', encoding='utf-8') as f:
         f.write("# This file was auto-generated from your platinum dataset.\n")
         f.write("# This is the new, definitive source of truth for the syllabus.\n\n")
@@ -41,7 +37,7 @@ def harvest():
             f.write(f"    {json.dumps(item)},\n")
         f.write("]\n")
         
-    print(f"✅ New syllabus created at: {NEW_SYLLABUS_FILE_PATH}")
+    print(f"New syllabus created at: {NEW_SYLLABUS_FILE_PATH}")
 
 if __name__ == "__main__":
     harvest()

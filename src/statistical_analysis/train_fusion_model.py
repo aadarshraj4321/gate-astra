@@ -1,6 +1,3 @@
-# FILE NAME: src/statistical_analysis/train_fusion_model.py
-# VERSION 2.1: Corrected scikit-learn version compatibility issue.
-
 import os
 import sys
 import pandas as pd
@@ -76,11 +73,11 @@ def create_training_dataset():
     engineer.close()
     
     if not all_years_data:
-        print("❌ No data was generated for training. Halting.")
+        print("No data was generated for training. Halting.")
         return pd.DataFrame()
 
     master_training_df = pd.concat(all_years_data, ignore_index=True)
-    print("\n✅ Master training dataset created successfully.")
+    print("\nMaster training dataset created successfully.")
     print(f"   Total training examples (Topics * Years): {len(master_training_df)}")
     return master_training_df
 
@@ -127,7 +124,7 @@ def train_fusion_model(df):
     print("   (Lower RMSE is better. This shows the model's average prediction error.)")
     
     joblib.dump(xgbr, MODEL_OUTPUT_PATH)
-    print(f"✅ Fusion Engine model saved to '{MODEL_OUTPUT_PATH}'")
+    print(f"Fusion Engine model saved to '{MODEL_OUTPUT_PATH}'")
     
     return xgbr
 

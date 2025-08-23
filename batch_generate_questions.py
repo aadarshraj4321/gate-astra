@@ -1,11 +1,7 @@
-# FILE NAME: batch_generate_questions.py
-# VERSION 2.0: Now streams output in real-time for better user experience.
-
 import os
 import subprocess
 import sys
 
-# The list of all IITs we want to generate question banks for.
 ALL_IITS = [
     "IIT Bombay",
     "IIT Delhi",
@@ -35,7 +31,7 @@ def run_generation_for_all():
         output_path = os.path.join(GENERATION_DIR, output_filename)
         
         if os.path.exists(output_path):
-            print(f"✅ Mock question bank already exists at '{output_path}'. Skipping.")
+            print(f"Mock question bank already exists at '{output_path}'. Skipping.")
             continue
             
         command = [
@@ -46,7 +42,6 @@ def run_generation_for_all():
         ]
         
         try:
-            # --- THE NEW REAL-TIME LOGIC ---
             # We use Popen to start the process and have direct access to its output streams.
             process = subprocess.Popen(
                 command,
@@ -59,7 +54,7 @@ def run_generation_for_all():
             # Read and print stdout line by line as it comes in
             print("\n--- Live Output from Generation Script ---")
             for line in process.stdout:
-                print(line, end='') # The 'end=' prevents double newlines
+                print(line, end='') 
 
             # Wait for the process to finish and get the return code
             process.wait()
@@ -67,19 +62,18 @@ def run_generation_for_all():
             # Check for errors after the process is done
             if process.returncode != 0:
                 print("\n--- ERROR DETECTED ---")
-                print(f"❌ ERROR generating question bank for {iit_name}. The script exited with a non-zero code.")
+                print(f"ERROR generating question bank for {iit_name}. The script exited with a non-zero code.")
                 # Read any remaining error output
                 stderr_output = process.stderr.read()
                 print("--- Error Stream (stderr) ---")
                 print(stderr_output)
                 print("--------------------------")
             else:
-                 print(f"\n--- Generation for {iit_name} Complete ---")
-                 print(f"✅ Successfully generated question bank for {iit_name}.")
-            # --- END OF NEW LOGIC ---
+                 print(f"\nGeneration for {iit_name} Complete")
+                 print(f"Successfully generated question bank for {iit_name}.")
 
         except Exception as e:
-            print(f"\n❌ A critical error occurred while trying to run the subprocess for {iit_name}.")
+            print(f"\nA critical error occurred while trying to run the subprocess for {iit_name}.")
             print(f"   Error: {e}")
 
     print("\n======================================================")

@@ -1,6 +1,3 @@
-# FILE NAME: src/statistical_analysis/multiverse_simulator.py
-# VERSION 4.0: Added strict input validation. The Oracle is now honest.
-
 import json
 import os
 import sys
@@ -43,7 +40,7 @@ class MultiverseSimulator:
         # <<< NEW: Store the list of valid IITs >>>
         self.valid_iits = list(self.patterns['iit_biases'].keys())
         
-        print("✅ Patterns loaded successfully.")
+        print("Patterns loaded successfully.")
 
     def run_single_simulation(self, organizing_iit):
         biased_probs = self.base_probabilities.copy()
@@ -86,7 +83,7 @@ def main(organizing_iit="IIT Bombay"):
 
         # <<< NEW: STRICT INPUT VALIDATION >>>
         if organizing_iit not in simulator.valid_iits:
-            print(f"\n❌ FATAL ERROR: Invalid organizing IIT '{organizing_iit}'.")
+            print(f"\nFATAL ERROR: Invalid organizing IIT '{organizing_iit}'.")
             print("   This IIT was not found in our historical data.")
             print("\n   Please choose from one of the following valid options:")
             for iit in sorted(simulator.valid_iits):

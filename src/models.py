@@ -1,5 +1,3 @@
-# FILE NAME: src/models.py
-
 import os
 from sqlalchemy import (create_engine, Column, Integer, String, Float,
                           Boolean, Text, ForeignKey, ARRAY, UniqueConstraint)

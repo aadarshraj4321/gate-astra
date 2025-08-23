@@ -1,6 +1,3 @@
-# FILE NAME: src/statistical_analysis/analyze_history.py
-# VERSION 2.0: Now includes sub-topic probability analysis.
-
 import os
 import sys
 import pandas as pd
@@ -33,12 +30,11 @@ def analyze_historical_data():
     # --- Step 1: Connect and Query ---
     try:
         engine = create_engine(get_db_url())
-        print("✅ Connected to the database.")
+        print("Connected to the database.")
     except Exception as e:
-        print(f"❌ FATAL ERROR: Could not connect to database. Reason: {e}")
+        print(f"FATAL ERROR: Could not connect to database. Reason: {e}")
         return
 
-    # THE UPGRADED MASTER QUERY: Now selects topic and sub_topic
     query = """
     SELECT 
         q.marks,
@@ -53,7 +49,7 @@ def analyze_historical_data():
     """
     print("Executing master query to fetch all historical data...")
     df = pd.read_sql(query, engine)
-    print(f"✅ Fetched {len(df)} records for analysis.")
+    print(f"Fetched {len(df)} records for analysis.")
 
     # --- Step 2: Calculate Overall Subject Probabilities ---
     print("Calculating overall subject probabilities...")
@@ -88,7 +84,6 @@ def analyze_historical_data():
     mark_distribution['2_mark_prob'] = mark_distribution[2] / mark_distribution['total']
     mark_distribution_dict = mark_distribution[['1_mark_prob', '2_mark_prob']].to_dict('index')
 
-    # --- NEW Step 4.5: Calculate Sub-Topic Probabilities within each Subject ---
     print("Calculating sub-topic probabilities within each subject...")
     sub_topic_probabilities = {}
     
@@ -110,7 +105,7 @@ def analyze_historical_data():
         "overall_subject_probabilities": overall_subject_probabilities,
         "iit_biases": iit_biases,
         "mark_distribution_by_subject": mark_distribution_dict,
-        "sub_topic_probabilities_by_subject": sub_topic_probabilities, # <-- THE NEW DATA
+        "sub_topic_probabilities_by_subject": sub_topic_probabilities, 
         "metadata": {
             "total_questions_analyzed": len(df),
             "total_marks_analyzed": int(total_marks),
@@ -124,7 +119,7 @@ def analyze_historical_data():
     with open(OUTPUT_FILENAME, 'w', encoding='utf-8') as f:
         json.dump(final_patterns, f, indent=4)
         
-    print(f"✅ Historical patterns (V2) successfully analyzed and saved to '{OUTPUT_FILENAME}'")
+    print(f"Historical patterns (V2) successfully analyzed and saved to '{OUTPUT_FILENAME}'")
     print("======================================================")
 
 if __name__ == "__main__":

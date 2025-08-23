@@ -1,6 +1,3 @@
-# FILE NAME: find_mismatches.py
-# PURPOSE: To find the final 130 inconsistencies and generate a clear report.
-
 import json
 import os
 import sys
@@ -9,7 +6,6 @@ from sqlalchemy.orm import sessionmaker
 from tqdm import tqdm
 from difflib import get_close_matches
 
-# --- Imports ---
 try:
     sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
     from models import Base, Exam, Syllabus, Question, Option, get_db_url
@@ -17,7 +13,6 @@ except ImportError as e:
     print(f"FATAL ERROR: Could not import modules: {e}")
     sys.exit(1)
 
-# --- Configuration ---
 PLATINUM_DATASET_PATH = "final_dataset/platinum_dataset.json"
 FAILURE_REPORT_PATH = "final_mismatch_report.txt"
 
@@ -50,7 +45,6 @@ def find_final_mismatches():
 
     for question_data in tqdm(all_questions_data, desc="Analyzing"):
         exam_key = (question_data['paper_year'], question_data['paper_subject'], question_data.get('paper_set', 1))
-        # Use .strip() and safety checks to handle potential whitespace issues
         topic_key = (
             question_data.get('subject', '').strip(),
             question_data.get('topic', '').strip(),
@@ -75,9 +69,8 @@ def find_final_mismatches():
     session.close()
 
     # --- Final Report Generation ---
-    print("\n================= DIAGNOSTIC REPORT =================")
     if failure_report:
-        print(f"🔴 Found {len(failure_report)} inconsistencies to fix.")
+        print(f"Found {len(failure_report)} inconsistencies to fix.")
         print(f"   A detailed report has been generated: '{FAILURE_REPORT_PATH}'")
         with open(FAILURE_REPORT_PATH, 'w', encoding='utf-8') as f:
             f.write("ACTION: Open your platinum_dataset.json and for each entry below, update the subject/topic/sub_topic to exactly match the BEST GUESS.\n\n")
@@ -86,7 +79,7 @@ def find_final_mismatches():
                 f.write(f"  - YOUR VERSION (from JSON): {entry['failed_key_from_json']}\n")
                 f.write(f"  - BEST GUESS (from DB):   {entry['best_guess_from_db']}\n\n")
     else:
-        print("✅✅✅ No mismatches found! Your dataset is perfectly aligned with the database. ✅✅✅")
+        print("No mismatches found! Your dataset is perfectly aligned with the database")
         
     print("======================================================")
 

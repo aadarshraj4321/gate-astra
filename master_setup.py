@@ -1,8 +1,3 @@
-# FILE NAME: master_setup.py (The One Script to Rule Them All)
-# VERSION: 5.0 - Final & Unbreakable
-# PURPOSE: Wipes, creates, and populates the entire database from the platinum dataset.
-#          It builds the syllabus dynamically from YOUR data, guaranteeing a perfect match.
-
 import json
 import os
 import sys
@@ -10,7 +5,6 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from tqdm import tqdm
 
-# --- Imports ---
 try:
     sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
     from models import Base, Exam, Syllabus, Question, Option, get_db_url
@@ -22,7 +16,6 @@ except ImportError as e:
     print(f"Details: {e}")
     sys.exit(1)
 
-# --- Configuration ---
 PLATINUM_DATASET_PATH = "final_dataset/platinum_dataset.json"
 
 def get_question_type(d):
@@ -30,6 +23,8 @@ def get_question_type(d):
     if not d.get('options') or len(d['options']) == 0: return "NAT"
     if ';' in str(d.get('answer_key', "")): return "MSQ"
     return "MCQ"
+
+
 
 # ==============================================================================
 # THE MASTER FUNCTION
@@ -39,7 +34,6 @@ def setup_and_ingest_everything():
     print(" GATE-ASTRA: THE ULTIMATE DATABASE SETUP ENGINE")
     print("======================================================")
     
-    # --- PHASE 1: Connect to DB and WIPE EVERYTHING ---
     engine = create_engine(get_db_url())
     Session = sessionmaker(bind=engine)
     session = Session()
@@ -48,7 +42,6 @@ def setup_and_ingest_everything():
     Base.metadata.create_all(engine)
     print("✅ Tables wiped and new schema created successfully.")
 
-    # --- PHASE 2: HARVEST & POPULATE THE ULTIMATE SYLLABUS ---
     print("\n[PHASE 2/4] Harvesting syllabus directly from your platinum dataset...")
     with open(PLATINUM_DATASET_PATH, 'r', encoding='utf-8') as f:
         all_questions_data = json.load(f)
@@ -68,16 +61,14 @@ def setup_and_ingest_everything():
     ]
     session.bulk_save_objects(syllabus_objects)
     session.commit()
-    print("✅ Ultimate syllabus populated successfully.")
+    print("Ultimate syllabus populated successfully.")
 
-    # --- PHASE 3: Populate Exams Table ---
     print("\n[PHASE 3/4] Populating the 'Exams' table...")
     exam_objects = [Exam(**item) for item in EXAM_HISTORY]
     session.bulk_save_objects(exam_objects)
     session.commit()
-    print(f"✅ Populated {len(exam_objects)} exam records.")
+    print(f"Populated {len(exam_objects)} exam records.")
 
-    # --- PHASE 4: THE GUARANTEED INGESTION ---
     print("\n[PHASE 4/4] Ingesting Platinum Dataset with perfect lookups...")
     exams = session.query(Exam).all()
     exam_lookup = {(e.exam_year, e.paper_subject, e.paper_set): e.exam_id for e in exams}
@@ -120,10 +111,10 @@ def setup_and_ingest_everything():
     session.close()
 
     print("\n--- FINAL REPORT ---")
-    print(f"✅ Questions Added: {questions_added}")
-    print(f"✅ Options Added:   {options_added}")
-    print(f"🔴 Questions Skipped: {skipped}")
-    print("--- INGESTION COMPLETE ---")
+    print(f"Questions Added: {questions_added}")
+    print(f"Options Added:   {options_added}")
+    print(f"Questions Skipped: {skipped}")
+    print("INGESTION COMPLETE")
 
 if __name__ == "__main__":
     setup_and_ingest_everything()

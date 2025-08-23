@@ -1,6 +1,3 @@
-# FILE NAME: src/generation/question_generator.py
-# VERSION 3.1: Corrected Gemini model name for API stability.
-
 import os
 import sys
 import pandas as pd
@@ -18,9 +15,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from statistical_analysis.create_features import FeatureEngineerV2
 from models import get_db_url, Question
 
-# ==============================================================================
-# CONFIGURATION
-# ==============================================================================
+
 AI_DATA_DIR = "ai_model_files"
 GENERATION_DIR = "generation_results"
 FUSION_ENGINE_PATH = os.path.join(AI_DATA_DIR, "fusion_engine_v1.joblib")
@@ -29,10 +24,8 @@ NUM_HOT_TOPICS = 30
 EXAMPLES_PER_TOPIC = 3
 QUESTIONS_TO_GENERATE_PER_TOPIC = 5
 
-# <<< --- THE FIX IS HERE --- >>>
-# Use the stable, versioned model name.
+
 GEMINI_MODEL = "gemini-1.5-flash"
-# <<< --- END OF FIX --- >>>
 
 
 # ==============================================================================
@@ -72,9 +65,7 @@ Your response MUST be ONLY a single, raw JSON array containing {num_questions} q
 }}
 """
 
-# ==============================================================================
-# THE GENERATION PIPELINE CLASS
-# ==============================================================================
+
 class MockQuestionPipeline:
     def __init__(self, organizing_iit):
         print(f"--- Initializing Gemini-Powered Pipeline for {organizing_iit} ---")
@@ -99,7 +90,7 @@ class MockQuestionPipeline:
         features_df['predicted_weight'] = self.fusion_model.predict(features_df[feature_columns])
         features_df['predicted_weight'] = features_df['predicted_weight'].clip(lower=0)
         features_df['predicted_weight'] /= features_df['predicted_weight'].sum()
-        print("✅ Final prediction generated.")
+        print("Final prediction generated.")
         return features_df.sort_values(by='predicted_weight', ascending=False)
 
     def retrieve_example_questions(self, topic_id):
@@ -122,7 +113,7 @@ class MockQuestionPipeline:
                     "topic_name": row['topic_name'],
                     "example_questions": "\n---\n".join(examples)
                 })
-        print(f"\n✅ Pipeline complete. Created {len(generation_tasks)} tasks for Gemini.")
+        print(f"\nPipeline complete. Created {len(generation_tasks)} tasks for Gemini.")
         return generation_tasks
 
     def generate_mock_questions(self, tasks):
@@ -145,10 +136,10 @@ class MockQuestionPipeline:
                 all_mock_questions.extend(generated_qs)
                 time.sleep(2)
             except json.JSONDecodeError:
-                print(f"\n  -> ⚠️ WARNING: Gemini returned invalid JSON for topic '{task['topic_name']}'. Skipping.")
+                print(f"\nWARNING: Gemini returned invalid JSON for topic '{task['topic_name']}'. Skipping.")
                 print(f"     Raw response: {response_text[:100]}...")
             except Exception as e:
-                print(f"\n  -> ❌ WARNING: An API error occurred for topic '{task['topic_name']}'. Error: {e}")
+                print(f"\nWARNING: An API error occurred for topic '{task['topic_name']}'. Error: {e}")
 
         return all_mock_questions
 
@@ -170,8 +161,8 @@ def main(organizing_iit="IIT Kanpur"):
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(mock_questions, f, indent=4)
             print("\n--- MOCK QUESTION GENERATION COMPLETE ---")
-            print(f"✅ Generated a total of {len(mock_questions)} mock questions.")
-            print(f"✅ Saved to '{output_path}'.")
+            print(f"Generated a total of {len(mock_questions)} mock questions.")
+            print(f"Saved to '{output_path}'.")
     
     print("======================================================")
 

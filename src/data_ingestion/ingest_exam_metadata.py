@@ -1,6 +1,3 @@
-# FILE NAME: src/data_ingestion/ingest_exam_metadata.py
-# VERSION: 4.0 (Final, Corrected Keys, and Comprehensive List)
-
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import os
@@ -10,9 +7,7 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from models import Exam, get_db_url
 
-# This is the single source of truth for exam history.
-# The keys in this list of dictionaries (`exam_year`, `paper_subject`, etc.)
-# now EXACTLY MATCH the column names in the `Exam` model in `src/models.py`.
+
 EXAM_HISTORY = [
     {"exam_year": 2025, "paper_subject": "CS", "paper_set": 1, "organizing_iit": "IIT Roorkee"},
     {"exam_year": 2025, "paper_subject": "CS", "paper_set": 2, "organizing_iit": "IIT Roorkee"},
@@ -65,10 +60,6 @@ EXAM_HISTORY = [
 ]
 
 def populate_exams():
-    """
-    This function populates the Exams table.
-    It checks for existing entries to avoid creating duplicates.
-    """
     engine = create_engine(get_db_url())
     Session = sessionmaker(bind=engine)
     session = Session()
@@ -87,9 +78,9 @@ def populate_exams():
         if new_exams_to_add:
             session.bulk_save_objects(new_exams_to_add)
             session.commit()
-            print(f"✅ Added {len(new_exams_to_add)} new exam records to the database.")
+            print(f"Added {len(new_exams_to_add)} new exam records to the database.")
         else:
-            print("✅ 'Exams' table is already up to date.")
+            print("'Exams' table is already up to date.")
             
     except Exception as e:
         print(f"An error occurred while populating exams: {e}")

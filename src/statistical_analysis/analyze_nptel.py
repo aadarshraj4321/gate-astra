@@ -1,6 +1,3 @@
-# FILE NAME: src/statistical_analysis/analyze_nptel.py
-# VERSION 2.0: Now gracefully handles empty JSON files.
-
 import os
 import sys
 import json
@@ -12,9 +9,7 @@ from collections import defaultdict
 # --- Path setup ---
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-# ==============================================================================
-# CONFIGURATION
-# ==============================================================================
+
 NPTEL_DATA_DIR = "nptel_data"
 AI_DATA_DIR = "ai_model_files"
 ANALYSIS_DIR = "analysis_results"
@@ -41,23 +36,23 @@ def analyze_nptel_data():
     # --- Step 1: Load the AI tools ---
     print(f"Loading custom model from '{FINE_TUNED_MODEL_PATH}'...")
     if not os.path.exists(FINE_TUNED_MODEL_PATH):
-        print("❌ FATAL ERROR: Fine-tuned model not found. Please run Day 11 script.")
+        print("FATAL ERROR: Fine-tuned model not found. Please run Day 11 script.")
         return
     model = SentenceTransformer(FINE_TUNED_MODEL_PATH)
-    print("✅ Custom model loaded.")
+    print("Custom model loaded.")
 
     print(f"Connecting to Vector DB at '{VECTOR_DB_PATH}'...")
     try:
         client = chromadb.PersistentClient(path=VECTOR_DB_PATH)
         collection = client.get_collection(name=COLLECTION_NAME)
-        print(f"✅ Connected to ChromaDB collection '{COLLECTION_NAME}'. It contains {collection.count()} vectors.")
+        print(f"Connected to ChromaDB collection '{COLLECTION_NAME}'. It contains {collection.count()} vectors.")
     except Exception as e:
-        print(f"❌ FATAL ERROR: Could not connect to ChromaDB. Please run Day 12 script. Details: {e}")
+        print(f"FATAL ERROR: Could not connect to ChromaDB. Please run Day 12 script. Details: {e}")
         return
 
     # --- Step 2: Load and process all NPTEL course files ---
     if not os.path.isdir(NPTEL_DATA_DIR):
-        print(f"❌ FATAL ERROR: NPTEL data directory '{NPTEL_DATA_DIR}' not found.")
+        print(f"FATAL ERROR: NPTEL data directory '{NPTEL_DATA_DIR}' not found.")
         return
 
     all_lecture_titles = []
@@ -67,7 +62,6 @@ def analyze_nptel_data():
     for filename in nptel_files:
         filepath = os.path.join(NPTEL_DATA_DIR, filename)
         
-        # <<< --- THE FIX IS HERE --- >>>
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 # First, check if the file is empty
@@ -86,9 +80,8 @@ def analyze_nptel_data():
         except Exception as e:
             print(f"  -> WARNING: Could not process file {filename}. Reason: {e}")
             continue
-        # <<< --- END OF FIX --- >>>
 
-    print(f"✅ Extracted a total of {len(all_lecture_titles)} lecture titles for analysis.")
+    print(f"Extracted a total of {len(all_lecture_titles)} lecture titles for analysis.")
     if not all_lecture_titles:
         print("No lecture titles found to analyze. Halting.")
         return
@@ -111,7 +104,7 @@ def analyze_nptel_data():
     
     # --- Step 4: Save the final heatmap ---
     if not topic_heat_scores:
-        print("⚠️ WARNING: No heat scores were generated.")
+        print("WARNING: No heat scores were generated.")
         return
 
     final_heatmap = {}
@@ -135,7 +128,7 @@ def analyze_nptel_data():
     with open(OUTPUT_FILENAME, 'w', encoding='utf-8') as f:
         json.dump(sorted_heatmap, f, indent=4)
         
-    print(f"\n✅ NPTEL Academic Heatmap created successfully!")
+    print(f"\nNPTEL Academic Heatmap created successfully!")
     print(f"   - Total Topics with Heat: {len(sorted_heatmap)}")
     print(f"   - Saved to: '{OUTPUT_FILENAME}'")
     print("======================================================")
