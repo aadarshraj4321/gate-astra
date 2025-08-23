@@ -53,7 +53,10 @@ git clone [Your Repository URL]
 cd gate-astra
 
 
+
+
 ## Create the virtual environment
+
 python3 -m venv venv
 # Activate it
 # On macOS/Linux:
@@ -62,12 +65,17 @@ source venv/bin/activate
 # .\venv\Scripts\activate
 
 
+
+
 ## Install Dependencies
 pip install -r requirements.txt
 
 
 
+
+
 ## Set Up Environment Variables in .env file
+
 # PostgreSQL Database URL from Neon
 DATABASE_URL="postgresql://user:password@host:port/dbname"
 # Neo4j Graph Database Credentials from AuraDB
