@@ -6,6 +6,10 @@ import json
 import plotly.express as px
 import plotly.graph_objects as go
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 from student_tools.study_planner import StudyPlanner
 from data_ingestion.syllabus_data import ALL_SYLLABUS_DATA
