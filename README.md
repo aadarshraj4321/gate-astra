@@ -6,6 +6,7 @@ This project moves beyond simple historical analysis by synthesizing multiple la
 
 ---
 
+
 ## Core Features
 
 *   **Multi-Layered Prediction Engine:** Fuses several AI signals to produce a final, robust forecast:
@@ -50,3 +51,42 @@ Follow these steps to set up and run the GATE-Astra project locally.
 ```bash
 git clone [Your Repository URL]
 cd gate-astra
+
+```bash
+## Create the virtual environment
+python3 -m venv venv
+# Activate it
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows:
+# .\venv\Scripts\activate
+
+```bash
+## Install Dependencies
+pip install -r requirements.txt
+
+
+```bash
+## Set Up Environment Variables in .env file
+# PostgreSQL Database URL from Neon
+DATABASE_URL="postgresql://user:password@host:port/dbname"
+# Neo4j Graph Database Credentials from AuraDB
+NEO4J_URI="neo4j+s://xxxxxx.databases.neo4j.io"
+NEO4J_USERNAME="neo4j"
+NEO4J_PASSWORD="YourSuperSecretNeo4jPassword"
+# Google AI (Gemini) API Key from Google AI Studio
+GEMINI_API_KEY="Your-Gemini-API-Key-Goes-Here"
+
+
+```bash 
+## Build and Populate the Database
+python master_setup.py
+
+
+```bash
+## Generate the Mock Question Arsenal
+python batch_generate_questions.py
+
+```bash
+## Run GATE-Astra
+streamlit run app.py
