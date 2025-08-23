@@ -20,3 +20,4 @@ webdriver-manager
 xgboost
 google-generativeai
 streamlit
+plotly
