@@ -52,7 +52,7 @@ Follow these steps to set up and run the GATE-Astra project locally.
 git clone [Your Repository URL]
 cd gate-astra
 
-```bash
+
 ## Create the virtual environment
 python3 -m venv venv
 # Activate it
@@ -61,12 +61,12 @@ source venv/bin/activate
 # On Windows:
 # .\venv\Scripts\activate
 
-```bash
+
 ## Install Dependencies
 pip install -r requirements.txt
 
 
-```bash
+
 ## Set Up Environment Variables in .env file
 # PostgreSQL Database URL from Neon
 DATABASE_URL="postgresql://user:password@host:port/dbname"
@@ -78,15 +78,15 @@ NEO4J_PASSWORD="YourSuperSecretNeo4jPassword"
 GEMINI_API_KEY="Your-Gemini-API-Key-Goes-Here"
 
 
-```bash 
+
 ## Build and Populate the Database
 python master_setup.py
 
 
-```bash
+
 ## Generate the Mock Question Arsenal
 python batch_generate_questions.py
 
-```bash
+
 ## Run GATE-Astra
 streamlit run app.py
